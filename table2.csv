@@ -1,0 +1,2492 @@
+data,nome,peso,repeticao,cardio,tempo,peso_add,rep_add
+05/09/23,Stiff,42,12,,,,
+05/09/23,Stiff,42,12,,,,
+05/09/23,Stiff,42,11,,,,
+05/09/23,Stiff,42,10,,,,
+05/09/23,Flexao De Joelho Na Extensora,9,12,,,,
+05/09/23,Flexao De Joelho Na Extensora,9,10,,,,
+05/09/23,Flexao De Joelho Na Extensora,9,10,,,,
+05/09/23,Flexao De Joelho Na Extensora,9,9,,,,
+05/09/23,Bom Dia,20,12,,,,
+05/09/23,Bom Dia,20,10,,,,
+05/09/23,Bom Dia,20,10,,,,
+05/09/23,Bom Dia,20,11,,,,
+05/09/23,Mesa Flexora,41,12,,,,
+05/09/23,Mesa Flexora,45,10,,,,
+05/09/23,Mesa Flexora,45,8,,,,
+05/09/23,Mesa Flexora,45,8,,,,
+05/09/23,Agachamento Smith,50,12,,,,
+05/09/23,Agachamento Smith,50,10,,,,
+05/09/23,Agachamento Smith,50,10,,,,
+05/09/23,Agachamento Smith,50,10,,,,
+05/09/23,Afundo Bulgaro,10,12,,,,
+05/09/23,Afundo Bulgaro,10,10,,,,
+05/09/23,Afundo Bulgaro,10,10,,,,
+05/09/23,Leg 45,200,10,,,,
+05/09/23,Leg 45,200,10,,,,
+05/09/23,Leg 45,200,10,,,,
+05/09/23,Leg 45,200,10,,,,
+05/09/23,Agachamento Sumo,36,11,,,,
+05/09/23,Agachamento Sumo,36,11,,,,
+05/09/23,Agachamento Sumo,36,10,,,,
+05/09/23,Agachamento Sumo,36,10,,,,
+06/09/2023,Remada Baixa,82,12,,,,
+06/09/2023,Remada Baixa,86,12,,,,
+06/09/2023,Remada Baixa,86,12,,,,
+06/09/2023,Remada Baixa,86,12,,,,
+06/09/2023,Remada Curvada Com Barra,30,12,,,,
+06/09/2023,Remada Curvada Com Barra,35,12,,,,
+06/09/2023,Remada Curvada Com Barra,35,10,,,,
+06/09/2023,Remada Curvada Com Barra,35,10,,,,
+06/09/2023,Remada No Smith,15,,,,,
+06/09/2023,Remada No Smith,12,,,,,
+06/09/2023,Remada No Smith,10,,,,,
+06/09/2023,Remada No Smith,11,,,,,
+06/09/2023,Pulldown,45,10,,,,
+06/09/2023,Pulldown,45,12,,,,
+06/09/2023,Pulldown,50,10,,,,
+06/09/2023,Pulldown,50,10,,,,
+06/09/2023,Rosca Unilateral Na Polia,9,12,,,,
+06/09/2023,Rosca Unilateral Na Polia,14,12,,,,
+06/09/2023,Rosca Unilateral Na Polia,16,12,,,,
+06/09/2023,Rosca Unilateral Na Polia,18,11,,,,
+06/09/2023,Puxador Aberto,59,12,,,,
+06/09/2023,Puxador Aberto,59,10,,,,
+06/09/2023,Puxador Aberto,59,8,,,,
+06/09/2023,Puxador Aberto,59,8,,,,
+06/09/2023,Puxador Aberto,45,4,,,,
+06/09/2023,Puxador Aberto,32,5,,,,
+06/09/2023,Rosca Direta Barra,30,9,,,,
+06/09/2023,Rosca Direta Barra,26,11,,,,
+06/09/2023,Rosca Direta Barra,26,10,,,,
+06/09/2023,Rosca Direta Barra,26,10,,,,
+06/09/2023,Rosca Punho,14,10,,,,
+06/09/2023,Rosca Punho,14,10,,,,
+06/09/2023,Rosca Punho,14,9,,,,
+06/09/2023,Rosca Punho,14,8,,,,
+06/09/2023,Rosca Scott,22,7,,,,
+06/09/2023,Rosca Scott,22,8,,,,
+06/09/2023,Rosca Scott,22,7,,,,
+06/09/2023,Rosca Scott,22,6,,,,
+08/09/2023,Triceps Kickback,9,12,,,,
+08/09/2023,Triceps Kickback,14,11,,,,
+08/09/2023,Triceps Kickback,14,11,,,,
+08/09/2023,Triceps Kickback,14,10,,,,
+08/09/2023,Obliquo Cross-Over,23,12,,,,
+08/09/2023,Obliquo Cross-Over,41,12,,,,
+08/09/2023,Obliquo Cross-Over,45,12,,,,
+08/09/2023,Obliquo Cross-Over,50,12,,,,
+08/09/2023,Abdominal Na Polia Alta,32,12,,,,
+08/09/2023,Abdominal Na Polia Alta,36,12,,,,
+08/09/2023,Abdominal Na Polia Alta,32,12,,,,
+08/09/2023,Abdominal Na Polia Alta,36,12,,,,
+08/09/2023,Triceps Testa Na Corda,32,12,,,,
+08/09/2023,Triceps Testa Na Corda,36,8,,,,
+08/09/2023,Triceps Testa Na Corda,32,10,,,,
+08/09/2023,Triceps Testa Na Corda,32,10,,,,
+08/09/2023,Crucifixo Adutor Na Polia,14,12,,,,
+08/09/2023,Crucifixo Adutor Na Polia,17,10,,,,
+08/09/2023,Crucifixo Adutor Na Polia,17,9,,,,
+08/09/2023,Crucifixo Adutor Na Polia,17,8,,,,
+08/09/2023,Mergulho Perna Estendida,20,63,,,,
+08/09/2023,Mergulho Perna Estendida,16,63,,,,
+08/09/2023,Mergulho Perna Estendida,14,63,,,,
+08/09/2023,Mergulho Perna Estendida,14,63,,,,
+08/09/2023,Supino Inclinado,12,20,,,,
+08/09/2023,Supino Inclinado,10,25,,,,
+08/09/2023,Supino Inclinado,9,25,,,,
+08/09/2023,Supino Inclinado,9,25,,,,
+08/09/2023,Abdominal Carrinho,12,,,,,
+08/09/2023,Abdominal Carrinho,12,,,,,
+08/09/2023,Abdominal Carrinho,10,,,,,
+08/09/2023,Abdominal Carrinho,10,,,,,
+09/09/2023,Hack,60,12,,,,
+09/09/2023,Hack,60,12,,,,
+09/09/2023,Hack,60,12,,,,
+09/09/2023,Hack,60,12,,,,
+09/09/2023,Elevacao De Quadril,40,10,,,,
+09/09/2023,Elevacao De Quadril,40,10,,,,
+09/09/2023,Elevacao De Quadril,40,10,,,,
+09/09/2023,Elevacao De Quadril,40,10,,,,
+09/09/2023,Levantamento Terra,40,10,,,,
+09/09/2023,Levantamento Terra,40,10,,,,
+09/09/2023,Levantamento Terra,40,10,,,,
+09/09/2023,Levantamento Terra,40,10,,,,
+09/09/2023,Elevacao Lateral,3pin,12,,,,
+09/09/2023,Elevacao Lateral,3pin,12,,,,
+09/09/2023,Elevacao Lateral,3pin,11,,,,
+09/09/2023,Elevacao Lateral,3pin,10,,,,
+09/09/2023,Elevacao Frontal Com Halteres,12,12,,,,
+09/09/2023,Elevacao Frontal Com Halteres,12,10,,,,
+09/09/2023,Elevacao Frontal Com Halteres,12,10,,,,
+09/09/2023,Elevacao Frontal Com Halteres,12,10,,,,
+09/09/2023,Remada Unilateral Com Halter,20,12,,,,
+09/09/2023,Remada Unilateral Com Halter,20,12,,,,
+09/09/2023,Remada Unilateral Com Halter,20,12,,,,
+09/09/2023,Remada Unilateral Com Halter,20,12,,,,
+09/09/2023,Puxada Frente Triangulo,59,12,,,,
+09/09/2023,Puxada Frente Triangulo,59,10,,,,
+09/09/2023,Puxada Frente Triangulo,59,8,,,,
+09/09/2023,Puxada Frente Triangulo,59,7,,,,
+09/09/2023,Biceps Curl Machine,36,12,,,,
+09/09/2023,Biceps Curl Machine,41,10,,,,
+09/09/2023,Biceps Curl Machine,41,10,,,,
+09/09/2023,Biceps Curl Machine,41,10,,,,
+09/09/2023,Biceps Martelo,12,12,,,,
+09/09/2023,Biceps Martelo,12,12,,,,
+09/09/2023,Biceps Martelo,12,10,,,,
+09/09/2023,Biceps Martelo,12,10,,,,
+11/09/2023,Flexao De Braco,15,12,,,,
+11/09/2023,Flexao De Braco,15,12,,,,
+11/09/2023,Flexao De Braco,15,12,,,,
+11/09/2023,Flexao De Braco,15,12,,,,
+11/09/2023,Supino Inclinado,25,12,,,,
+11/09/2023,Supino Inclinado,25,10,,,,
+11/09/2023,Supino Inclinado,25,8,,,,
+11/09/2023,Supino Inclinado,25,7,,,,
+11/09/2023,Supino Reto Halter,24,11,,,,
+11/09/2023,Supino Reto Halter,24,10,,,,
+11/09/2023,Supino Reto Halter,24,10,,,,
+11/09/2023,Supino Reto Halter,24,10,,,,
+11/09/2023,Crucifixo Voador,79,10,,,,
+11/09/2023,Crucifixo Voador,73,9,,,,
+11/09/2023,Crucifixo Voador,73,9,,,,
+11/09/2023,Crucifixo Voador,73,9,,,,
+11/09/2023,Crucifixo Voador,59,6,,,,
+11/09/2023,Crucifixo Voador,45,5,,,,
+11/09/2023,Desenvolvimento Arnold,12,12,,,,
+11/09/2023,Desenvolvimento Arnold,12,11,,,,
+11/09/2023,Desenvolvimento Arnold,12,10,,,,
+11/09/2023,Desenvolvimento Arnold,12,10,,,,
+11/09/2023,Desenvolvimento Com Barra,8,26,,,,
+11/09/2023,Desenvolvimento Com Barra,10,22,,,,
+11/09/2023,Desenvolvimento Com Barra,10,22,,,,
+11/09/2023,Desenvolvimento Com Barra,10,22,,,,
+11/09/2023,Elevacao Frontal,12,10.2,,,,
+11/09/2023,Elevacao Frontal,12,10.2,,,,
+11/09/2023,Elevacao Frontal,12,10.2,,,,
+11/09/2023,Elevacao Frontal,11,10.2,,,,
+11/09/2023,Crucifixo Abdutor Na Polia Unilateral,12,3.4,,,,
+11/09/2023,Crucifixo Abdutor Na Polia Unilateral,12,3.4,,,,
+11/09/2023,Crucifixo Abdutor Na Polia Unilateral,12,3.4,,,,
+11/09/2023,Crucifixo Abdutor Na Polia Unilateral,11,3.4,,,,
+12/09/2023,Stiff,46,12,,,,
+12/09/2023,Stiff,46,12,,,,
+12/09/2023,Stiff,46,11,,,,
+12/09/2023,Stiff,46,11,,,,
+12/09/2023,Flexao De Joelho Na Extensora,11,12,,,,
+12/09/2023,Flexao De Joelho Na Extensora,11,12,,,,
+12/09/2023,Flexao De Joelho Na Extensora,11,10,,,,
+12/09/2023,Flexao De Joelho Na Extensora,11,9,,,,
+12/09/2023,Bom Dia,25,12,,,,
+12/09/2023,Bom Dia,25,10,,,,
+12/09/2023,Bom Dia,25,10,,,,
+12/09/2023,Bom Dia,25,10,,,,
+12/09/2023,Mesa Flexora,41,12,,,,
+12/09/2023,Mesa Flexora,45,10,,,,
+12/09/2023,Mesa Flexora,45,8,,,,
+12/09/2023,Mesa Flexora,45,8,,,,
+12/09/2023,Agachamento Smith,55,12,,,,
+12/09/2023,Agachamento Smith,50,10,,,,
+12/09/2023,Agachamento Smith,50,10,,,,
+12/09/2023,Afundo Bulgaro,20,8,,,,
+12/09/2023,Afundo Bulgaro,20,8,,,,
+12/09/2023,Afundo Bulgaro,20,8,,,,
+12/09/2023,Extensora Isometria,54,8,,,,
+12/09/2023,Extensora Isometria,45,10,,,,
+12/09/2023,Extensora Isometria,45,10,,,,
+12/09/2023,Extensora Isometria,45,10,,,,
+12/09/2023,Leg 45,200,10,,,,
+12/09/2023,Leg 45,200,10,,,,
+12/09/2023,Leg 45,200,10,,,,
+12/09/2023,Leg 45,200,10,,,,
+12/09/2023,Agachamento Sumo,36,11,,,,
+12/09/2023,Agachamento Sumo,36,11,,,,
+12/09/2023,Agachamento Sumo,36,10,,,,
+12/09/2023,Agachamento Sumo,36,10,,,,
+13/09/2023,Remada Baixa,91,12,,,,
+13/09/2023,Remada Baixa,91,12,,,,
+13/09/2023,Remada Baixa,91,12,,,,
+13/09/2023,Remada Baixa,91,12,,,,
+13/09/2023,Remada Curvada Com Barra,40,12,,,,
+13/09/2023,Remada Curvada Com Barra,40,9,,,,
+13/09/2023,Remada Curvada Com Barra,40,10,,,,
+13/09/2023,Remada Curvada Com Barra,40,9,,,,
+13/09/2023,Remada No Smith,17,,,,,
+13/09/2023,Remada No Smith,15,,,,,
+13/09/2023,Remada No Smith,14,,,,,
+13/09/2023,Remada No Smith,12,,,,,
+13/09/2023,Pulldown,50,12,,,,
+13/09/2023,Pulldown,52,12,,,,
+13/09/2023,Pulldown,54,12,,,,
+13/09/2023,Pulldown,56,12,,,,
+13/09/2023,Rosca Unilateral Na Polia,18,12,,,,
+13/09/2023,Rosca Unilateral Na Polia,21,12,,,,
+13/09/2023,Rosca Unilateral Na Polia,23,12,,,,
+13/09/2023,Rosca Unilateral Na Polia,25,8,,,,
+13/09/2023,Puxador Aberto,61,11,,,,
+13/09/2023,Puxador Aberto,61,8,,,,
+13/09/2023,Puxador Aberto,61,10,,,,
+13/09/2023,Puxador Aberto,61,8,,,,
+13/09/2023,Puxador Aberto,47,5,,,,
+13/09/2023,Puxador Aberto,34,5,,,,
+13/09/2023,Rosca Direta Barra,28,11,,,,
+13/09/2023,Rosca Direta Barra,28,10,,,,
+13/09/2023,Rosca Direta Barra,28,9,,,,
+13/09/2023,Rosca Direta Barra,28,8,,,,
+13/09/2023,Rosca Punho,14,11,,,,
+13/09/2023,Rosca Punho,14,10,,,,
+13/09/2023,Rosca Punho,14,6,,,,
+13/09/2023,Rosca Punho,14,9,,,,
+13/09/2023,Rosca Scott,18,12,,,,
+13/09/2023,Rosca Scott,18,12,,,,
+13/09/2023,Rosca Scott,18,10,,,,
+13/09/2023,Rosca Scott,18,9,,,,
+14/09/2023,Triceps Kickback,14,12,,,,
+14/09/2023,Triceps Kickback,16,10,,,,
+14/09/2023,Triceps Kickback,16,10,,,,
+14/09/2023,Triceps Kickback,16,10,,,,
+14/09/2023,Obliquo Cross-Over,54,12,,,,
+14/09/2023,Obliquo Cross-Over,56,12,,,,
+14/09/2023,Obliquo Cross-Over,56,12,,,,
+14/09/2023,Obliquo Cross-Over,59,12,,,,
+14/09/2023,Abdominal Na Polia Alta,36,12,,,,
+14/09/2023,Abdominal Na Polia Alta,41,12,,,,
+14/09/2023,Abdominal Na Polia Alta,41,12,,,,
+14/09/2023,Abdominal Na Polia Alta,41,12,,,,
+14/09/2023,Triceps Testa Na Corda,36,12,,,,
+14/09/2023,Triceps Testa Na Corda,36,10,,,,
+14/09/2023,Triceps Testa Na Corda,36,10,,,,
+14/09/2023,Triceps Testa Na Corda,36,9,,,,
+14/09/2023,Crucifixo Adutor Na Polia,17,12,,,,
+14/09/2023,Crucifixo Adutor Na Polia,17,12,,,,
+14/09/2023,Crucifixo Adutor Na Polia,17,10,,,,
+14/09/2023,Crucifixo Adutor Na Polia,17,9,,,,
+14/09/2023,Mergulho Perna Estendida,17,63,,,,
+14/09/2023,Mergulho Perna Estendida,18,63,,,,
+14/09/2023,Mergulho Perna Estendida,17,63,,,,
+14/09/2023,Mergulho Perna Estendida,16,63,,,,
+14/09/2023,Supino Inclinado,12,25,,,,
+14/09/2023,Supino Inclinado,10,25,,,,
+14/09/2023,Supino Inclinado,9,25,,,,
+14/09/2023,Supino Inclinado,8,25,,,,
+14/09/2023,Abdominal Carrinho,12,,,,,
+14/09/2023,Abdominal Carrinho,12,,,,,
+14/09/2023,Abdominal Carrinho,12,,,,,
+14/09/2023,Abdominal Carrinho,12,,,,,
+15/09/2023,Hack,60,12,,,,
+15/09/2023,Hack,60,12,,,,
+15/09/2023,Hack,60,12,,,,
+15/09/2023,Hack,60,12,,,,
+15/09/2023,Leg 45,105,12,,,,
+15/09/2023,Leg 45,105,11,,,,
+15/09/2023,Leg 45,105,11,,,,
+15/09/2023,Leg 45,105,11,,,,
+15/09/2023,Elevacao De Quadril,40,10,,,,
+15/09/2023,Elevacao De Quadril,40,10,,,,
+15/09/2023,Elevacao De Quadril,40,10,,,,
+15/09/2023,Elevacao De Quadril,40,10,,,,
+15/09/2023,Levantamento Terra,40,11,,,,
+15/09/2023,Levantamento Terra,40,10,,,,
+15/09/2023,Levantamento Terra,40,10,,,,
+15/09/2023,Levantamento Terra,40,10,,,,
+15/09/2023,Elevacao Lateral,6.25,12,,,,
+15/09/2023,Elevacao Lateral,6.25,10,,,,
+15/09/2023,Elevacao Lateral,6.25,11,,,,
+15/09/2023,Elevacao Lateral,6.25,10,,,,
+15/09/2023,Elevacao Frontal Com Halteres,12,12,,,,
+15/09/2023,Elevacao Frontal Com Halteres,12,8,,,,
+15/09/2023,Elevacao Frontal Com Halteres,12,8,,,,
+15/09/2023,Elevacao Frontal Com Halteres,12,10,,,,
+15/09/2023,Remada Unilateral Com Halter,22,12,,,,
+15/09/2023,Remada Unilateral Com Halter,24,12,,,,
+15/09/2023,Remada Unilateral Com Halter,24,11,,,,
+15/09/2023,Remada Unilateral Com Halter,24,10,,,,
+15/09/2023,Puxada Frente Triangulo,59,12,,,,
+15/09/2023,Puxada Frente Triangulo,59,10,,,,
+15/09/2023,Puxada Frente Triangulo,59,8,,,,
+15/09/2023,Puxada Frente Triangulo,59,7,,,,
+15/09/2023,Biceps Curl Machine,40,12,,,,
+15/09/2023,Biceps Curl Machine,40,11,,,,
+15/09/2023,Biceps Curl Machine,40,10,,,,
+15/09/2023,Biceps Curl Machine,40,10,,,,
+15/09/2023,Biceps Martelo,12,12,,,,
+15/09/2023,Biceps Martelo,12,12,,,,
+15/09/2023,Biceps Martelo,12,10,,,,
+15/09/2023,Biceps Martelo,12,10,,,,
+18/09/2023,Flexao De Braco,15,15,,,,
+18/09/2023,Flexao De Braco,15,14,,,,
+18/09/2023,Flexao De Braco,15,14,,,,
+18/09/2023,Flexao De Braco,15,12,,,,
+18/09/2023,Flexao De Braco,15,11,,,,
+18/09/2023,Supino Inclinado,20,15,,,,
+18/09/2023,Supino Inclinado,20,12,,,,
+18/09/2023,Supino Inclinado,20,10,,,,
+18/09/2023,Supino Inclinado,20,20,,,,
+18/09/2023,Supino Inclinado,20,15,,,,
+18/09/2023,Supino Reto Halter,20,14,,,,
+18/09/2023,Supino Reto Halter,20,13,,,,
+18/09/2023,Supino Reto Halter,20,14,,,,
+18/09/2023,Supino Reto Halter,20,12,,,,
+18/09/2023,Supino Reto Halter,20,11,,,,
+18/09/2023,Crucifixo Voador,59,19,,,,
+18/09/2023,Crucifixo Voador,59,14,,,,
+18/09/2023,Crucifixo Voador,59,12,,,,
+18/09/2023,Crucifixo Voador,59,12,,,,
+18/09/2023,Crucifixo Voador,59,12,,,,
+18/09/2023,Crucifixo Voador,45,7,,,,
+18/09/2023,Crucifixo Voador,32,5,,,,
+18/09/2023,Desenvolvimento Arnold,10,18,,,,
+18/09/2023,Desenvolvimento Arnold,10,15,,,,
+18/09/2023,Desenvolvimento Arnold,10,13,,,,
+18/09/2023,Desenvolvimento Arnold,10,13,,,,
+18/09/2023,Desenvolvimento Arnold,10,12,,,,
+18/09/2023,Desenvolvimento Com Barra,18,20,,,,
+18/09/2023,Desenvolvimento Com Barra,18,19,,,,
+18/09/2023,Desenvolvimento Com Barra,18,18,,,,
+18/09/2023,Desenvolvimento Com Barra,18,15,,,,
+18/09/2023,Desenvolvimento Com Barra,18,14,,,,
+18/09/2023,Elevacao Frontal,7.9,18,,,,
+18/09/2023,Elevacao Frontal,7.9,18,,,,
+18/09/2023,Elevacao Frontal,7.9,16,,,,
+18/09/2023,Elevacao Frontal,7.9,16,,,,
+18/09/2023,Elevacao Frontal,7.9,15,,,,
+18/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,15,,,,
+18/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,14,,,,
+18/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,14,,,,
+18/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,12,,,,
+18/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,12,,,,
+19/09/2023,Stiff,48,12,,,,
+19/09/2023,Stiff,48,12,,,,
+19/09/2023,Stiff,48,12,,,,
+19/09/2023,Stiff,48,11,,,,
+19/09/2023,Flexao De Joelho Na Extensora,14,11,,,,
+19/09/2023,Flexao De Joelho Na Extensora,14,11,,,,
+19/09/2023,Flexao De Joelho Na Extensora,14,9,,,,
+19/09/2023,Flexao De Joelho Na Extensora,14,8,,,,
+19/09/2023,Bom Dia,30,12,,,,
+19/09/2023,Bom Dia,30,10,,,,
+19/09/2023,Bom Dia,30,10,,,,
+19/09/2023,Bom Dia,30,8,,,,
+19/09/2023,Agachamento Smith,50,12,,,,
+19/09/2023,Agachamento Smith,50,11,,,,
+19/09/2023,Agachamento Smith,50,11,,,,
+19/09/2023,Afundo Bulgaro,20,10,,,,
+19/09/2023,Afundo Bulgaro,20,8,,,,
+19/09/2023,Afundo Bulgaro,20,9,,,,
+19/09/2023,Extensora Isometria,45,11,,,,
+19/09/2023,Extensora Isometria,45,10,,,,
+19/09/2023,Extensora Isometria,45,10,,,,
+19/09/2023,Extensora Isometria,45,10,,,,
+19/09/2023,Leg 45,200,10,,,,
+19/09/2023,Leg 45,200,10,,,,
+19/09/2023,Leg 45,200,10,,,,
+19/09/2023,Leg 45,200,10,,,,
+19/09/2023,Agachamento Sumo,36,11,,,,
+19/09/2023,Agachamento Sumo,36,11,,,,
+19/09/2023,Agachamento Sumo,36,10,,,,
+19/09/2023,Agachamento Sumo,36,10,,,,
+20/09/2023,Remada Baixa,73,20,,,,
+20/09/2023,Remada Baixa,79,19,,,,
+20/09/2023,Remada Baixa,79,18,,,,
+20/09/2023,Remada Baixa,79,18,,,,
+20/09/2023,Remada Baixa,79,18,,,,
+20/09/2023,Remada Curvada Com Barra,32,18,,,,
+20/09/2023,Remada Curvada Com Barra,32,17,,,,
+20/09/2023,Remada Curvada Com Barra,32,14,,,,
+20/09/2023,Remada Curvada Com Barra,32,13,,,,
+20/09/2023,Remada Curvada Com Barra,32,12,,,,
+20/09/2023,Remada No Smith,18,,,,,
+20/09/2023,Remada No Smith,16,,,,,
+20/09/2023,Remada No Smith,14,,,,,
+20/09/2023,Remada No Smith,13,,,,,
+20/09/2023,Pulldown,43,20,,,,
+20/09/2023,Pulldown,43,18,,,,
+20/09/2023,Pulldown,43,18,,,,
+20/09/2023,Pulldown,43,18,,,,
+20/09/2023,Rosca Unilateral Na Polia,18,16,,,,
+20/09/2023,Rosca Unilateral Na Polia,18,15,,,,
+20/09/2023,Rosca Unilateral Na Polia,18,15,,,,
+20/09/2023,Rosca Unilateral Na Polia,18,14,,,,
+20/09/2023,Puxador Aberto,49,15,,,,
+20/09/2023,Puxador Aberto,49,15,,,,
+20/09/2023,Puxador Aberto,49,11,,,,
+20/09/2023,Puxador Aberto,49,11,,,,
+20/09/2023,Puxador Aberto,49,10,,,,
+20/09/2023,Puxador Aberto,44,5,,,,
+20/09/2023,Rosca Direta Barra,22,18,,,,
+20/09/2023,Rosca Direta Barra,22,15,,,,
+20/09/2023,Rosca Direta Barra,22,12,,,,
+20/09/2023,Rosca Direta Barra,22,12,,,,
+20/09/2023,Rosca Direta Barra,22,12,,,,
+20/09/2023,Rosca Punho,14,11,,,,
+20/09/2023,Rosca Punho,14,10,,,,
+20/09/2023,Rosca Punho,14,6,,,,
+20/09/2023,Rosca Punho,14,9,,,,
+20/09/2023,Rosca Scott,18,17,,,,
+20/09/2023,Rosca Scott,18,12,,,,
+20/09/2023,Rosca Scott,14,16,,,,
+20/09/2023,Rosca Scott,14,15,,,,
+20/09/2023,Rosca Scott,14,12,,,,
+22/09/2023,Triceps Kickback,11,20,,,,
+22/09/2023,Triceps Kickback,11,16,,,,
+22/09/2023,Triceps Kickback,11,15,,,,
+22/09/2023,Triceps Kickback,11,16,,,,
+22/09/2023,Triceps Kickback,11,13,,,,
+22/09/2023,Obliquo Cross-Over,42,20,,,,
+22/09/2023,Obliquo Cross-Over,42,15,,,,
+22/09/2023,Obliquo Cross-Over,42,16,,,,
+22/09/2023,Obliquo Cross-Over,42,18,,,,
+22/09/2023,Obliquo Cross-Over,42,14,,,,
+22/09/2023,Abdominal Na Polia Alta,32,18,,,,
+22/09/2023,Abdominal Na Polia Alta,32,18,,,,
+22/09/2023,Abdominal Na Polia Alta,34,20,,,,
+22/09/2023,Abdominal Na Polia Alta,34,20,,,,
+22/09/2023,Abdominal Na Polia Alta,34,20,,,,
+22/09/2023,Triceps Testa Na Corda,29,16,,,,
+22/09/2023,Triceps Testa Na Corda,29,16,,,,
+22/09/2023,Triceps Testa Na Corda,29,16,,,,
+22/09/2023,Triceps Testa Na Corda,29,14,,,,
+22/09/2023,Triceps Testa Na Corda,29,15,,,,
+22/09/2023,Crucifixo Adutor Na Polia,14.7,17,,,,
+22/09/2023,Crucifixo Adutor Na Polia,14.7,15,,,,
+22/09/2023,Crucifixo Adutor Na Polia,14.7,14,,,,
+22/09/2023,Crucifixo Adutor Na Polia,14.7,14,,,,
+22/09/2023,Crucifixo Adutor Na Polia,14.7,13,,,,
+22/09/2023,Mergulho Perna Estendida,18,63,,,,
+22/09/2023,Mergulho Perna Estendida,18,63,,,,
+22/09/2023,Mergulho Perna Estendida,17,63,,,,
+22/09/2023,Mergulho Perna Estendida,16,63,,,,
+22/09/2023,Supino Inclinado,20,18,,,,
+22/09/2023,Supino Inclinado,20,18,,,,
+22/09/2023,Supino Inclinado,20,15,,,,
+22/09/2023,Supino Inclinado,20,15,,,,
+22/09/2023,Supino Inclinado,20,17,,,,
+22/09/2023,Abdominal Carrinho,12,,,,,
+22/09/2023,Abdominal Carrinho,12,,,,,
+22/09/2023,Abdominal Carrinho,12,,,,,
+22/09/2023,Abdominal Carrinho,12,,,,,
+24/09/2023,Hack,70,12,,,,
+24/09/2023,Hack,70,12,,,,
+24/09/2023,Hack,70,12,,,,
+24/09/2023,Hack,70,12,,,,
+24/09/2023,Elevacao De Quadril,40,10,,,,
+24/09/2023,Elevacao De Quadril,40,10,,,,
+24/09/2023,Elevacao De Quadril,40,10,,,,
+24/09/2023,Elevacao De Quadril,40,10,,,,
+24/09/2023,Levantamento Terra,50,10,,,,
+24/09/2023,Levantamento Terra,50,8,,,,
+24/09/2023,Levantamento Terra,50,8,,,,
+24/09/2023,Levantamento Terra,50,8,,,,
+24/09/2023,Elevacao Lateral,5.7,12,,,,
+24/09/2023,Elevacao Lateral,5.7,12,,,,
+24/09/2023,Elevacao Lateral,5.7,12,,,,
+24/09/2023,Elevacao Lateral,6.25,10,,,,
+24/09/2023,Elevacao Frontal Com Halteres,10,11,,,,
+24/09/2023,Elevacao Frontal Com Halteres,10,10,,,,
+24/09/2023,Elevacao Frontal Com Halteres,10,9,,,,
+24/09/2023,Elevacao Frontal Com Halteres,12,10,,,,
+24/09/2023,Remada Unilateral Com Halter,26,12,,,,
+24/09/2023,Remada Unilateral Com Halter,26,12,,,,
+24/09/2023,Remada Unilateral Com Halter,26,12,,,,
+24/09/2023,Remada Unilateral Com Halter,26,12,,,,
+24/09/2023,Puxada Frente Triangulo,61,12,,,,
+24/09/2023,Puxada Frente Triangulo,61,10,,,,
+24/09/2023,Puxada Frente Triangulo,61,8,,,,
+24/09/2023,Puxada Frente Triangulo,61,8,,,,
+24/09/2023,Biceps Curl Machine,41,12,,,,
+24/09/2023,Biceps Curl Machine,41,12,,,,
+24/09/2023,Biceps Curl Machine,41,11,,,,
+24/09/2023,Biceps Curl Machine,41,11,,,,
+24/09/2023,Biceps Martelo,14,12,,,,
+24/09/2023,Biceps Martelo,14,12,,,,
+24/09/2023,Biceps Martelo,14,10,,,,
+24/09/2023,Biceps Martelo,14,10,,,,
+25/09/2023,Flexao De Braco,15,19,,,,
+25/09/2023,Flexao De Braco,15,17,,,,
+25/09/2023,Flexao De Braco,15,15,,,,
+25/09/2023,Flexao De Braco,15,15,,,,
+25/09/2023,Flexao De Braco,15,12,,,,
+25/09/2023,Supino Inclinado,25,17,,,,
+25/09/2023,Supino Inclinado,25,15,,,,
+25/09/2023,Supino Inclinado,25,13,,,,
+25/09/2023,Supino Inclinado,25,12,,,,
+25/09/2023,Supino Inclinado,25,12,,,,
+25/09/2023,Supino Reto Halter,22,14,,,,
+25/09/2023,Supino Reto Halter,22,10,,,,
+25/09/2023,Supino Reto Halter,22,10,,,,
+25/09/2023,Supino Reto Halter,22,10,,,,
+25/09/2023,Supino Reto Halter,22,10,,,,
+25/09/2023,Crucifixo Voador,59,19,,,,
+25/09/2023,Crucifixo Voador,59,16,,,,
+25/09/2023,Crucifixo Voador,59,13,,,,
+25/09/2023,Crucifixo Voador,59,12,,,,
+25/09/2023,Crucifixo Voador,59,11,,,,
+25/09/2023,Crucifixo Voador,45,7,,,,
+25/09/2023,Crucifixo Voador,32,6,,,,
+25/09/2023,Desenvolvimento Arnold,10,17,,,,
+25/09/2023,Desenvolvimento Arnold,10,17,,,,
+25/09/2023,Desenvolvimento Arnold,10,15,,,,
+25/09/2023,Desenvolvimento Arnold,10,13,,,,
+25/09/2023,Desenvolvimento Arnold,10,14,,,,
+25/09/2023,Desenvolvimento Com Barra Isometria,20,20,,,,
+25/09/2023,Desenvolvimento Com Barra Isometria,20,15,,,,
+25/09/2023,Desenvolvimento Com Barra Isometria,20,13,,,,
+25/09/2023,Desenvolvimento Com Barra Isometria,20,13,,,,
+25/09/2023,Desenvolvimento Com Barra Isometria,20,13,,,,
+25/09/2023,Elevacao Frontal,10.2,18,,,,
+25/09/2023,Elevacao Frontal,10.2,17,,,,
+25/09/2023,Elevacao Frontal,10.2,16,,,,
+25/09/2023,Elevacao Frontal,10.2,16,,,,
+25/09/2023,Elevacao Frontal,7.9,15,,,,
+25/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,20,,,,
+25/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,20,,,,
+25/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,20,,,,
+25/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,18,,,,
+25/09/2023,Crucifixo Abdutor Na Polia Unilateral,1,12,,,,
+27/09/2023,Remada Baixa,82,20,,,,
+27/09/2023,Remada Baixa,82,17,,,,
+27/09/2023,Remada Baixa,82,18,,,,
+27/09/2023,Remada Baixa,82,17,,,,
+27/09/2023,Remada Baixa,82,18,,,,
+27/09/2023,Remada Curvada Com Barra,35,15,,,,
+27/09/2023,Remada Curvada Com Barra,33,15,,,,
+27/09/2023,Remada Curvada Com Barra,33,14,,,,
+27/09/2023,Remada Curvada Com Barra,33,13,,,,
+27/09/2023,Remada Curvada Com Barra,33,13,,,,
+27/09/2023,Remada No Smith,19,,,,,
+27/09/2023,Remada No Smith,16,,,,,
+27/09/2023,Remada No Smith,15,,,,,
+27/09/2023,Remada No Smith,13,,,,,
+27/09/2023,Pulldown,45,20,,,,
+27/09/2023,Pulldown,45,18,,,,
+27/09/2023,Pulldown,45,18,,,,
+27/09/2023,Pulldown,45,18,,,,
+27/09/2023,Rosca Unilateral Na Polia,18,18,,,,
+27/09/2023,Rosca Unilateral Na Polia,18,15,,,,
+27/09/2023,Rosca Unilateral Na Polia,18,15,,,,
+27/09/2023,Rosca Unilateral Na Polia,18,15,,,,
+27/09/2023,Puxador Aberto,49,15,,,,
+27/09/2023,Puxador Aberto,49,15,,,,
+27/09/2023,Puxador Aberto,52,10,,,,
+27/09/2023,Puxador Aberto,52,10,,,,
+27/09/2023,Puxador Aberto,52,10,,,,
+27/09/2023,Puxador Aberto,44,5,,,,
+27/09/2023,Rosca Direta Barra,22,17,,,,
+27/09/2023,Rosca Direta Barra,22,15,,,,
+27/09/2023,Rosca Direta Barra,22,14,,,,
+27/09/2023,Rosca Direta Barra,22,14,,,,
+27/09/2023,Rosca Punho,14,12,,,,
+27/09/2023,Rosca Punho,14,12,,,,
+27/09/2023,Rosca Punho,14,12,,,,
+27/09/2023,Rosca Punho,14,11,,,,
+27/09/2023,Rosca Scott,14,14,,,,
+27/09/2023,Rosca Scott,14,15,,,,
+27/09/2023,Rosca Scott,14,15,,,,
+27/09/2023,Rosca Scott,14,15,,,,
+27/09/2023,Rosca Scott,14,12,,,,
+29/09/2023,Triceps Kickback,11,20,,,,
+29/09/2023,Triceps Kickback,11,18,,,,
+29/09/2023,Triceps Kickback,11,16,,,,
+29/09/2023,Triceps Kickback,11,15,,,,
+29/09/2023,Triceps Kickback,11,13,,,,
+29/09/2023,Obliquo Cross-Over,52,20,,,,
+29/09/2023,Obliquo Cross-Over,52,20,,,,
+29/09/2023,Obliquo Cross-Over,52,20,,,,
+29/09/2023,Obliquo Cross-Over,52,20,,,,
+29/09/2023,Obliquo Cross-Over,52,20,,,,
+29/09/2023,Abdominal Na Polia Alta,36,20,,,,
+29/09/2023,Abdominal Na Polia Alta,38,18,,,,
+29/09/2023,Abdominal Na Polia Alta,38,20,,,,
+29/09/2023,Abdominal Na Polia Alta,38,20,,,,
+29/09/2023,Abdominal Na Polia Alta,38,19,,,,
+29/09/2023,Triceps Testa Na Corda,29,20,,,,
+29/09/2023,Triceps Testa Na Corda,29,18,,,,
+29/09/2023,Triceps Testa Na Corda,29,15,,,,
+29/09/2023,Triceps Testa Na Corda,29,14,,,,
+29/09/2023,Triceps Testa Na Corda,29,12,,,,
+29/09/2023,Crucifixo Adutor Na Polia,14.7,20,,,,
+29/09/2023,Crucifixo Adutor Na Polia,14.7,17,,,,
+29/09/2023,Crucifixo Adutor Na Polia,14.7,12,,,,
+29/09/2023,Crucifixo Adutor Na Polia,14.7,14,,,,
+29/09/2023,Crucifixo Adutor Na Polia,14.7,14,,,,
+29/09/2023,Mergulho Perna Estendida,20,63,,,,
+29/09/2023,Mergulho Perna Estendida,20,63,,,,
+29/09/2023,Mergulho Perna Estendida,20,63,,,,
+29/09/2023,Mergulho Perna Estendida,19,63,,,,
+29/09/2023,Supino Inclinado,20,18,,,,
+29/09/2023,Supino Inclinado,20,18,,,,
+29/09/2023,Supino Inclinado,20,15,,,,
+29/09/2023,Supino Inclinado,20,15,,,,
+29/09/2023,Supino Inclinado,20,17,,,,
+29/09/2023,Abdominal Carrinho,17,,,,,
+29/09/2023,Abdominal Carrinho,15,,,,,
+29/09/2023,Abdominal Carrinho,14,,,,,
+29/09/2023,Abdominal Carrinho,12,,,,,
+30/09/2023,Hack,55,19,,,,
+30/09/2023,Hack,55,15,,,,
+30/09/2023,Hack,55,15,,,,
+30/09/2023,Hack,55,15,,,,
+30/09/2023,Hack,55,15,,,,
+30/09/2023,Elevacao De Quadril,40,10,,,,
+30/09/2023,Elevacao De Quadril,40,10,,,,
+30/09/2023,Elevacao De Quadril,40,10,,,,
+30/09/2023,Elevacao De Quadril,40,10,,,,
+30/09/2023,Levantamento Terra,50,10,,,,
+30/09/2023,Levantamento Terra,50,8,,,,
+30/09/2023,Levantamento Terra,50,8,,,,
+30/09/2023,Levantamento Terra,50,8,,,,
+30/09/2023,Elevacao Lateral,12,16,,,,
+30/09/2023,Elevacao Lateral,12,16,,,,
+30/09/2023,Elevacao Lateral,12,15,,,,
+30/09/2023,Elevacao Lateral,12,16,,,,
+30/09/2023,Elevacao Frontal Com Halteres,8,10,,,,
+30/09/2023,Elevacao Frontal Com Halteres,8,10,,,,
+30/09/2023,Elevacao Frontal Com Halteres,8,10,,,,
+30/09/2023,Elevacao Frontal Com Halteres,8,10,,,,
+30/09/2023,Remada Unilateral Com Halter,26,12,,,,
+30/09/2023,Remada Unilateral Com Halter,26,12,,,,
+30/09/2023,Remada Unilateral Com Halter,26,12,,,,
+30/09/2023,Remada Unilateral Com Halter,26,12,,,,
+30/09/2023,Puxada Frente Triangulo,49,16,,,,
+30/09/2023,Puxada Frente Triangulo,47,16,,,,
+30/09/2023,Puxada Frente Triangulo,49,16,,,,
+30/09/2023,Puxada Frente Triangulo,49,16,,,,
+30/09/2023,Biceps Curl Machine,33,20,,,,
+30/09/2023,Biceps Curl Machine,35,16,,,,
+30/09/2023,Biceps Curl Machine,35,16,,,,
+30/09/2023,Biceps Curl Machine,32,16,,,,
+30/09/2023,Biceps Martelo,12,16,,,,
+30/09/2023,Biceps Martelo,12,16,,,,
+30/09/2023,Biceps Martelo,12,16,,,,
+30/09/2023,Biceps Martelo,12,16,,,,
+02/10/2023,Flexao De Braco,20,15,Eliptico,30,,
+02/10/2023,Flexao De Braco,20,14,Eliptico,30,,
+02/10/2023,Flexao De Braco,20,13,Eliptico,30,,
+02/10/2023,Flexao De Braco,20,12,Eliptico,30,,
+02/10/2023,Supino Inclinado Hack,40,12,Eliptico,30,,
+02/10/2023,Supino Inclinado Hack,40,12,Eliptico,30,,
+02/10/2023,Supino Inclinado Hack,40,12,Eliptico,30,,
+02/10/2023,Supino Inclinado Hack,40,10,Eliptico,30,,
+02/10/2023,Supino Inclinado Hack,40,8,Eliptico,30,,
+02/10/2023,Supino Reto Halter,24,10,Eliptico,30,,
+02/10/2023,Supino Reto Halter,24,10,Eliptico,30,,
+02/10/2023,Supino Reto Halter,24,10,Eliptico,30,,
+02/10/2023,Supino Reto Halter,24,10,Eliptico,30,,
+02/10/2023,Supino Reto Halter,24,5,Eliptico,30,,
+02/10/2023,Crucifixo Voador,73,12,Eliptico,30,,
+02/10/2023,Crucifixo Voador,73,9,Eliptico,30,,
+02/10/2023,Crucifixo Voador,73,8,Eliptico,30,,
+02/10/2023,Crucifixo Voador,73,9,Eliptico,30,,
+02/10/2023,Crucifixo Voador,73,8,Eliptico,30,,
+02/10/2023,Crucifixo Voador,59,4,Eliptico,30,,
+02/10/2023,Crucifixo Voador,45,4,Eliptico,30,,
+02/10/2023,Desenvolvimento Arnold,12,12,Eliptico,30,,
+02/10/2023,Desenvolvimento Arnold,12,11,Eliptico,30,,
+02/10/2023,Desenvolvimento Arnold,12,11,Eliptico,30,,
+02/10/2023,Desenvolvimento Arnold,12,9,Eliptico,30,,
+02/10/2023,Desenvolvimento Arnold,12,10,Eliptico,30,,
+02/10/2023,Desenvolvimento Com Barra Isometria,24,12,Eliptico,30,,
+02/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,30,,
+02/10/2023,Desenvolvimento Com Barra Isometria,24,11,Eliptico,30,,
+02/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,30,,
+02/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,30,,
+02/10/2023,Elevacao Frontal,12.5,12,Eliptico,30,,
+02/10/2023,Elevacao Frontal,12.5,11,Eliptico,30,,
+02/10/2023,Elevacao Frontal,12.5,10,Eliptico,30,,
+02/10/2023,Elevacao Frontal,12.5,10,Eliptico,30,,
+02/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,12,Eliptico,30,,
+02/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,12,Eliptico,30,,
+02/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,12,Eliptico,30,,
+02/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,12,Eliptico,30,,
+04/10/2023,Remada Baixa,93,13,Eliptico,30,,
+04/10/2023,Remada Baixa,93,12,Eliptico,30,,
+04/10/2023,Remada Baixa,93,12,Eliptico,30,,
+04/10/2023,Remada Baixa,93,11,Eliptico,30,,
+04/10/2023,Remada Baixa,93,12,Eliptico,30,,
+04/10/2023,Remada Curvada Com Barra,40,12,Eliptico,30,,
+04/10/2023,Remada Curvada Com Barra,40,11,Eliptico,30,,
+04/10/2023,Remada Curvada Com Barra,40,10,Eliptico,30,,
+04/10/2023,Remada Curvada Com Barra,40,10,Eliptico,30,,
+04/10/2023,Remada Curvada Com Barra,40,10,Eliptico,30,,
+04/10/2023,Remada No Smith,20,,Eliptico,30,,
+04/10/2023,Remada No Smith,18,,Eliptico,30,,
+04/10/2023,Remada No Smith,16,,Eliptico,30,,
+04/10/2023,Remada No Smith,14,,Eliptico,30,,
+04/10/2023,Remada No Smith,13,,Eliptico,30,,
+04/10/2023,Pulldown,56,12,Eliptico,30,,
+04/10/2023,Pulldown,56,12,Eliptico,30,,
+04/10/2023,Pulldown,56,12,Eliptico,30,,
+04/10/2023,Pulldown,56,12,Eliptico,30,,
+04/10/2023,Rosca Unilateral Na Polia,23,12,Eliptico,30,,
+04/10/2023,Rosca Unilateral Na Polia,23,12,Eliptico,30,,
+04/10/2023,Rosca Unilateral Na Polia,23,11,Eliptico,30,,
+04/10/2023,Rosca Unilateral Na Polia,23,11,Eliptico,30,,
+04/10/2023,Puxador Aberto,59,12,Eliptico,30,,
+04/10/2023,Puxador Aberto,59,10,Eliptico,30,,
+04/10/2023,Puxador Aberto,59,10,Eliptico,30,,
+04/10/2023,Puxador Aberto,59,9,Eliptico,30,,
+04/10/2023,Puxador Aberto,59,8,Eliptico,30,,
+04/10/2023,Puxador Aberto,47,4,Eliptico,30,,
+04/10/2023,Puxador Aberto,34,5,Eliptico,30,,
+04/10/2023,Rosca Direta Barra,26,12,Eliptico,30,,
+04/10/2023,Rosca Direta Barra,26,11,Eliptico,30,,
+04/10/2023,Rosca Direta Barra,26,9,Eliptico,30,,
+04/10/2023,Rosca Direta Barra,26,10,Eliptico,30,,
+04/10/2023,Rosca Punho,14,15,Eliptico,30,,
+04/10/2023,Rosca Punho,18,10,Eliptico,30,,
+04/10/2023,Rosca Punho,18,9,Eliptico,30,,
+04/10/2023,Rosca Punho,18,10,Eliptico,30,,
+04/10/2023,Rosca Scott,22,8,Eliptico,30,,
+04/10/2023,Rosca Scott,18,10,Eliptico,30,,
+04/10/2023,Rosca Scott,18,12,Eliptico,30,,
+04/10/2023,Rosca Scott,18,11,Eliptico,30,,
+04/10/2023,Rosca Scott,18,10,Eliptico,30,,
+05/10/2023,Triceps Kickback,16,11,,,,
+05/10/2023,Triceps Kickback,14,11,,,,
+05/10/2023,Triceps Kickback,14,11,,,,
+05/10/2023,Triceps Kickback,14,10,,,,
+05/10/2023,Triceps Kickback,14,10,,,,
+05/10/2023,Obliquo Cross-Over,64,12,,,,
+05/10/2023,Obliquo Cross-Over,64,12,,,,
+05/10/2023,Obliquo Cross-Over,64,12,,,,
+05/10/2023,Obliquo Cross-Over,64,12,,,,
+05/10/2023,Obliquo Cross-Over,64,12,,,,
+05/10/2023,Abdominal Na Polia Alta,45,12,,,,
+05/10/2023,Abdominal Na Polia Alta,45,12,,,,
+05/10/2023,Abdominal Na Polia Alta,45,11,,,,
+05/10/2023,Abdominal Na Polia Alta,45,11,,,,
+05/10/2023,Abdominal Na Polia Alta,45,10,,,,
+05/10/2023,Triceps Testa Na Corda,36,12,,,,
+05/10/2023,Triceps Testa Na Corda,36,12,,,,
+05/10/2023,Triceps Testa Na Corda,36,10,,,,
+05/10/2023,Triceps Testa Na Corda,36,10,,,,
+05/10/2023,Triceps Testa Na Corda,36,9,,,,
+05/10/2023,Crucifixo Adutor Na Polia,17,12,,,,
+05/10/2023,Crucifixo Adutor Na Polia,17,10,,,,
+05/10/2023,Crucifixo Adutor Na Polia,17,10,,,,
+05/10/2023,Crucifixo Adutor Na Polia,17,10,,,,
+05/10/2023,Crucifixo Adutor Na Polia,17,10,,,,
+05/10/2023,Mergulho Perna Estendida,20,63,,,,
+05/10/2023,Mergulho Perna Estendida,18,63,,,,
+05/10/2023,Mergulho Perna Estendida,18,63,,,,
+05/10/2023,Mergulho Perna Estendida,17,63,,,,
+05/10/2023,Supino Inclinado Hack,40,12,,,,
+05/10/2023,Supino Inclinado Hack,40,12,,,,
+05/10/2023,Supino Inclinado Hack,40,10,,,,
+05/10/2023,Supino Inclinado Hack,40,10,,,,
+05/10/2023,Supino Inclinado Hack,40,10,,,,
+07/10/2023,Hack,80,12,Bike,20,,
+07/10/2023,Hack,80,12,Bike,20,,
+07/10/2023,Hack,80,12,Bike,20,,
+07/10/2023,Hack,80,12,Bike,20,,
+07/10/2023,Hack,80,12,Bike,20,,
+07/10/2023,Elevacao De Quadril,40,12,Bike,20,,
+07/10/2023,Elevacao De Quadril,40,10,Bike,20,,
+07/10/2023,Elevacao De Quadril,40,11,Bike,20,,
+07/10/2023,Elevacao De Quadril,40,10,Bike,20,,
+07/10/2023,Elevacao Lateral,5.7,12,Bike,20,,
+07/10/2023,Elevacao Lateral,5.7,11,Bike,20,,
+07/10/2023,Elevacao Lateral,5.7,11,Bike,20,,
+07/10/2023,Elevacao Lateral,5.7,11,Bike,20,,
+07/10/2023,Elevacao Frontal Com Halteres,8,11,Bike,20,,
+07/10/2023,Elevacao Frontal Com Halteres,8,10,Bike,20,,
+07/10/2023,Elevacao Frontal Com Halteres,8,10,Bike,20,,
+07/10/2023,Elevacao Frontal Com Halteres,8,10,Bike,20,,
+07/10/2023,Remada Unilateral Com Halter,28,12,Bike,20,,
+07/10/2023,Remada Unilateral Com Halter,28,12,Bike,20,,
+07/10/2023,Remada Unilateral Com Halter,28,12,Bike,20,,
+07/10/2023,Remada Unilateral Com Halter,28,12,Bike,20,,
+07/10/2023,Puxada Frente Triangulo,56,12,Bike,20,,
+07/10/2023,Puxada Frente Triangulo,61,10,Bike,20,,
+07/10/2023,Puxada Frente Triangulo,61,9,Bike,20,,
+07/10/2023,Puxada Frente Triangulo,61,10,Bike,20,,
+07/10/2023,Biceps Curl Machine,41,12,Bike,20,,
+07/10/2023,Biceps Curl Machine,41,10,Bike,20,,
+07/10/2023,Biceps Curl Machine,41,10,Bike,20,,
+07/10/2023,Biceps Curl Machine,41,10,Bike,20,,
+10/10/2023,Flexao De Braco,25,12,Eliptico,25,,
+10/10/2023,Flexao De Braco,25,11,Eliptico,25,,
+10/10/2023,Flexao De Braco,25,10,Eliptico,25,,
+10/10/2023,Flexao De Braco,25,11,Eliptico,25,,
+10/10/2023,Flexao De Braco,25,10,Eliptico,25,,
+10/10/2023,Supino Inclinado Hack,45,12,Eliptico,25,,
+10/10/2023,Supino Inclinado Hack,45,12,Eliptico,25,,
+10/10/2023,Supino Inclinado Hack,45,10,Eliptico,25,,
+10/10/2023,Supino Inclinado Hack,45,9,Eliptico,25,,
+10/10/2023,Supino Inclinado Hack,45,8,Eliptico,25,,
+10/10/2023,Supino Reto Halter,24,10,Eliptico,25,,
+10/10/2023,Supino Reto Halter,24,10,Eliptico,25,,
+10/10/2023,Supino Reto Halter,24,9,Eliptico,25,,
+10/10/2023,Supino Reto Halter,24,10,Eliptico,25,,
+10/10/2023,Supino Reto Halter,24,9,Eliptico,25,,
+10/10/2023,Crucifixo Voador,73,12,Eliptico,25,,
+10/10/2023,Crucifixo Voador,73,12,Eliptico,25,,
+10/10/2023,Crucifixo Voador,73,10,Eliptico,25,,
+10/10/2023,Crucifixo Voador,73,10,Eliptico,25,,
+10/10/2023,Crucifixo Voador,73,9,Eliptico,25,,
+10/10/2023,Crucifixo Voador,59,6,Eliptico,25,,
+10/10/2023,Crucifixo Voador,45,6,Eliptico,25,,
+10/10/2023,Desenvolvimento Arnold,12,13,Eliptico,25,,
+10/10/2023,Desenvolvimento Arnold,12,12,Eliptico,25,,
+10/10/2023,Desenvolvimento Arnold,12,11,Eliptico,25,,
+10/10/2023,Desenvolvimento Arnold,12,10,Eliptico,25,,
+10/10/2023,Desenvolvimento Arnold,12,10,Eliptico,25,,
+10/10/2023,Desenvolvimento Com Barra Isometria,24,12,Eliptico,25,,
+10/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,25,,
+10/10/2023,Desenvolvimento Com Barra Isometria,24,11,Eliptico,25,,
+10/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,25,,
+10/10/2023,Desenvolvimento Com Barra Isometria,24,10,Eliptico,25,,
+10/10/2023,Elevacao Frontal,12.5,13,Eliptico,25,,
+10/10/2023,Elevacao Frontal,12.5,12,Eliptico,25,,
+10/10/2023,Elevacao Frontal,12.5,12,Eliptico,25,,
+10/10/2023,Elevacao Frontal,12.5,12,Eliptico,25,,
+10/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,13,Eliptico,25,,
+10/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,13,Eliptico,25,,
+10/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,13,Eliptico,25,,
+10/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,13,Eliptico,25,,
+12/10/2023,Remada Baixa,93,14,Bike,20,,
+12/10/2023,Remada Baixa,93,13,Bike,20,,
+12/10/2023,Remada Baixa,93,13,Bike,20,,
+12/10/2023,Remada Baixa,93,13,Bike,20,,
+12/10/2023,Remada Baixa,93,12,Bike,20,,
+12/10/2023,Remada Curvada Com Barra,42,12,Bike,20,,
+12/10/2023,Remada Curvada Com Barra,42,11,Bike,20,,
+12/10/2023,Remada Curvada Com Barra,42,10,Bike,20,,
+12/10/2023,Remada Curvada Com Barra,42,10,Bike,20,,
+12/10/2023,Remada Curvada Com Barra,42,9,Bike,20,,
+12/10/2023,Remada No Smith,20,,Bike,20,,
+12/10/2023,Remada No Smith,16,,Bike,20,,
+12/10/2023,Remada No Smith,15,,Bike,20,,
+12/10/2023,Remada No Smith,14,,Bike,20,,
+12/10/2023,Remada No Smith,14,,Bike,20,,
+12/10/2023,Pulldown,59,11,Bike,20,,
+12/10/2023,Pulldown,59,12,Bike,20,,
+12/10/2023,Pulldown,59,11,Bike,20,,
+12/10/2023,Pulldown,59,11,Bike,20,,
+12/10/2023,Rosca Unilateral Na Polia,23,11,Bike,20,,
+12/10/2023,Rosca Unilateral Na Polia,23,12,Bike,20,,
+12/10/2023,Rosca Unilateral Na Polia,23,12,Bike,20,,
+12/10/2023,Rosca Unilateral Na Polia,23,11,Bike,20,,
+12/10/2023,Puxador Aberto,61,11,Bike,20,,
+12/10/2023,Puxador Aberto,61,11,Bike,20,,
+12/10/2023,Puxador Aberto,61,9,Bike,20,,
+12/10/2023,Puxador Aberto,61,9,Bike,20,,
+12/10/2023,Puxador Aberto,61,8,Bike,20,,
+12/10/2023,Puxador Aberto,47,4,Bike,20,,
+12/10/2023,Puxador Aberto,34,6,Bike,20,,
+12/10/2023,Rosca Direta Barra,26,12,Bike,20,,
+12/10/2023,Rosca Direta Barra,26,12,Bike,20,,
+12/10/2023,Rosca Direta Barra,26,11,Bike,20,,
+12/10/2023,Rosca Direta Barra,26,11,Bike,20,,
+12/10/2023,Rosca Punho,18,12,Bike,20,,
+12/10/2023,Rosca Punho,18,12,Bike,20,,
+12/10/2023,Rosca Punho,18,10,Bike,20,,
+12/10/2023,Rosca Punho,18,12,Bike,20,,
+12/10/2023,Rosca Scott,18,12,Bike,20,,
+12/10/2023,Rosca Scott,18,10,Bike,20,,
+12/10/2023,Rosca Scott,18,12,Bike,20,,
+12/10/2023,Rosca Scott,18,11,Bike,20,,
+12/10/2023,Rosca Scott,18,10,Bike,20,,
+13/10/2023,Triceps Kickback,16,11,Eliptico,30,,
+13/10/2023,Triceps Kickback,16,10,Eliptico,30,,
+13/10/2023,Triceps Kickback,16,10,Eliptico,30,,
+13/10/2023,Triceps Kickback,16,9,Eliptico,30,,
+13/10/2023,Triceps Kickback,16,9,Eliptico,30,,
+13/10/2023,Obliquo Cross-Over,66,12,Eliptico,30,,
+13/10/2023,Obliquo Cross-Over,66,12,Eliptico,30,,
+13/10/2023,Obliquo Cross-Over,66,12,Eliptico,30,,
+13/10/2023,Obliquo Cross-Over,66,12,Eliptico,30,,
+13/10/2023,Obliquo Cross-Over,66,12,Eliptico,30,,
+13/10/2023,Abdominal Na Polia Alta,47,12,Eliptico,30,,
+13/10/2023,Abdominal Na Polia Alta,47,12,Eliptico,30,,
+13/10/2023,Abdominal Na Polia Alta,47,11,Eliptico,30,,
+13/10/2023,Abdominal Na Polia Alta,47,10,Eliptico,30,,
+13/10/2023,Abdominal Na Polia Alta,47,10,Eliptico,30,,
+13/10/2023,Triceps Testa Na Corda,38,12,Eliptico,30,,
+13/10/2023,Triceps Testa Na Corda,38,11,Eliptico,30,,
+13/10/2023,Triceps Testa Na Corda,38,11,Eliptico,30,,
+13/10/2023,Triceps Testa Na Corda,38,9,Eliptico,30,,
+13/10/2023,Triceps Testa Na Corda,38,10,Eliptico,30,,
+13/10/2023,Crucifixo Adutor Na Polia,17,13,Eliptico,30,,
+13/10/2023,Crucifixo Adutor Na Polia,17,12,Eliptico,30,,
+13/10/2023,Crucifixo Adutor Na Polia,17,12,Eliptico,30,,
+13/10/2023,Crucifixo Adutor Na Polia,17,11,Eliptico,30,,
+13/10/2023,Crucifixo Adutor Na Polia,17,10,Eliptico,30,,
+13/10/2023,Mergulho Perna Estendida,20,63,Eliptico,30,,
+13/10/2023,Mergulho Perna Estendida,18,63,Eliptico,30,,
+13/10/2023,Mergulho Perna Estendida,18,63,Eliptico,30,,
+13/10/2023,Mergulho Perna Estendida,17,63,Eliptico,30,,
+13/10/2023,Supino Inclinado Hack,45,12,Eliptico,30,,
+13/10/2023,Supino Inclinado Hack,45,10,Eliptico,30,,
+13/10/2023,Supino Inclinado Hack,45,9,Eliptico,30,,
+13/10/2023,Supino Inclinado Hack,45,18,Eliptico,30,,
+13/10/2023,Supino Inclinado Hack,45,9,Eliptico,30,,
+13/10/2023,Abdominal Rodinha,12,,Eliptico,30,,
+13/10/2023,Abdominal Rodinha,14,,Eliptico,30,,
+13/10/2023,Abdominal Rodinha,16,,Eliptico,30,,
+13/10/2023,Abdominal Rodinha,16,,Eliptico,30,,
+14/10/2023,Hack,100,10,,,,
+14/10/2023,Hack,100,10,,,,
+14/10/2023,Hack,100,10,,,,
+14/10/2023,Hack,100,10,,,,
+14/10/2023,Elevacao De Quadril,45,10,,,,
+14/10/2023,Elevacao De Quadril,50,10,,,,
+14/10/2023,Elevacao De Quadril,50,10,,,,
+14/10/2023,Elevacao De Quadril,50,9,,,,
+14/10/2023,Elevacao Lateral,5.7,12,,,,
+14/10/2023,Elevacao Lateral,5.7,14,,,,
+14/10/2023,Elevacao Lateral,5.7,13,,,,
+14/10/2023,Elevacao Lateral,5.7,12,,,,
+14/10/2023,Elevacao Frontal Com Halteres,10,10,,,,
+14/10/2023,Elevacao Frontal Com Halteres,10,10,,,,
+14/10/2023,Elevacao Frontal Com Halteres,10,9,,,,
+14/10/2023,Elevacao Frontal Com Halteres,10,9,,,,
+14/10/2023,Terra Sumo,20,10,,,,
+14/10/2023,Terra Sumo,20,10,,,,
+14/10/2023,Terra Sumo,20,10,,,,
+14/10/2023,Terra,20,8,,,,
+14/10/2023,Terra,20,10,,,,
+14/10/2023,Terra,20,10,,,,
+14/10/2023,Remada Unilateral Com Halter,30,10,,,,
+14/10/2023,Remada Unilateral Com Halter,30,10,,,,
+14/10/2023,Remada Unilateral Com Halter,30,10,,,,
+14/10/2023,Remada Unilateral Com Halter,30,10,,,,
+14/10/2023,Puxada Frente Triangulo,66,10,,,,
+14/10/2023,Puxada Frente Triangulo,66,9,,,,
+14/10/2023,Puxada Frente Triangulo,66,9,,,,
+14/10/2023,Puxada Frente Triangulo,66,9,,,,
+14/10/2023,Biceps Curl Machine,43,11,,,,
+14/10/2023,Biceps Curl Machine,45,9,,,,
+14/10/2023,Biceps Curl Machine,45,10,,,,
+14/10/2023,Biceps Curl Machine,45,9,,,,
+14/10/2023,Biceps Martelo,14,10,,,,
+14/10/2023,Biceps Martelo,14,9,,,,
+14/10/2023,Biceps Martelo,14,9,,,,
+16/10/2023,Flexao De Braco,25,13,Bike,20,,
+16/10/2023,Flexao De Braco,25,13,Bike,20,,
+16/10/2023,Flexao De Braco,25,13,Bike,20,,
+16/10/2023,Flexao De Braco,25,12,Bike,20,,
+16/10/2023,Flexao De Braco,25,11,Bike,20,,
+16/10/2023,Supino Inclinado Hack,47,11,Bike,20,,
+16/10/2023,Supino Inclinado Hack,47,11,Bike,20,,
+16/10/2023,Supino Inclinado Hack,47,9,Bike,20,,
+16/10/2023,Supino Inclinado Hack,47,9,Bike,20,,
+16/10/2023,Supino Inclinado Hack,47,8,Bike,20,,
+16/10/2023,Supino Reto Halter,24,11,Bike,20,,
+16/10/2023,Supino Reto Halter,24,11,Bike,20,,
+16/10/2023,Supino Reto Halter,24,10,Bike,20,,
+16/10/2023,Supino Reto Halter,24,10,Bike,20,,
+16/10/2023,Supino Reto Halter,24,7,Bike,20,,
+16/10/2023,Crucifixo Voador,73,14,Bike,20,,
+16/10/2023,Crucifixo Voador,79,10,Bike,20,,
+16/10/2023,Crucifixo Voador,79,8,Bike,20,,
+16/10/2023,Crucifixo Voador,79,8,Bike,20,,
+16/10/2023,Crucifixo Voador,79,8,Bike,20,,
+16/10/2023,Crucifixo Voador,66,5,Bike,20,,
+16/10/2023,Crucifixo Voador,52,5,Bike,20,,
+16/10/2023,Desenvolvimento Arnold,12,15,Bike,20,,
+16/10/2023,Desenvolvimento Arnold,12,14,Bike,20,,
+16/10/2023,Desenvolvimento Arnold,12,12,Bike,20,,
+16/10/2023,Desenvolvimento Arnold,12,11,Bike,20,,
+16/10/2023,Desenvolvimento Arnold,12,11,Bike,20,,
+16/10/2023,Desenvolvimento Com Barra Isometria,24,12,Bike,20,,
+16/10/2023,Desenvolvimento Com Barra Isometria,24,11,Bike,20,,
+16/10/2023,Desenvolvimento Com Barra Isometria,24,11,Bike,20,,
+16/10/2023,Desenvolvimento Com Barra Isometria,24,10,Bike,20,,
+16/10/2023,Desenvolvimento Com Barra Isometria,24,11,Bike,20,,
+16/10/2023,Elevacao Frontal,14.7,10,Bike,20,,
+16/10/2023,Elevacao Frontal,14.7,10,Bike,20,,
+16/10/2023,Elevacao Frontal,14.7,10,Bike,20,,
+16/10/2023,Elevacao Frontal,14.7,9,Bike,20,,
+16/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,14,Bike,20,,
+16/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,14,Bike,20,,
+16/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,14,Bike,20,,
+16/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,14,Bike,20,,
+17/10/2023,Mesa Flexora,50,12,Bike,20,,
+17/10/2023,Mesa Flexora,54,12,Bike,20,,
+17/10/2023,Mesa Flexora,54,10,Bike,20,,
+17/10/2023,Mesa Flexora,54,8,Bike,20,,
+17/10/2023,Stiff,46,12,Bike,20,,
+17/10/2023,Stiff,46,12,Bike,20,,
+17/10/2023,Stiff,46,12,Bike,20,,
+17/10/2023,Stiff,46,12,Bike,20,,
+17/10/2023,Flexao De Joelho Na Extensora,14,12,Bike,20,,
+17/10/2023,Flexao De Joelho Na Extensora,14,12,Bike,20,,
+17/10/2023,Flexao De Joelho Na Extensora,14,11,Bike,20,,
+17/10/2023,Flexao De Joelho Na Extensora,14,10,Bike,20,,
+17/10/2023,Bom Dia,30,12,Bike,20,,
+17/10/2023,Bom Dia,30,12,Bike,20,,
+17/10/2023,Bom Dia,30,12,Bike,20,,
+17/10/2023,Bom Dia,30,12,Bike,20,,
+17/10/2023,Agachamento Hack,30,12,Bike,20,,
+17/10/2023,Agachamento Hack,30,12,Bike,20,,
+17/10/2023,Agachamento Hack,30,12,Bike,20,,
+17/10/2023,Bulgaro,20,12,Bike,20,,
+17/10/2023,Bulgaro,20,10,Bike,20,,
+17/10/2023,Bulgaro,20,10,Bike,20,,
+17/10/2023,Extensora Isometria,41,12,Bike,20,,
+17/10/2023,Extensora Isometria,41,11,Bike,20,,
+17/10/2023,Extensora Isometria,41,11,Bike,20,,
+17/10/2023,Extensora Isometria,41,11,Bike,20,,
+18/10/2023,Remada Baixa,93,15,Bike,18,,
+18/10/2023,Remada Baixa,93,15,Bike,18,,
+18/10/2023,Remada Baixa,93,15,Bike,18,,
+18/10/2023,Remada Baixa,93,14,Bike,18,,
+18/10/2023,Remada Baixa,93,14,Bike,18,,
+18/10/2023,Remada Curvada Com Barra,45,9,Bike,18,,
+18/10/2023,Remada Curvada Com Barra,45,8,Bike,18,,
+18/10/2023,Remada Curvada Com Barra,45,9,Bike,18,,
+18/10/2023,Remada Curvada Com Barra,45,8,Bike,18,,
+18/10/2023,Remada Curvada Com Barra,45,8,Bike,18,,
+18/10/2023,Remada No Smith,21,,Bike,18,,
+18/10/2023,Remada No Smith,17,,Bike,18,,
+18/10/2023,Remada No Smith,15,,Bike,18,,
+18/10/2023,Remada No Smith,15,,Bike,18,,
+18/10/2023,Remada No Smith,16,,Bike,18,,
+18/10/2023,Pulldown,61,10,Bike,18,,
+18/10/2023,Pulldown,61,10,Bike,18,,
+18/10/2023,Pulldown,61,10,Bike,18,,
+18/10/2023,Pulldown,61,10,Bike,18,,
+18/10/2023,Rosca Unilateral Na Polia,23,11,Bike,18,,
+18/10/2023,Rosca Unilateral Na Polia,23,11,Bike,18,,
+18/10/2023,Rosca Unilateral Na Polia,25,10,Bike,18,,
+18/10/2023,Rosca Unilateral Na Polia,25,8,Bike,18,,
+18/10/2023,Puxador Aberto,61,11,Bike,18,,
+18/10/2023,Puxador Aberto,61,11,Bike,18,,
+18/10/2023,Puxador Aberto,61,10,Bike,18,,
+18/10/2023,Puxador Aberto,61,10,Bike,18,,
+18/10/2023,Puxador Aberto,61,9,Bike,18,,
+18/10/2023,Puxador Aberto,47,5,Bike,18,,
+18/10/2023,Puxador Aberto,34,6,Bike,18,,
+18/10/2023,Rosca Direta Barra,28,11,Bike,18,,
+18/10/2023,Rosca Direta Barra,28,11,Bike,18,,
+18/10/2023,Rosca Direta Barra,28,11,Bike,18,,
+18/10/2023,Rosca Direta Barra,28,10,Bike,18,,
+18/10/2023,Rosca Punho,18,12,Bike,18,,
+18/10/2023,Rosca Punho,18,12,Bike,18,,
+18/10/2023,Rosca Punho,18,10,Bike,18,,
+18/10/2023,Rosca Punho,18,12,Bike,18,,
+18/10/2023,Rosca Scott,18,12,Bike,18,,
+18/10/2023,Rosca Scott,18,11,Bike,18,,
+18/10/2023,Rosca Scott,18,11,Bike,18,,
+18/10/2023,Rosca Scott,18,11,Bike,18,,
+18/10/2023,Rosca Scott,18,10,Bike,18,,
+20/10/2023,Triceps Kickback,16,12,Bike,20,,
+20/10/2023,Triceps Kickback,16,11,Bike,20,,
+20/10/2023,Triceps Kickback,16,10,Bike,20,,
+20/10/2023,Triceps Kickback,16,11,Bike,20,,
+20/10/2023,Triceps Kickback,16,11,Bike,20,,
+20/10/2023,Obliquo Cross-Over,68,12,Bike,20,,
+20/10/2023,Obliquo Cross-Over,68,12,Bike,20,,
+20/10/2023,Obliquo Cross-Over,68,12,Bike,20,,
+20/10/2023,Obliquo Cross-Over,68,12,Bike,20,,
+20/10/2023,Obliquo Cross-Over,68,12,Bike,20,,
+20/10/2023,Abdominal Na Polia Alta,50,12,Bike,20,,
+20/10/2023,Abdominal Na Polia Alta,50,12,Bike,20,,
+20/10/2023,Abdominal Na Polia Alta,50,12,Bike,20,,
+20/10/2023,Abdominal Na Polia Alta,50,12,Bike,20,,
+20/10/2023,Abdominal Na Polia Alta,50,12,Bike,20,,
+20/10/2023,Triceps Testa Na Corda,41,11,Bike,20,,
+20/10/2023,Triceps Testa Na Corda,41,10,Bike,20,,
+20/10/2023,Triceps Testa Na Corda,41,10,Bike,20,,
+20/10/2023,Triceps Testa Na Corda,41,9,Bike,20,,
+20/10/2023,Triceps Testa Na Corda,41,10,Bike,20,,
+20/10/2023,Crucifixo Adutor Na Polia,19,11,Bike,20,,
+20/10/2023,Crucifixo Adutor Na Polia,19,10,Bike,20,,
+20/10/2023,Crucifixo Adutor Na Polia,19,10,Bike,20,,
+20/10/2023,Crucifixo Adutor Na Polia,19,8,Bike,20,,
+20/10/2023,Crucifixo Adutor Na Polia,19,8,Bike,20,,
+20/10/2023,Mergulho Perna Estendida,20,63,Bike,20,,
+20/10/2023,Mergulho Perna Estendida,20,63,Bike,20,,
+20/10/2023,Mergulho Perna Estendida,16,63,Bike,20,,
+20/10/2023,Mergulho Perna Estendida,17,63,Bike,20,,
+20/10/2023,Supino Inclinado Hack,45,12,Bike,20,,
+20/10/2023,Supino Inclinado Hack,45,11,Bike,20,,
+20/10/2023,Supino Inclinado Hack,45,11,Bike,20,,
+20/10/2023,Supino Inclinado Hack,45,11,Bike,20,,
+20/10/2023,Supino Inclinado Hack,45,9,Bike,20,,
+20/10/2023,Abdominal Rodinha,12,,Bike,20,,
+20/10/2023,Abdominal Rodinha,14,,Bike,20,,
+20/10/2023,Abdominal Rodinha,16,,Bike,20,,
+21/10/2023,Hack,100,10,Bike,18,,
+21/10/2023,Hack,100,10,Bike,18,,
+21/10/2023,Hack,100,10,Bike,18,,
+21/10/2023,Hack,100,10,Bike,18,,
+21/10/2023,Elevacao De Quadril,50,10,Bike,18,,
+21/10/2023,Elevacao De Quadril,50,10,Bike,18,,
+21/10/2023,Elevacao De Quadril,50,10,Bike,18,,
+21/10/2023,Elevacao De Quadril,50,9,Bike,18,,
+21/10/2023,Elevacao Lateral,5.7,14,Bike,18,,
+21/10/2023,Elevacao Lateral,5.7,14,Bike,18,,
+21/10/2023,Elevacao Lateral,5.7,14,Bike,18,,
+21/10/2023,Elevacao Lateral,5.7,13,Bike,18,,
+21/10/2023,Elevacao Frontal Com Halteres,12,10,Bike,18,,
+21/10/2023,Elevacao Frontal Com Halteres,12,10,Bike,18,,
+21/10/2023,Elevacao Frontal Com Halteres,12,10,Bike,18,,
+21/10/2023,Elevacao Frontal Com Halteres,12,10,Bike,18,,
+21/10/2023,Terra,20,8,Bike,18,,
+21/10/2023,Terra,20,10,Bike,18,,
+21/10/2023,Terra,20,10,Bike,18,,
+21/10/2023,Remada Unilateral Com Halter,32,10,Bike,18,,
+21/10/2023,Remada Unilateral Com Halter,30,10,Bike,18,,
+21/10/2023,Remada Unilateral Com Halter,30,10,Bike,18,,
+21/10/2023,Remada Unilateral Com Halter,30,10,Bike,18,,
+21/10/2023,Puxada Frente Triangulo,66,10,Bike,18,,
+21/10/2023,Puxada Frente Triangulo,66,9,Bike,18,,
+21/10/2023,Puxada Frente Triangulo,66,9,Bike,18,,
+21/10/2023,Puxada Frente Triangulo,66,9,Bike,18,,
+21/10/2023,Biceps Curl Machine,45,12,Bike,18,,
+21/10/2023,Biceps Curl Machine,50,10,Bike,18,,
+21/10/2023,Biceps Curl Machine,50,9,Bike,18,,
+21/10/2023,Biceps Curl Machine,45,9,Bike,18,,
+21/10/2023,Biceps Martelo,14,10,Bike,18,,
+21/10/2023,Biceps Martelo,14,10,Bike,18,,
+21/10/2023,Biceps Martelo,14,9,Bike,18,,
+21/10/2023,Biceps Martelo,14,10,Bike,18,,
+24/10/2023,Flexao De Braco,25,12,,,,
+24/10/2023,Flexao De Braco,25,15,,,,
+24/10/2023,Flexao De Braco,25,14,,,,
+24/10/2023,Flexao De Braco,25,12,,,,
+24/10/2023,Flexao De Braco,25,10,,,,
+24/10/2023,Supino Inclinado Hack,50,12,,,,
+24/10/2023,Supino Inclinado Hack,50,10,,,,
+24/10/2023,Supino Inclinado Hack,50,7,,,,
+24/10/2023,Supino Inclinado Hack,50,8,,,,
+24/10/2023,Supino Inclinado Hack,50,8,,,,
+24/10/2023,Supino Reto Halter,24,11,,,,
+24/10/2023,Supino Reto Halter,24,9,,,,
+24/10/2023,Supino Reto Halter,24,9,,,,
+24/10/2023,Supino Reto Halter,24,8,,,,
+24/10/2023,Supino Reto Halter,24,9,,,,
+24/10/2023,Crucifixo Voador,79,11,,,,
+24/10/2023,Crucifixo Voador,79,10,,,,
+24/10/2023,Crucifixo Voador,79,9,,,,
+24/10/2023,Crucifixo Voador,79,8,,,,
+24/10/2023,Crucifixo Voador,79,8,,,,
+24/10/2023,Desenvolvimento Arnold,14,12,,,,
+24/10/2023,Desenvolvimento Arnold,14,11,,,,
+24/10/2023,Desenvolvimento Arnold,14,10,,,,
+24/10/2023,Desenvolvimento Arnold,14,10,,,,
+24/10/2023,Desenvolvimento Arnold,14,10,,,,
+25/10/2023,Desenvolvimento Arnold,14,12,,,,
+25/10/2023,Desenvolvimento Arnold,14,11,,,,
+25/10/2023,Desenvolvimento Arnold,14,10,,,,
+25/10/2023,Desenvolvimento Arnold,14,10,,,,
+25/10/2023,Desenvolvimento Arnold,14,10,,,,
+25/10/2023,Desenvolvimento Com Barra Isometria,26,12,,,,
+25/10/2023,Desenvolvimento Com Barra Isometria,26,11,,,,
+25/10/2023,Desenvolvimento Com Barra Isometria,26,11,,,,
+25/10/2023,Desenvolvimento Com Barra Isometria,26,11,,,,
+25/10/2023,Desenvolvimento Com Barra Isometria,26,10,,,,
+25/10/2023,Elevacao Frontal,14.7,12,,,,
+25/10/2023,Elevacao Frontal,14.7,12,,,,
+25/10/2023,Elevacao Frontal,14.7,12,,,,
+25/10/2023,Elevacao Frontal,14.7,12,,,,
+25/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,15,,,,
+25/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,15,,,,
+25/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,15,,,,
+25/10/2023,Crucifixo Abdutor Na Polia Unilateral,3.4,15,,,,
+25/10/2023,Mesa Flexora,54,12,,,,
+25/10/2023,Mesa Flexora,54,12,,,,
+25/10/2023,Mesa Flexora,54,10,,,,
+25/10/2023,Mesa Flexora,54,8,,,,
+25/10/2023,Stiff,46,12,,,,
+25/10/2023,Stiff,46,12,,,,
+25/10/2023,Stiff,46,12,,,,
+25/10/2023,Stiff,46,12,,,,
+26/10/2023,Remada Baixa,95,13,,,,
+26/10/2023,Remada Baixa,95,12,,,,
+26/10/2023,Remada Baixa,95,12,,,,
+26/10/2023,Remada Baixa,95,12,,,,
+26/10/2023,Remada Baixa,95,13,,,,
+26/10/2023,Remada Curvada Com Barra,45,10,,,,
+26/10/2023,Remada Curvada Com Barra,45,10,,,,
+26/10/2023,Remada Curvada Com Barra,40,11,,,,
+26/10/2023,Remada Curvada Com Barra,40,11,,,,
+26/10/2023,Remada Curvada Com Barra,40,10,,,,
+26/10/2023,Remada No Smith,20,,,,,
+26/10/2023,Remada No Smith,17,,,,,
+26/10/2023,Remada No Smith,15,,,,,
+26/10/2023,Remada No Smith,16,,,,,
+26/10/2023,Remada No Smith,16,,,,,
+26/10/2023,Pulldown,61,12,,,,
+26/10/2023,Pulldown,61,12,,,,
+26/10/2023,Pulldown,61,10,,,,
+26/10/2023,Pulldown,61,10,,,,
+26/10/2023,Rosca Unilateral Na Polia,23,12,,,,
+26/10/2023,Rosca Unilateral Na Polia,23,12,,,,
+26/10/2023,Rosca Unilateral Na Polia,25,10,,,,
+26/10/2023,Rosca Unilateral Na Polia,25,8,,,,
+26/10/2023,Puxador Aberto,63,11,,,,
+26/10/2023,Puxador Aberto,63,10,,,,
+26/10/2023,Puxador Aberto,61,11,,,,
+26/10/2023,Puxador Aberto,61,10,,,,
+26/10/2023,Puxador Aberto,61,9,,,,
+18/10/2023,Puxador Aberto,47,5,Bike,18,,,,
+18/10/2023,Puxador Aberto,34,6,Bike,18,,,,
+26/10/2023,Rosca Direta Barra,28,12,,,,
+26/10/2023,Rosca Direta Barra,28,11,,,,
+26/10/2023,Rosca Direta Barra,28,11,,,,
+26/10/2023,Rosca Direta Barra,28,10,,,,
+26/10/2023,Rosca Punho,18,12,,,,
+26/10/2023,Rosca Punho,18,12,,,,
+26/10/2023,Rosca Punho,18,10,,,,
+26/10/2023,Rosca Punho,18,12,,,,
+26/10/2023,Rosca Scott,18,12,,,,
+26/10/2023,Rosca Scott,18,11,,,,
+26/10/2023,Rosca Scott,18,11,,,,
+26/10/2023,Rosca Scott,18,11,,,,
+26/10/2023,Rosca Scott,18,10,,,,
+28/10/2023,Triceps Kickback,16,12,,,,
+28/10/2023,Triceps Kickback,16,12,,,,
+28/10/2023,Triceps Kickback,16,11,,,,
+28/10/2023,Triceps Kickback,16,12,,,,
+28/10/2023,Triceps Kickback,16,11,,,,
+28/10/2023,Obliquo Cross-Over,68,12,,,,
+28/10/2023,Obliquo Cross-Over,68,12,,,,
+28/10/2023,Obliquo Cross-Over,68,12,,,,
+28/10/2023,Obliquo Cross-Over,68,11,,,,
+28/10/2023,Obliquo Cross-Over,68,12,,,,
+28/10/2023,Abdominal Na Polia Alta,52,12,,,,
+28/10/2023,Abdominal Na Polia Alta,52,12,,,,
+28/10/2023,Abdominal Na Polia Alta,52,12,,,,
+28/10/2023,Abdominal Na Polia Alta,52,11,,,,
+28/10/2023,Abdominal Na Polia Alta,52,12,,,,
+28/10/2023,Triceps Testa Na Corda,41,12,,,,
+28/10/2023,Triceps Testa Na Corda,41,12,,,,
+28/10/2023,Triceps Testa Na Corda,41,11,,,,
+28/10/2023,Triceps Testa Na Corda,41,12,,,,
+28/10/2023,Triceps Testa Na Corda,41,10,,,,
+28/10/2023,Crucifixo Adutor Na Polia,19,12,,,,
+28/10/2023,Crucifixo Adutor Na Polia,19,12,,,,
+28/10/2023,Crucifixo Adutor Na Polia,19,12,,,,
+28/10/2023,Crucifixo Adutor Na Polia,19,12,,,,
+28/10/2023,Crucifixo Adutor Na Polia,19,12,,,,
+28/10/2023,Mergulho Perna Estendida,20,63,,,,
+28/10/2023,Mergulho Perna Estendida,20,63,,,,
+28/10/2023,Mergulho Perna Estendida,16,63,,,,
+28/10/2023,Mergulho Perna Estendida,17,63,,,,
+28/10/2023,Supino Inclinado Hack,50,12,,,,
+28/10/2023,Supino Inclinado Hack,50,10,,,,
+28/10/2023,Supino Inclinado Hack,50,9,,,,
+28/10/2023,Supino Inclinado Hack,50,8,,,,
+28/10/2023,Supino Inclinado Hack,50,8,,,,
+30/10/2023,Hack,110,9,Bike,22,,
+30/10/2023,Hack,110,10,Bike,22,,
+30/10/2023,Hack,110,10,Bike,22,,
+30/10/2023,Hack,110,10,Bike,22,,
+30/10/2023,Elevacao De Quadril,50,10,Bike,22,,
+30/10/2023,Elevacao De Quadril,70,10,Bike,22,,
+30/10/2023,Elevacao De Quadril,70,10,Bike,22,,
+30/10/2023,Elevacao De Quadril,80,10,Bike,22,,
+30/10/2023,Elevacao Lateral,5.7,15,Bike,22,,
+30/10/2023,Elevacao Lateral,5.7,14,Bike,22,,
+30/10/2023,Elevacao Lateral,5.7,14,Bike,22,,
+30/10/2023,Elevacao Lateral,5.7,13,Bike,22,,
+30/10/2023,Elevacao Frontal Com Halteres,10,10,Bike,22,,
+30/10/2023,Elevacao Frontal Com Halteres,10,9,Bike,22,,
+30/10/2023,Elevacao Frontal Com Halteres,10,8,Bike,22,,
+30/10/2023,Elevacao Frontal Com Halteres,10,10,Bike,22,,
+30/10/2023,Remada Unilateral Com Halter,34,9,Bike,22,,
+30/10/2023,Remada Unilateral Com Halter,34,9,Bike,22,,
+30/10/2023,Remada Unilateral Com Halter,34,9,Bike,22,,
+30/10/2023,Remada Unilateral Com Halter,34,9,Bike,22,,
+30/10/2023,Puxada Frente Triangulo,66,10,Bike,22,,
+30/10/2023,Puxada Frente Triangulo,66,9,Bike,22,,
+30/10/2023,Puxada Frente Triangulo,66,9,Bike,22,,
+30/10/2023,Puxada Frente Triangulo,66,9,Bike,22,,
+30/10/2023,Biceps Curl Machine,54,8,Bike,22,,
+30/10/2023,Biceps Curl Machine,52,8,Bike,22,,
+30/10/2023,Biceps Curl Machine,52,8,Bike,22,,
+30/10/2023,Biceps Curl Machine,52,8,Bike,22,,
+30/10/2023,Biceps Martelo,16,9,Bike,22,,
+30/10/2023,Biceps Martelo,16,8,Bike,22,,
+30/10/2023,Biceps Martelo,16,8,Bike,22,,
+30/10/2023,Biceps Martelo,16,8,Bike,22,,
+31/10/2023,Flexao De Braco,25,15,Bike,20,,
+31/10/2023,Flexao De Braco,25,15,Bike,20,,
+31/10/2023,Flexao De Braco,25,14,Bike,20,,
+31/10/2023,Flexao De Braco,25,13,Bike,20,,
+31/10/2023,Flexao De Braco,25,13,Bike,20,,
+31/10/2023,Supino Inclinado Hack,50,12,Bike,20,,
+31/10/2023,Supino Inclinado Hack,50,10,Bike,20,,
+31/10/2023,Supino Inclinado Hack,50,8,Bike,20,,
+31/10/2023,Supino Inclinado Hack,50,8,Bike,20,,
+31/10/2023,Supino Inclinado Hack,50,8,Bike,20,,
+31/10/2023,Supino Reto Halter,24,11,Bike,20,,
+31/10/2023,Supino Reto Halter,24,11,Bike,20,,
+31/10/2023,Supino Reto Halter,24,9,Bike,20,,
+31/10/2023,Supino Reto Halter,24,8,Bike,20,,
+31/10/2023,Supino Reto Halter,24,9,Bike,20,,
+31/10/2023,Crucifixo Voador,79,11,Bike,20,,
+31/10/2023,Crucifixo Voador,79,10,Bike,20,,
+31/10/2023,Crucifixo Voador,79,9,Bike,20,,
+31/10/2023,Crucifixo Voador,79,8,Bike,20,,
+31/10/2023,Crucifixo Voador,79,8,Bike,20,,
+31/10/2023,Desenvolvimento Arnold,14,10,Bike,20,,
+31/10/2023,Desenvolvimento Arnold,14,9,Bike,20,,
+31/10/2023,Desenvolvimento Arnold,14,8,Bike,20,,
+31/10/2023,Desenvolvimento Arnold,14,8,Bike,20,,
+31/10/2023,Desenvolvimento Arnold,14,8,Bike,20,,
+31/10/2023,Desenvolvimento Com Barra Isometria,24,12,Bike,20,,
+31/10/2023,Desenvolvimento Com Barra Isometria,24,12,Bike,20,,
+31/10/2023,Desenvolvimento Com Barra Isometria,24,11,Bike,20,,
+31/10/2023,Desenvolvimento Com Barra Isometria,24,11,Bike,20,,
+31/10/2023,Desenvolvimento Com Barra Isometria,24,10,Bike,20,,
+01/11/2023,Elevacao Frontal,14.7,14,Eliptico,20,,
+01/11/2023,Elevacao Frontal,17,10,Eliptico,20,,
+01/11/2023,Elevacao Frontal,17,10,Eliptico,20,,
+01/11/2023,Elevacao Frontal,17,10,Eliptico,20,,
+01/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,12,Eliptico,20,,
+01/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,10,Eliptico,20,,
+01/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,10,Eliptico,20,,
+01/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,10,Eliptico,20,,
+01/11/2023,Mesa Flexora,54,12,Eliptico,20,,
+01/11/2023,Mesa Flexora,55,11,Eliptico,20,,
+01/11/2023,Mesa Flexora,55,10,Eliptico,20,,
+01/11/2023,Mesa Flexora,55,7,Eliptico,20,,
+01/11/2023,Stiff,46,11,Eliptico,20,,
+01/11/2023,Stiff,46,12,Eliptico,20,,
+01/11/2023,Stiff,46,12,Eliptico,20,,
+01/11/2023,Stiff,46,12,Eliptico,20,,
+03/11/2023,Remada Baixa,95,12,Bike,9,,
+03/11/2023,Remada Baixa,95,14,Bike,9,,
+03/11/2023,Remada Baixa,95,14,Bike,9,,
+03/11/2023,Remada Baixa,95,14,Bike,9,,
+03/11/2023,Remada Baixa,95,14,Bike,9,,
+03/11/2023,Remada Curvada Com Barra,45,10,Bike,9,,
+03/11/2023,Remada Curvada Com Barra,45,10,Bike,9,,
+03/11/2023,Remada Curvada Com Barra,45,9,Bike,9,,
+03/11/2023,Remada Curvada Com Barra,45,9,Bike,9,,
+03/11/2023,Remada Curvada Com Barra,45,9,Bike,9,,
+03/11/2023,Remada No Smith,20,,Bike,9,,
+03/11/2023,Remada No Smith,19,,Bike,9,,
+03/11/2023,Remada No Smith,14,,Bike,9,,
+03/11/2023,Remada No Smith,16,,Bike,9,,
+03/11/2023,Remada No Smith,15,,Bike,9,,
+03/11/2023,Pulldown,61,12,Bike,9,,
+03/11/2023,Pulldown,61,12,Bike,9,,
+03/11/2023,Pulldown,61,11,Bike,9,,
+03/11/2023,Pulldown,61,12,Bike,9,,
+03/11/2023,Rosca Unilateral Na Polia,23,14,Bike,9,,
+03/11/2023,Rosca Unilateral Na Polia,23,14,Bike,9,,
+03/11/2023,Rosca Unilateral Na Polia,23,12,Bike,9,,
+03/11/2023,Rosca Unilateral Na Polia,23,12,Bike,9,,
+03/11/2023,Puxador Aberto,63,11,Bike,9,,
+03/11/2023,Puxador Aberto,63,10,Bike,9,,
+03/11/2023,Puxador Aberto,63,10,Bike,9,,
+03/11/2023,Puxador Aberto,61,10,Bike,9,,
+03/11/2023,Puxador Aberto,61,9,Bike,9,,
+03/11/2023,Puxador Aberto,47,5,Bike,9,,
+03/11/2023,Puxador Aberto,34,6,Bike,9,,
+03/11/2023,Rosca Direta Barra,30,9,Bike,9,,
+03/11/2023,Rosca Direta Barra,30,9,Bike,9,,
+03/11/2023,Rosca Direta Barra,30,8,Bike,9,,
+03/11/2023,Rosca Direta Barra,30,7,Bike,9,,
+03/11/2023,Rosca Punho,18,12,Bike,9,,
+03/11/2023,Rosca Punho,18,12,Bike,9,,
+03/11/2023,Rosca Punho,18,10,Bike,9,,
+05/11/2023,Triceps Kickback,18,10,,,,
+05/11/2023,Triceps Kickback,18,8,,,,
+05/11/2023,Triceps Kickback,16,12,,,,
+05/11/2023,Triceps Kickback,16,12,,,,
+05/11/2023,Triceps Kickback,16,11,,,,
+05/11/2023,Obliquo Cross-Over,70,12,,,,
+05/11/2023,Obliquo Cross-Over,70,12,,,,
+05/11/2023,Obliquo Cross-Over,70,12,,,,
+05/11/2023,Obliquo Cross-Over,70,12,,,,
+05/11/2023,Obliquo Cross-Over,70,12,,,,
+05/11/2023,Abdominal Na Polia Alta,54,12,,,,
+05/11/2023,Abdominal Na Polia Alta,54,12,,,,
+05/11/2023,Abdominal Na Polia Alta,54,12,,,,
+05/11/2023,Abdominal Na Polia Alta,54,12,,,,
+05/11/2023,Abdominal Na Polia Alta,54,12,,,,
+05/11/2023,Triceps Testa Na Corda,43,11,,,,
+05/11/2023,Triceps Testa Na Corda,43,11,,,,
+05/11/2023,Triceps Testa Na Corda,43,11,,,,
+05/11/2023,Triceps Testa Na Corda,43,9,,,,
+05/11/2023,Triceps Testa Na Corda,43,8,,,,
+05/11/2023,Crucifixo Adutor Na Polia,19,12,,,,
+05/11/2023,Crucifixo Adutor Na Polia,19,12,,,,
+05/11/2023,Crucifixo Adutor Na Polia,19,11,,,,
+05/11/2023,Crucifixo Adutor Na Polia,19,10,,,,
+05/11/2023,Crucifixo Adutor Na Polia,19,9,,,,
+05/11/2023,Mergulho Perna Estendida,20,63,,,,
+05/11/2023,Mergulho Perna Estendida,20,63,,,,
+05/11/2023,Mergulho Perna Estendida,20,63,,,,
+05/11/2023,Mergulho Perna Estendida,20,63,,,,
+05/11/2023,Supino Inclinado Hack,50,10,,,,
+05/11/2023,Supino Inclinado Hack,50,9,,,,
+05/11/2023,Supino Inclinado Hack,50,8,,,,
+07/11/2023,Hack,80,12,Bike,18,,
+07/11/2023,Hack,80,12,Bike,18,,
+07/11/2023,Hack,100,10,Bike,18,,
+07/11/2023,Hack,100,10,Bike,18,,
+07/11/2023,Elevacao De Quadril,70,10,Bike,18,,
+07/11/2023,Elevacao De Quadril,70,10,Bike,18,,
+07/11/2023,Elevacao De Quadril,70,9,Bike,18,,
+07/11/2023,Elevacao De Quadril,70,8,Bike,18,,
+07/11/2023,Elevacao Lateral,5.7,15,Bike,18,,
+07/11/2023,Elevacao Lateral,5.7,14,Bike,18,,
+07/11/2023,Elevacao Lateral,5.7,13,Bike,18,,
+07/11/2023,Elevacao Lateral,5.7,14,Bike,18,,
+07/11/2023,Elevacao Frontal Com Halteres,10,10,Bike,18,,
+07/11/2023,Elevacao Frontal Com Halteres,10,10,Bike,18,,
+07/11/2023,Elevacao Frontal Com Halteres,10,9,Bike,18,,
+07/11/2023,Elevacao Frontal Com Halteres,10,10,Bike,18,,
+07/11/2023,Terra Sumo,30,10,Bike,18,,
+07/11/2023,Terra Sumo,30,10,Bike,18,,
+07/11/2023,Terra Sumo,30,9,Bike,18,,
+07/11/2023,Terra Sumo,30,8,Bike,18,,
+07/11/2023,Remada Unilateral Com Halter,34,10,Bike,18,,
+07/11/2023,Remada Unilateral Com Halter,34,9,Bike,18,,
+07/11/2023,Remada Unilateral Com Halter,34,9,Bike,18,,
+07/11/2023,Remada Unilateral Com Halter,34,9,Bike,18,,
+07/11/2023,Puxada Frente Triangulo,68,9,Bike,18,,
+07/11/2023,Puxada Frente Triangulo,68,10,Bike,18,,
+07/11/2023,Puxada Frente Triangulo,68,9,Bike,18,,
+07/11/2023,Puxada Frente Triangulo,66,9,Bike,18,,
+07/11/2023,Biceps Curl Machine,52,10,Bike,18,,
+07/11/2023,Biceps Curl Machine,52,9,Bike,18,,
+07/11/2023,Biceps Curl Machine,52,9,Bike,18,,
+07/11/2023,Biceps Curl Machine,52,8,Bike,18,,
+07/11/2023,Biceps Martelo,16,10,Bike,18,,
+07/11/2023,Biceps Martelo,16,10,Bike,18,,
+07/11/2023,Biceps Martelo,16,10,Bike,18,,
+07/11/2023,Biceps Martelo,16,9,Bike,18,,
+8/11/2023,Flexao De Braco,25,15,Bike,17,,
+8/11/2023,Flexao De Braco,25,15,Bike,17,,
+8/11/2023,Flexao De Braco,25,15,Bike,17,,
+8/11/2023,Flexao De Braco,25,13,Bike,17,,
+8/11/2023,Flexao De Braco,25,13,Bike,17,,
+8/11/2023,Supino Inclinado Hack,50,12,Bike,17,,
+8/11/2023,Supino Inclinado Hack,50,12,Bike,17,,
+8/11/2023,Supino Inclinado Hack,50,8,Bike,17,,
+8/11/2023,Supino Inclinado Hack,50,8,Bike,17,,
+8/11/2023,Supino Inclinado Hack,50,9,Bike,17,,
+8/11/2023,Supino Reto Halter,24,11,Bike,17,,
+8/11/2023,Supino Reto Halter,24,11,Bike,17,,
+8/11/2023,Supino Reto Halter,24,8,Bike,17,,
+8/11/2023,Supino Reto Halter,24,8,Bike,17,,
+8/11/2023,Supino Reto Halter,24,7,Bike,17,,
+8/11/2023,Crucifixo Voador,79,11,Bike,17,,
+8/11/2023,Crucifixo Voador,79,10,Bike,17,,
+8/11/2023,Crucifixo Voador,79,10,Bike,17,,
+8/11/2023,Crucifixo Voador,79,9,Bike,17,,
+8/11/2023,Crucifixo Voador,79,7,Bike,17,,
+8/11/2023,Desenvolvimento Arnold,14,11,Bike,17,,
+8/11/2023,Desenvolvimento Arnold,14,9,Bike,17,,
+8/11/2023,Desenvolvimento Arnold,14,8,Bike,17,,
+8/11/2023,Desenvolvimento Arnold,14,8,Bike,17,,
+8/11/2023,Desenvolvimento Arnold,14,8,Bike,17,,
+8/11/2023,Desenvolvimento Com Barra Isometria,26,11,Bike,17,,
+8/11/2023,Desenvolvimento Com Barra Isometria,26,11,Bike,17,,
+8/11/2023,Desenvolvimento Com Barra Isometria,26,9,Bike,17,,
+8/11/2023,Desenvolvimento Com Barra Isometria,26,10,Bike,17,,
+8/11/2023,Desenvolvimento Com Barra Isometria,26,9,Bike,17,,
+9/11/2023,Elevacao Frontal,17,11,Caminhada,20,,
+9/11/2023,Elevacao Frontal,17,11,Caminhada,20,,
+9/11/2023,Elevacao Frontal,17,11,Caminhada,20,,
+9/11/2023,Elevacao Frontal,17,11,Caminhada,20,,
+9/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,11,Caminhada,20,,
+9/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,11,Caminhada,20,,
+9/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,11,Caminhada,20,,
+9/11/2023,Crucifixo Abdutor Na Polia Unilateral,5.7,10,Caminhada,20,,
+9/11/2023,Mesa Flexora,55,11,Caminhada,20,,
+9/11/2023,Mesa Flexora,55,9,Caminhada,20,,
+9/11/2023,Mesa Flexora,55,9,Caminhada,20,,
+9/11/2023,Mesa Flexora,55,7,Caminhada,20,,
+9/11/2023,Stiff,46,11,Caminhada,20,,
+9/11/2023,Stiff,46,12,Caminhada,20,,
+9/11/2023,Stiff,46,12,Caminhada,20,,
+9/11/2023,Stiff,46,12,Caminhada,20,,
+9/11/2023,Flexao De Joelho Na Extensora,16,10,Caminhada,20,,
+9/11/2023,Flexao De Joelho Na Extensora,16,10,Caminhada,20,,
+9/11/2023,Flexao De Joelho Na Extensora,16,8,Caminhada,20,,
+9/11/2023,Flexao De Joelho Na Extensora,16,8,Caminhada,20,,
+9/11/2023,Bom Dia,30,11,Caminhada,20,,
+9/11/2023,Bom Dia,30,11,Caminhada,20,,
+9/11/2023,Bom Dia,30,12,Caminhada,20,,
+9/11/2023,Extensora Isometria,41,12,Caminhada,20,,
+9/11/2023,Extensora Isometria,41,12,Caminhada,20,,
+9/11/2023,Extensora Isometria,41,11,Caminhada,20,,
+9/11/2023,Extensora Isometria,41,10,Caminhada,20,,
+10/11/2023,Remada Baixa,95,14,Bike,18,,
+10/11/2023,Remada Baixa,95,14,Bike,18,,
+10/11/2023,Remada Baixa,95,14,Bike,18,,
+10/11/2023,Remada Baixa,95,14,Bike,18,,
+10/11/2023,Remada Baixa,95,14,Bike,18,,
+10/11/2023,Remada Curvada Com Barra,45,10,Bike,18,,
+10/11/2023,Remada Curvada Com Barra,45,9,Bike,18,,
+10/11/2023,Remada Curvada Com Barra,45,8,Bike,18,,
+10/11/2023,Remada Curvada Com Barra,45,9,Bike,18,,
+10/11/2023,Remada Curvada Com Barra,45,8,Bike,18,,
+10/11/2023,Remada No Smith,19,,Bike,18,,
+10/11/2023,Remada No Smith,18,,Bike,18,,
+10/11/2023,Remada No Smith,16,,Bike,18,,
+10/11/2023,Remada No Smith,16,,Bike,18,,
+10/11/2023,Pulldown,64,12,Bike,18,,
+10/11/2023,Pulldown,64,11,Bike,18,,
+10/11/2023,Pulldown,64,11,Bike,18,,
+10/11/2023,Pulldown,64,10,Bike,18,,
+10/11/2023,Rosca Unilateral Na Polia,25,10,Bike,18,,
+10/11/2023,Rosca Unilateral Na Polia,25,10,Bike,18,,
+10/11/2023,Rosca Unilateral Na Polia,25,10,Bike,18,,
+10/11/2023,Rosca Unilateral Na Polia,25,10,Bike,18,,
+10/11/2023,Puxador Aberto,66,10,Bike,18,,
+10/11/2023,Puxador Aberto,66,10,Bike,18,,
+10/11/2023,Puxador Aberto,66,9,Bike,18,,
+10/11/2023,Puxador Aberto,66,8,Bike,18,,
+10/11/2023,Puxador Aberto,66,8,Bike,18,,
+10/11/2023,Puxador Aberto,52,5,Bike,18,,
+10/11/2023,Puxador Aberto,39,5,Bike,18,,
+10/11/2023,Rosca Direta Barra,30,9,Bike,18,,
+10/11/2023,Rosca Direta Barra,30,9,Bike,18,,
+10/11/2023,Rosca Direta Barra,30,9,Bike,18,,
+10/11/2023,Rosca Direta Barra,30,9,Bike,18,,
+10/11/2023,Rosca Punho,18,12,Bike,18,,
+10/11/2023,Rosca Punho,18,12,Bike,18,,
+10/11/2023,Rosca Punho,18,12,Bike,18,,
+13/11/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,18,17.0,5.0
+13/11/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,18,17.0,5.0
+13/11/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,18,17.0,5.0
+13/11/2023,Supino Maquina,59,10,Bike,18,17.0,5.0
+13/11/2023,Supino Maquina,59,10,Bike,18,47.0,5.0
+13/11/2023,Supino Maquina,63,10,Bike,18,51.0,5.0
+13/11/2023,Biceps Curl Machine,50,10,Bike,18,41.0,5.0
+13/11/2023,Biceps Curl Machine,54,10,Bike,18,44.0,5.0
+13/11/2023,Biceps Curl Machine,59,10,Bike,18,47.0,5.0
+13/11/2023,Supino Reto Hack,60,10,Bike,18,45.0,5.0
+13/11/2023,Supino Reto Hack,60,9,Bike,18,45.0,5.0
+13/11/2023,Supino Reto Hack,60,8,Bike,18,45.0,5.0
+13/11/2023,Supino Inclinado Hack,50,8,Bike,18,45.0,5.0
+13/11/2023,Supino Inclinado Hack,50,8,Bike,18,40.0,5.0
+13/11/2023,Supino Inclinado Hack,50,6,Bike,18,40.0,5.0
+13/11/2023,Supino Inclinado Halter,22,10,Bike,18,18.0,5.0
+13/11/2023,Supino Inclinado Halter,22,10,Bike,18,18.0,4.0
+13/11/2023,Supino Inclinado Halter,22,9,Bike,18,18.0,5.0
+13/11/2023,Biceps Pulley Corda,36,10,Bike,18,29.0,5.0
+13/11/2023,Biceps Pulley Corda,36,10,Bike,18,29.0,5.0
+13/11/2023,Biceps Pulley Corda,36,10,Bike,18,29.0,6.0
+13/11/2023,Rosca 45,12,10,Bike,18,10.0,5.0
+13/11/2023,Rosca 45,12,10,Bike,18,10.0,5.0
+13/11/2023,Rosca 45,12,9,Bike,18,10.0,5.0
+13/11/2023,Concentrado,10,9,Bike,18,10.0,5.0
+13/11/2023,Concentrado,10,10,Bike,18,10.0,5.0
+13/11/2023,Concentrado,10,10,Bike,18,10.0,5.0
+15/11/2023,Cadeira Flexora,32,10,Caminhada,30,27.0,5.0
+15/11/2023,Cadeira Flexora,36,8,Caminhada,30,32.0,5.0
+15/11/2023,Cadeira Flexora,32,8,Caminhada,30,27.0,5.0
+15/11/2023,Stiff,60,10,Caminhada,30,46.0,5.0
+15/11/2023,Stiff,60,8,Caminhada,30,46.0,5.0
+15/11/2023,Stiff,60,10,Caminhada,30,46.0,5.0
+15/11/2023,Mesa Flexora,54,10,Caminhada,30,45.0,5.0
+15/11/2023,Mesa Flexora,56,8,Caminhada,30,47.0,5.0
+15/11/2023,Mesa Flexora,56,8,Caminhada,30,47.0,4.0
+15/11/2023,Agachamento Livre,50,10,Caminhada,30,47.0,4.0
+15/11/2023,Agachamento Livre,50,10,Caminhada,30,47.0,4.0
+15/11/2023,Agachamento Livre,50,10,Caminhada,30,47.0,4.0
+15/11/2023,Bulgaro,12,10,Caminhada,30,47.0,4.0
+15/11/2023,Bulgaro,12,10,Caminhada,30,47.0,4.0
+15/11/2023,Bulgaro,12,10,Caminhada,30,47.0,4.0
+15/11/2023,Leg 45,200,10,Caminhada,30,47.0,4.0
+15/11/2023,Leg 45,200,10,Caminhada,30,47.0,4.0
+15/11/2023,Leg 45,200,10,Caminhada,30,47.0,4.0
+15/11/2023,Gemeos Sentado,40,10,Caminhada,30,47.0,4.0
+15/11/2023,Gemeos Sentado,40,10,Caminhada,30,47.0,4.0
+15/11/2023,Gemeos Sentado,40,10,Caminhada,30,47.0,4.0
+15/11/2023,Hack,80,10,Caminhada,30,40.0,5.0
+15/11/2023,Hack,100,10,Caminhada,30,80.0,5.0
+15/11/2023,Hack,100,10,Caminhada,30,80.0,5.0
+15/11/2023,Abdominal Crunch,41,10,Caminhada,30,32.0,5.0
+15/11/2023,Abdominal Crunch,50,10,Caminhada,30,41.0,5.0
+15/11/2023,Abdominal Crunch,59,9,Caminhada,30,50.0,5.0
+16/11/2023,Remada Cavalinho,50,10,Eliptico,20,40.0,5.0
+16/11/2023,Remada Cavalinho,50,10,Eliptico,20,40.0,5.0
+16/11/2023,Remada Cavalinho,50,10,Eliptico,20,40.0,5.0
+16/11/2023,Remada Na Maquina,59,10,Eliptico,20,50.0,5.0
+16/11/2023,Remada Na Maquina,59,10,Eliptico,20,50.0,5.0
+16/11/2023,Remada Na Maquina,59,10,Eliptico,20,50.0,5.0
+16/11/2023,Pulldown,59,10,Eliptico,20,50.0,5.0
+16/11/2023,Pulldown,68,10,Eliptico,20,56.0,5.0
+16/11/2023,Pulldown,68,10,Eliptico,20,56.0,5.0
+16/11/2023,Puxada Frente Triangulo,66,10,Eliptico,20,56.0,4.0
+16/11/2023,Puxada Frente Triangulo,66,10,Eliptico,20,54.0,5.0
+16/11/2023,Puxada Frente Triangulo,66,9,Eliptico,20,54.0,5.0
+16/11/2023,Remada Unilateral Com Halter,34,8,Eliptico,20,54.0,5.0
+16/11/2023,Remada Unilateral Com Halter,32,10,Eliptico,20,54.0,5.0
+16/11/2023,Remada Unilateral Com Halter,30,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Mergulho,10,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Mergulho,10,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Mergulho,10,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Halter,14,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Halter,18,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Halter,18,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Cross,23,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Cross,27,10,Eliptico,20,54.0,5.0
+16/11/2023,Triceps Frances Cross,27,8,Eliptico,20,54.0,5.0
+17/11/2023,Abdominal Crossfit Com Anilha,10,20,Caminhada,18,54.0,5.0
+17/11/2023,Abdominal Crossfit Com Anilha,10,20,Caminhada,18,54.0,5.0
+17/11/2023,Abdominal Crossfit Com Anilha,10,20,Caminhada,18,54.0,5.0
+17/11/2023,Voador,52,20,Caminhada,18,39.0,5.0
+17/11/2023,Voador,59,20,Caminhada,18,45.0,5.0
+17/11/2023,Voador,66,20,Caminhada,18,52.0,5.0
+17/11/2023,Voador,66,19,Caminhada,18,52.0,5.0
+17/11/2023,Supino Reto Halter,18,20,Caminhada,18,14.0,5.0
+17/11/2023,Supino Reto Halter,18,20,Caminhada,18,14.0,5.0
+17/11/2023,Supino Reto Halter,18,20,Caminhada,18,14.0,5.0
+17/11/2023,Supino Reto Halter,18,20,Caminhada,18,14.0,5.0
+17/11/2023,Supino Inclinado Halter,18,19,Caminhada,18,14.0,5.0
+17/11/2023,Supino Inclinado Halter,18,15,Caminhada,18,14.0,5.0
+17/11/2023,Supino Inclinado Halter,18,16,Caminhada,18,14.0,5.0
+17/11/2023,Supino Inclinado Halter,18,14,Caminhada,18,14.0,5.0
+17/11/2023,Supino Maquina,36,20,Caminhada,18,30.0,5.0
+17/11/2023,Supino Maquina,36,18,Caminhada,18,30.0,5.0
+17/11/2023,Supino Maquina,36,16,Caminhada,18,30.0,5.0
+17/11/2023,Supino Maquina,36,17,Caminhada,18,30.0,5.0
+17/11/2023,Elevacao Lateral,10,19,Caminhada,18,8.0,5.0
+17/11/2023,Elevacao Lateral,10,19,Caminhada,18,8.0,5.0
+17/11/2023,Elevacao Lateral,10,17,Caminhada,18,8.0,5.0
+17/11/2023,Elevacao Lateral,10,17,Caminhada,18,8.0,5.0
+17/11/2023,Desenvolvimento Maquina,27,18,Caminhada,18,23.0,5.0
+17/11/2023,Desenvolvimento Maquina,27,16,Caminhada,18,23.0,5.0
+17/11/2023,Desenvolvimento Maquina,27,16,Caminhada,18,23.0,5.0
+17/11/2023,Desenvolvimento Maquina,27,17,Caminhada,18,23.0,4.0
+18/11/2023,Extensora Isometria,56,10,,,45.0,5.0
+18/11/2023,Extensora Isometria,56,10,,,45.0,5.0
+18/11/2023,Extensora Isometria,59,10,,,45.0,5.0
+18/11/2023,Terra Sumo,40,10,,,45.0,5.0
+18/11/2023,Terra Sumo,40,8,,,45.0,5.0
+18/11/2023,Terra Sumo,40,8,,,45.0,5.0
+18/11/2023,Agachamento Hack,60,9,,,45.0,5.0
+18/11/2023,Agachamento Hack,60,8,,,45.0,5.0
+18/11/2023,Agachamento Hack,60,10,,,45.0,5.0
+18/11/2023,Cadeira Abdutora,54,10,,,45.0,5.0
+18/11/2023,Cadeira Abdutora,50,10,,,45.0,5.0
+18/11/2023,Cadeira Abdutora,63,10,,,45.0,5.0
+18/11/2023,Cadeira Adutora,59,10,,,45.0,5.0
+18/11/2023,Cadeira Adutora,54,10,,,45.0,5.0
+18/11/2023,Cadeira Adutora,59,10,,,45.0,5.0
+18/11/2023,Levantamento Pelvico,60,10,,,45.0,5.0
+18/11/2023,Levantamento Pelvico,60,9,,,45.0,5.0
+18/11/2023,Levantamento Pelvico,60,8,,,45.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,7,20,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,18,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,19,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,18,Bike,15,6.0,5.0
+19/11/2023,Arnold,10,18,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,17,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,16,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,16,Bike,15,9.0,5.0
+19/11/2023,Desenvolvimento Com Barra,30,10,Bike,15,24.0,5.0
+19/11/2023,Desenvolvimento Com Barra,34,10,Bike,15,24.0,5.0
+19/11/2023,Desenvolvimento Com Barra,34,10,Bike,15,24.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,8,10,Bike,15,24.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,10,10,Bike,15,8.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,10,10,Bike,15,8.0,5.0
+19/11/2023,Crucifixo Inverso Peck,66,10,Bike,15,59.0,5.0
+19/11/2023,Crucifixo Inverso Peck,73,10,Bike,15,59.0,5.0
+19/11/2023,Crucifixo Inverso Peck,73,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,9,10,Bike,15,59.0,5.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,10,Caminhada,30,17.0,6.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,10,Caminhada,30,17.0,5.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,9,Caminhada,30,17.0,5.0
+21/11/2023,Supino Maquina,63,10,Caminhada,30,17.0,5.0
+21/11/2023,Supino Maquina,63,8,Caminhada,30,51.0,5.0
+21/11/2023,Supino Maquina,63,10,Caminhada,30,51.0,5.0
+21/11/2023,Biceps Curl Machine,59,10,Caminhada,30,50.0,5.0
+21/11/2023,Biceps Curl Machine,59,8,Caminhada,30,50.0,5.0
+21/11/2023,Biceps Curl Machine,59,8,Caminhada,30,50.0,4.0
+21/11/2023,Supino Reto Hack,60,9,Caminhada,30,45.0,5.0
+21/11/2023,Supino Reto Hack,60,10,Caminhada,30,45.0,5.0
+21/11/2023,Supino Reto Hack,60,9,Caminhada,30,45.0,5.0
+21/11/2023,Supino Inclinado Hack,50,9,Caminhada,30,40.0,5.0
+21/11/2023,Supino Inclinado Hack,50,8,Caminhada,30,40.0,5.0
+21/11/2023,Supino Inclinado Hack,50,7,Caminhada,30,40.0,5.0
+21/11/2023,Supino Inclinado Halter,24,8,Caminhada,30,18.0,4.0
+21/11/2023,Supino Inclinado Halter,24,7,Caminhada,30,18.0,4.0
+21/11/2023,Supino Inclinado Halter,24,7,Caminhada,30,18.0,4.0
+21/11/2023,Biceps Pulley Corda,38,10,Caminhada,30,32.0,5.0
+21/11/2023,Biceps Pulley Corda,41,10,Caminhada,30,32.0,5.0
+21/11/2023,Biceps Pulley Corda,45,10,Caminhada,30,36.0,5.0
+21/11/2023,Rosca 45,14,9,Caminhada,30,10.0,5.0
+21/11/2023,Rosca 45,12,10,Caminhada,30,10.0,5.0
+21/11/2023,Rosca 45,12,10,Caminhada,30,10.0,4.0
+21/11/2023,Concentrado,10,10,Caminhada,30,8.0,4.0
+21/11/2023,Concentrado,10,10,Caminhada,30,8.0,5.0
+21/11/2023,Concentrado,10,10,Caminhada,30,8.0,4.0
+22/11/2023,Cadeira Flexora,36,10,,,29.0,5.0
+22/11/2023,Cadeira Flexora,36,10,,,29.0,5.0
+22/11/2023,Cadeira Flexora,36,10,,,29.0,5.0
+22/11/2023,Stiff,65,10,,,46.0,5.0
+22/11/2023,Stiff,65,10,,,46.0,5.0
+22/11/2023,Stiff,65,10,,,46.0,5.0
+22/11/2023,Mesa Flexora,56,10,,,46.0,5.0
+22/11/2023,Mesa Flexora,57,10,,,46.0,5.0
+22/11/2023,Mesa Flexora,59,10,,,50.0,5.0
+22/11/2023,Agachamento Livre,50,10,,,50.0,5.0
+22/11/2023,Agachamento Livre,60,8,,,50.0,5.0
+22/11/2023,Agachamento Livre,60,8,,,50.0,5.0
+22/11/2023,Bulgaro,14,10,,,50.0,5.0
+22/11/2023,Bulgaro,14,9,,,50.0,5.0
+22/11/2023,Bulgaro,14,8,,,50.0,5.0
+22/11/2023,Leg 45,200,10,,,50.0,5.0
+22/11/2023,Leg 45,240,10,,,50.0,5.0
+22/11/2023,Leg 45,240,10,,,50.0,5.0
+22/11/2023,Gemeos Sentado,40,10,,,50.0,5.0
+22/11/2023,Gemeos Sentado,60,6,,,50.0,5.0
+22/11/2023,Gemeos Sentado,50,10,,,50.0,5.0
+22/11/2023,Hack,100,8,,,80.0,5.0
+22/11/2023,Hack,100,10,,,80.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,7,20,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,18,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,19,Bike,15,6.0,5.0
+19/11/2023,Crucifixo Abdutor Banco,8,18,Bike,15,6.0,5.0
+19/11/2023,Arnold,10,18,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,17,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,16,Bike,15,9.0,5.0
+19/11/2023,Arnold,10,16,Bike,15,9.0,5.0
+19/11/2023,Desenvolvimento Com Barra,30,10,Bike,15,24.0,5.0
+19/11/2023,Desenvolvimento Com Barra,34,10,Bike,15,24.0,5.0
+19/11/2023,Desenvolvimento Com Barra,34,10,Bike,15,24.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,8,10,Bike,15,24.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,10,10,Bike,15,8.0,5.0
+19/11/2023,Crucifixo Sentado Inverso,10,10,Bike,15,8.0,5.0
+19/11/2023,Crucifixo Inverso Peck,66,10,Bike,15,59.0,5.0
+19/11/2023,Crucifixo Inverso Peck,73,10,Bike,15,59.0,5.0
+19/11/2023,Crucifixo Inverso Peck,73,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Rotacao Externa Ombro,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,11,10,Bike,15,59.0,5.0
+19/11/2023,Lateral Cross,9,10,Bike,15,59.0,5.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,10,Andando,30,17.0,6.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,10,Andando,30,17.0,5.0
+21/11/2023,Crucifixo Adutor Na Polia,21.6,9,Andando,30,17.0,5.0
+21/11/2023,Supino Maquina,63,10,Andando,30,17.0,5.0
+21/11/2023,Supino Maquina,63,8,Andando,30,51.0,5.0
+21/11/2023,Supino Maquina,63,10,Andando,30,51.0,5.0
+21/11/2023,Biceps Curl Machine,59,10,Andando,30,50.0,5.0
+21/11/2023,Biceps Curl Machine,59,8,Andando,30,50.0,5.0
+21/11/2023,Biceps Curl Machine,59,8,Andando,30,50.0,4.0
+21/11/2023,Supino Reto Hack,60,9,Andando,30,45.0,5.0
+21/11/2023,Supino Reto Hack,60,10,Andando,30,45.0,5.0
+21/11/2023,Supino Reto Hack,60,9,Andando,30,45.0,5.0
+21/11/2023,Supino Inclinado Hack,50,9,Andando,30,40.0,5.0
+21/11/2023,Supino Inclinado Hack,50,8,Andando,30,40.0,5.0
+21/11/2023,Supino Inclinado Hack,50,7,Andando,30,40.0,5.0
+21/11/2023,Supino Inclinado Halter,24,8,Andando,30,18.0,4.0
+21/11/2023,Supino Inclinado Halter,24,7,Andando,30,18.0,4.0
+21/11/2023,Supino Inclinado Halter,24,7,Andando,30,18.0,4.0
+21/11/2023,Biceps Pulley Corda,38,10,Andando,30,32.0,5.0
+21/11/2023,Biceps Pulley Corda,41,10,Andando,30,32.0,5.0
+21/11/2023,Biceps Pulley Corda,45,10,Andando,30,36.0,5.0
+21/11/2023,Rosca 45,14,9,Andando,30,10.0,5.0
+21/11/2023,Rosca 45,12,10,Andando,30,10.0,5.0
+21/11/2023,Rosca 45,12,10,Andando,30,10.0,4.0
+21/11/2023,Concentrado,10,10,Andando,30,8.0,4.0
+21/11/2023,Concentrado,10,10,Andando,30,8.0,5.0
+21/11/2023,Concentrado,10,10,Andando,30,8.0,4.0
+22/11/2023,Cadeira Flexora,36,10,Bike,18,29.0,5.0
+22/11/2023,Cadeira Flexora,36,10,Bike,18,29.0,5.0
+22/11/2023,Cadeira Flexora,36,10,Bike,18,29.0,5.0
+22/11/2023,Stiff,65,10,Bike,18,46.0,5.0
+22/11/2023,Stiff,65,10,Bike,18,46.0,5.0
+22/11/2023,Stiff,65,10,Bike,18,46.0,5.0
+22/11/2023,Mesa Flexora,56,10,Bike,18,46.0,5.0
+22/11/2023,Mesa Flexora,57,10,Bike,18,46.0,5.0
+22/11/2023,Mesa Flexora,59,10,Bike,18,50.0,5.0
+22/11/2023,Agachamento Livre,50,10,Bike,18,50.0,5.0
+22/11/2023,Agachamento Livre,60,8,Bike,18,50.0,5.0
+22/11/2023,Agachamento Livre,60,8,Bike,18,50.0,5.0
+22/11/2023,Bulgaro,14,10,Bike,18,50.0,5.0
+22/11/2023,Bulgaro,14,9,Bike,18,50.0,5.0
+22/11/2023,Bulgaro,14,8,Bike,18,50.0,5.0
+22/11/2023,Leg 45,200,10,Bike,18,50.0,5.0
+22/11/2023,Leg 45,240,10,Bike,18,50.0,5.0
+22/11/2023,Leg 45,240,10,Bike,18,50.0,5.0
+22/11/2023,Gemeos Sentado,40,10,Bike,18,50.0,5.0
+22/11/2023,Gemeos Sentado,60,6,Bike,18,50.0,5.0
+22/11/2023,Gemeos Sentado,50,10,Bike,18,50.0,5.0
+22/11/2023,Hack,100,8,Bike,18,80.0,5.0
+22/11/2023,Hack,100,10,Bike,18,80.0,5.0
+26/11/2023,Extensora Isometria,59,10,,,51.0,5.0
+26/11/2023,Extensora Isometria,59,8,,,51.0,5.0
+26/11/2023,Extensora Isometria,59,10,,,51.0,5.0
+26/11/2023,Cadeira Abdutora,63,10,,,51.0,5.0
+26/11/2023,Cadeira Abdutora,63,10,,,51.0,5.0
+26/11/2023,Cadeira Abdutora,63,10,,,51.0,5.0
+26/11/2023,Cadeira Adutora,63,10,,,51.0,5.0
+26/11/2023,Cadeira Adutora,63,10,,,51.0,5.0
+26/11/2023,Cadeira Adutora,63,10,,,51.0,5.0
+26/11/2023,Levantamento Pelvico,65,9,,,51.0,5.0
+26/11/2023,Levantamento Pelvico,65,9,,,51.0,5.0
+26/11/2023,Levantamento Pelvico,65,9,,,51.0,5.0
+28/11/2023,Crucifixo Adutor Na Polia,21.6,10,Eliptico,20,17.0,5.0
+28/11/2023,Crucifixo Adutor Na Polia,21.6,10,Eliptico,20,17.0,5.0
+28/11/2023,Crucifixo Adutor Na Polia,21.6,9,Eliptico,20,17.0,5.0
+28/11/2023,Supino Maquina,65,8,Eliptico,20,51.0,5.0
+28/11/2023,Supino Maquina,65,8,Eliptico,20,51.0,5.0
+28/11/2023,Supino Maquina,65,7,Eliptico,20,51.0,4.0
+28/11/2023,Biceps Curl Machine,59,10,Eliptico,20,50.0,5.0
+28/11/2023,Biceps Curl Machine,63,9,Eliptico,20,50.0,5.0
+28/11/2023,Biceps Curl Machine,63,8,Eliptico,20,50.0,4.0
+28/11/2023,Supino Reto Hack,65,7,Eliptico,20,45.0,5.0
+28/11/2023,Supino Reto Hack,60,9,Eliptico,20,40.0,5.0
+28/11/2023,Supino Reto Hack,60,9,Eliptico,20,40.0,5.0
+28/11/2023,Supino Inclinado Hack,50,8,Eliptico,20,40.0,5.0
+28/11/2023,Supino Inclinado Hack,50,8,Eliptico,20,40.0,5.0
+28/11/2023,Supino Inclinado Hack,50,7,Eliptico,20,40.0,4.0
+28/11/2023,Supino Inclinado Halter,24,8,Eliptico,20,18.0,5.0
+28/11/2023,Supino Inclinado Halter,24,8,Eliptico,20,18.0,4.0
+28/11/2023,Supino Inclinado Halter,24,7,Eliptico,20,18.0,4.0
+28/11/2023,Biceps Pulley Corda,45,10,Eliptico,20,36.0,5.0
+28/11/2023,Biceps Pulley Corda,45,10,Eliptico,20,36.0,5.0
+28/11/2023,Biceps Pulley Corda,45,10,Eliptico,20,36.0,5.0
+28/11/2023,Rosca 45,14,9,Eliptico,20,10.0,5.0
+28/11/2023,Rosca 45,14,7,Eliptico,20,10.0,5.0
+28/11/2023,Rosca 45,14,6,Eliptico,20,10.0,4.0
+28/11/2023,Concentrado,12,8,Eliptico,20,8.0,5.0
+28/11/2023,Concentrado,12,7,Eliptico,20,8.0,4.0
+28/11/2023,Concentrado,12,7,Eliptico,20,8.0,5.0
+29/11/2023,Cadeira Flexora,37,10,,,28.0,5.0
+29/11/2023,Cadeira Flexora,37,10,,,30.0,5.0
+29/11/2023,Cadeira Flexora,37,8,,,30.0,4.0
+29/11/2023,Stiff,65,10,,,46.0,5.0
+29/11/2023,Stiff,65,10,,,46.0,5.0
+29/11/2023,Stiff,65,10,,,46.0,5.0
+29/11/2023,Mesa Flexora,59,10,,,50.0,5.0
+29/11/2023,Mesa Flexora,59,8,,,50.0,5.0
+29/11/2023,Mesa Flexora,59,10,,,50.0,5.0
+29/11/2023,Agachamento Livre,60,10,,,50.0,5.0
+29/11/2023,Agachamento Livre,65,8,,,50.0,5.0
+29/11/2023,Agachamento Livre,60,8,,,50.0,5.0
+29/11/2023,Bulgaro,14,10,,,50.0,5.0
+29/11/2023,Bulgaro,14,10,,,50.0,5.0
+29/11/2023,Bulgaro,14,10,,,50.0,5.0
+29/11/2023,Leg 45,220,10,,,50.0,5.0
+29/11/2023,Leg 45,240,10,,,50.0,5.0
+29/11/2023,Leg 45,240,10,,,50.0,5.0
+29/11/2023,Gemeos Sentado,50,10,,,50.0,5.0
+29/11/2023,Gemeos Sentado,50,10,,,50.0,5.0
+29/11/2023,Gemeos Sentado,50,10,,,50.0,5.0
+29/11/2023,Abdominal Crunch,59,10,,,50.0,5.0
+29/11/2023,Abdominal Crunch,59,10,,,50.0,5.0
+29/11/2023,Abdominal Crunch,59,9,,,50.0,5.0
+30/11/2023,Remada Cavalinho,55,10,Bike,18,45.0,5.0
+30/11/2023,Remada Cavalinho,55,10,Bike,18,45.0,5.0
+30/11/2023,Remada Cavalinho,55,8,Bike,18,45.0,5.0
+30/11/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+30/11/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+30/11/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+30/11/2023,Pulldown,72,10,Bike,18,59.0,5.0
+30/11/2023,Pulldown,72,10,Bike,18,59.0,5.0
+30/11/2023,Pulldown,72,9,Bike,18,59.0,5.0
+30/11/2023,Puxada Frente Triangulo,66,10,Bike,18,56.0,4.0
+30/11/2023,Puxada Frente Triangulo,66,8,Bike,18,56.0,5.0
+30/11/2023,Puxada Frente Triangulo,66,8,Bike,18,56.0,5.0
+30/11/2023,Remada Unilateral Com Halter,30,10,Bike,18,56.0,5.0
+30/11/2023,Remada Unilateral Com Halter,30,9,Bike,18,56.0,5.0
+30/11/2023,Remada Unilateral Com Halter,30,9,Bike,18,56.0,5.0
+30/11/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+30/11/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+30/11/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+30/11/2023,Triceps Barra Cross,45,10,Bike,18,36.0,5.0
+30/11/2023,Triceps Barra Cross,54,10,Bike,18,45.0,5.0
+30/11/2023,Triceps Barra Cross,54,9,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Halter,20,9,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Halter,20,10,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Halter,20,10,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Cross,23,8,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Cross,23,8,Bike,18,45.0,4.0
+30/11/2023,Triceps Frances Cross,23,9,Bike,18,45.0,4.0
+2/12/2023,Abdominal Crossfit Com Anilha,10,20,Bike,18,45.0,4.0
+2/12/2023,Abdominal Crossfit Com Anilha,10,20,Bike,18,45.0,4.0
+2/12/2023,Abdominal Crossfit Com Anilha,10,20,Bike,18,45.0,4.0
+2/12/2023,Voador,66,20,Bike,18,52.0,5.0
+2/12/2023,Voador,73,19,Bike,18,59.0,5.0
+2/12/2023,Voador,73,15,Bike,18,59.0,5.0
+2/12/2023,Voador,73,15,Bike,18,59.0,5.0
+2/12/2023,Supino Reto Halter,20,19,Bike,18,16.0,5.0
+2/12/2023,Supino Reto Halter,20,18,Bike,18,16.0,5.0
+2/12/2023,Supino Reto Halter,20,18,Bike,18,16.0,5.0
+2/12/2023,Supino Reto Halter,20,18,Bike,18,16.0,5.0
+2/12/2023,Supino Inclinado Halter,18,17,Bike,18,14.0,5.0
+2/12/2023,Supino Inclinado Halter,18,16,Bike,18,14.0,5.0
+2/12/2023,Supino Inclinado Halter,18,16,Bike,18,14.0,5.0
+2/12/2023,Supino Inclinado Halter,18,14,Bike,18,14.0,5.0
+2/12/2023,Supino Maquina,38,19,Bike,18,32.0,5.0
+2/12/2023,Supino Maquina,38,19,Bike,18,32.0,5.0
+2/12/2023,Supino Maquina,38,18,Bike,18,32.0,5.0
+2/12/2023,Supino Maquina,38,18,Bike,18,32.0,5.0
+2/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+2/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+2/12/2023,Elevacao Lateral,10,19,Bike,18,8.0,5.0
+2/12/2023,Elevacao Lateral,10,18,Bike,18,8.0,5.0
+2/12/2023,Crucifixo Abdutor Banco,8,16,Bike,18,7.0,5.0
+2/12/2023,Crucifixo Abdutor Banco,8,17,Bike,18,7.0,5.0
+2/12/2023,Crucifixo Abdutor Banco,8,15,Bike,18,7.0,5.0
+4/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+4/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+4/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+4/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+4/12/2023,Desenvolvimento Maquina,27,20,Bike,18,23.0,5.0
+4/12/2023,Desenvolvimento Maquina,27,20,Bike,18,23.0,5.0
+4/12/2023,Desenvolvimento Maquina,27,20,Bike,18,23.0,5.0
+4/12/2023,Desenvolvimento Maquina,27,20,Bike,18,23.0,5.0
+4/12/2023,Crucifixo Sentado Inverso,10,10,Bike,18,8.0,5.0
+4/12/2023,Crucifixo Sentado Inverso,10,10,Bike,18,8.0,5.0
+4/12/2023,Crucifixo Sentado Inverso,10,10,Bike,18,8.0,5.0
+4/12/2023,Desenvolvimento Com Barra,38,10,Bike,18,30.0,5.0
+4/12/2023,Desenvolvimento Com Barra,38,10,Bike,18,30.0,5.0
+4/12/2023,Desenvolvimento Com Barra,38,10,Bike,18,30.0,5.0
+4/12/2023,Crucifixo Inverso Peck,73,10,Bike,18,59.0,5.0
+4/12/2023,Crucifixo Inverso Peck,73,10,Bike,18,59.0,5.0
+4/12/2023,Crucifixo Inverso Peck,73,10,Bike,18,59.0,5.0
+4/12/2023,Rotacao Externa Ombro,11,10,Bike,18,59.0,5.0
+4/12/2023,Rotacao Externa Ombro,11,10,Bike,18,59.0,5.0
+4/12/2023,Rotacao Externa Ombro,11,10,Bike,18,59.0,5.0
+4/12/2023,Lateral Cross,11,10,Bike,18,59.0,5.0
+4/12/2023,Lateral Cross,11,9,Bike,18,59.0,5.0
+4/12/2023,Lateral Cross,11,8,Bike,18,59.0,5.0
+5/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,20,17.0,5.0
+5/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,20,17.0,5.0
+5/12/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,20,17.0,5.0
+5/12/2023,Supino Reto Hack,65,10,Bike,20,50.0,5.0
+5/12/2023,Supino Reto Hack,70,8,Bike,20,50.0,5.0
+5/12/2023,Supino Reto Hack,70,9,Bike,20,50.0,5.0
+5/12/2023,Supino Inclinado Hack,70,9,Bike,20,50.0,5.0
+5/12/2023,Supino Inclinado Hack,70,8,Bike,20,50.0,5.0
+5/12/2023,Supino Inclinado Hack,70,7,Bike,20,50.0,5.0
+5/12/2023,Supino Maquina,50,8,Bike,20,41.0,5.0
+5/12/2023,Supino Maquina,50,10,Bike,20,41.0,5.0
+5/12/2023,Supino Maquina,54,10,Bike,20,45.0,5.0
+5/12/2023,Biceps Curl Machine,59,10,Bike,20,50.0,5.0
+5/12/2023,Biceps Curl Machine,59,10,Bike,20,50.0,5.0
+5/12/2023,Biceps Curl Machine,59,10,Bike,20,50.0,5.0
+5/12/2023,Supino Inclinado Halter,22,10,Bike,20,18.0,5.0
+5/12/2023,Supino Inclinado Halter,22,10,Bike,20,18.0,5.0
+5/12/2023,Supino Inclinado Halter,22,10,Bike,20,18.0,5.0
+5/12/2023,Biceps Pulley Corda,47,10,Bike,20,41.0,5.0
+5/12/2023,Biceps Pulley Corda,41,10,Bike,20,32.0,5.0
+5/12/2023,Biceps Pulley Corda,41,10,Bike,20,32.0,5.0
+5/12/2023,Rosca 45,12,10,Bike,20,10.0,5.0
+5/12/2023,Rosca 45,12,9,Bike,20,10.0,5.0
+5/12/2023,Rosca 45,12,9,Bike,20,10.0,4.0
+5/12/2023,Concentrado,12,9,Bike,20,8.0,5.0
+5/12/2023,Concentrado,12,7,Bike,20,8.0,4.0
+5/12/2023,Concentrado,12,7,Bike,20,8.0,5.0
+6/12/2023,Cadeira Flexora,37,10,Bike,18,30.0,5.0
+6/12/2023,Cadeira Flexora,38,10,Bike,18,32.0,5.0
+6/12/2023,Cadeira Flexora,37,8,Bike,18,32.0,5.0
+6/12/2023,Stiff,70,10,Bike,18,46.0,5.0
+6/12/2023,Stiff,70,8,Bike,18,46.0,5.0
+6/12/2023,Stiff,70,7,Bike,18,46.0,5.0
+6/12/2023,Mesa Flexora,59,9,Bike,18,50.0,5.0
+6/12/2023,Mesa Flexora,59,8,Bike,18,50.0,5.0
+6/12/2023,Mesa Flexora,54,8,Bike,18,50.0,3.0
+6/12/2023,Bulgaro,16,8,Bike,18,50.0,3.0
+6/12/2023,Bulgaro,16,9,Bike,18,50.0,3.0
+6/12/2023,Bulgaro,16,10,Bike,18,50.0,3.0
+6/12/2023,Leg 45,240,9,Bike,18,50.0,3.0
+6/12/2023,Leg 45,240,10,Bike,18,50.0,3.0
+6/12/2023,Leg 45,240,10,Bike,18,50.0,3.0
+6/12/2023,Gemeos Sentado,50,10,Bike,18,50.0,3.0
+6/12/2023,Gemeos Sentado,55,10,Bike,18,50.0,3.0
+6/12/2023,Gemeos Sentado,55,10,Bike,18,50.0,3.0
+6/12/2023,Abdominal Crunch,59,10,Bike,18,50.0,3.0
+6/12/2023,Abdominal Crunch,59,10,Bike,18,50.0,3.0
+6/12/2023,Abdominal Crunch,59,10,Bike,18,50.0,3.0
+8/12/2023,Remada Cavalinho,57.5,10,Bike,18,40.0,5.0
+8/12/2023,Remada Cavalinho,57.5,8,Bike,18,40.0,5.0
+8/12/2023,Remada Cavalinho,57.5,8,Bike,18,45.0,5.0
+8/12/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+8/12/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+8/12/2023,Remada Na Maquina,68,10,Bike,18,54.0,5.0
+8/12/2023,Pulldown,72,10,Bike,18,59.0,5.0
+8/12/2023,Pulldown,72,10,Bike,18,59.0,5.0
+8/12/2023,Pulldown,72,9,Bike,18,59.0,5.0
+8/12/2023,Puxada Frente Triangulo,66,10,Bike,18,56.0,4.0
+8/12/2023,Puxada Frente Triangulo,66,8,Bike,18,56.0,5.0
+8/12/2023,Puxada Frente Triangulo,66,8,Bike,18,56.0,5.0
+8/12/2023,Remada Unilateral Com Halter,30,10,Bike,18,56.0,5.0
+8/12/2023,Remada Unilateral Com Halter,30,10,Bike,18,56.0,5.0
+8/12/2023,Remada Unilateral Com Halter,30,10,Bike,18,56.0,5.0
+8/12/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+8/12/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+8/12/2023,Triceps Mergulho,20,10,Bike,18,56.0,5.0
+8/12/2023,Triceps Barra Cross,56,10,Bike,18,45.0,5.0
+8/12/2023,Triceps Barra Cross,54,10,Bike,18,45.0,5.0
+8/12/2023,Triceps Barra Cross,54,9,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Halter,20,10,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Halter,20,9,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Halter,20,10,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Cross,23,8,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Cross,23,7,Bike,18,45.0,5.0
+8/12/2023,Triceps Frances Cross,23,9,Bike,18,45.0,5.0
+9/12/2023,Abdominal Crossfit Com Anilha,10,15,Bike,18,45.0,5.0
+9/12/2023,Abdominal Crossfit Com Anilha,20,10,Bike,18,45.0,5.0
+9/12/2023,Abdominal Crossfit Com Anilha,20,10,Bike,18,45.0,5.0
+9/12/2023,Voador,73,10,Bike,18,59.0,5.0
+9/12/2023,Voador,73,18,Bike,18,59.0,5.0
+9/12/2023,Voador,73,16,Bike,18,59.0,5.0
+9/12/2023,Voador,73,15,Bike,18,59.0,5.0
+9/12/2023,Supino Inclinado Halter,20,19,Bike,18,16.0,5.0
+9/12/2023,Supino Inclinado Halter,20,15,Bike,18,16.0,5.0
+9/12/2023,Supino Inclinado Halter,20,15,Bike,18,16.0,5.0
+9/12/2023,Supino Inclinado Halter,20,18,Bike,18,16.0,5.0
+9/12/2023,Supino Reto Halter,20,18,Bike,18,16.0,5.0
+9/12/2023,Supino Reto Halter,20,15,Bike,18,16.0,5.0
+9/12/2023,Supino Reto Halter,20,14,Bike,18,16.0,5.0
+9/12/2023,Supino Reto Halter,18,14,Bike,18,14.0,5.0
+9/12/2023,Supino Maquina,41,18,Bike,18,27.0,5.0
+9/12/2023,Supino Maquina,38,19,Bike,18,32.0,5.0
+9/12/2023,Supino Maquina,38,18,Bike,18,32.0,5.0
+9/12/2023,Supino Maquina,38,18,Bike,18,32.0,5.0
+11/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+11/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+11/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+11/12/2023,Elevacao Lateral,10,20,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Arnold,12,17,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Arnold,12,15,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Arnold,10,20,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Maquina,29,20,Bike,18,24.0,5.0
+11/12/2023,Desenvolvimento Maquina,29,20,Bike,18,24.0,5.0
+11/12/2023,Desenvolvimento Maquina,29,18,Bike,18,24.0,5.0
+11/12/2023,Desenvolvimento Maquina,29,20,Bike,18,24.0,5.0
+11/12/2023,Crucifixo Sentado Inverso,10,10,Bike,18,8.0,5.0
+11/12/2023,Crucifixo Sentado Inverso,12,8,Bike,18,8.0,5.0
+11/12/2023,Crucifixo Sentado Inverso,10,10,Bike,18,8.0,5.0
+11/12/2023,Desenvolvimento Com Barra,40,8,Bike,18,26.0,5.0
+11/12/2023,Desenvolvimento Com Barra,40,7,Bike,18,26.0,5.0
+11/12/2023,Desenvolvimento Com Barra,38,7,Bike,18,26.0,5.0
+11/12/2023,Crucifixo Inverso Peck,79,8,Bike,18,66.0,5.0
+11/12/2023,Crucifixo Inverso Peck,79,9,Bike,18,66.0,5.0
+11/12/2023,Crucifixo Inverso Peck,79,8,Bike,18,66.0,5.0
+11/12/2023,Rotacao Externa Ombro,11,10,Bike,18,66.0,5.0
+11/12/2023,Rotacao Externa Ombro,11,10,Bike,18,66.0,5.0
+11/12/2023,Rotacao Externa Ombro,11,10,Bike,18,66.0,5.0
+11/12/2023,Lateral Cross,11,7,Bike,18,66.0,5.0
+11/12/2023,Lateral Cross,9,10,Bike,18,66.0,5.0
+11/12/2023,Lateral Cross,9,9,Bike,18,66.0,5.0
+12/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,18,12.5,5.0
+12/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,18,12.5,5.0
+12/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,18,12.5,5.0
+12/12/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,18,12.5,5.0
+12/12/2023,Supino Reto Hack,75,8,Bike,18,55.0,5.0
+12/12/2023,Supino Reto Hack,75,8,Bike,18,55.0,5.0
+12/12/2023,Supino Reto Hack,75,7,Bike,18,55.0,5.0
+12/12/2023,Supino Reto Hack,75,6,Bike,18,55.0,5.0
+12/12/2023,Supino Inclinado Hack,60,8,Bike,18,50.0,5.0
+12/12/2023,Supino Inclinado Hack,60,6,Bike,18,50.0,5.0
+12/12/2023,Supino Inclinado Hack,60,7,Bike,18,50.0,5.0
+12/12/2023,Supino Inclinado Hack,60,6,Bike,18,50.0,5.0
+12/12/2023,Supino Maquina,54,8,Bike,18,45.0,5.0
+12/12/2023,Supino Maquina,54,7,Bike,18,45.0,5.0
+12/12/2023,Supino Maquina,54,8,Bike,18,45.0,5.0
+12/12/2023,Supino Maquina,54,8,Bike,18,45.0,5.0
+12/12/2023,Biceps Curl Machine,61,8,Bike,18,52.0,5.0
+12/12/2023,Biceps Curl Machine,61,8,Bike,18,52.0,5.0
+12/12/2023,Biceps Curl Machine,61,8,Bike,18,52.0,5.0
+12/12/2023,Biceps Curl Machine,61,8,Bike,18,52.0,4.0
+12/12/2023,Supino Inclinado Halter,24,8,Bike,18,12.0,10.0
+12/12/2023,Supino Inclinado Halter,24,7,Bike,18,12.0,10.0
+12/12/2023,Supino Inclinado Halter,24,8,Bike,18,12.0,10.0
+12/12/2023,Supino Inclinado Halter,24,7,Bike,18,12.0,9.0
+12/12/2023,Biceps Pulley Corda,41,8,Bike,18,20.0,10.0
+12/12/2023,Biceps Pulley Corda,32,8,Bike,18,18.0,10.0
+12/12/2023,Biceps Pulley Corda,32,10,Bike,18,18.0,10.0
+12/12/2023,Biceps Pulley Corda,36,10,Bike,18,18.0,10.0
+12/12/2023,Rosca 45,14,7,Bike,18,7.0,10.0
+12/12/2023,Rosca 45,14,7,Bike,18,7.0,8.0
+12/12/2023,Rosca 45,14,6,Bike,18,7.0,8.0
+12/12/2023,Rosca 45,14,5,Bike,18,7.0,8.0
+12/12/2023,Concentrado,12,6,Bike,18,6.0,10.0
+12/12/2023,Concentrado,10,8,Bike,18,6.0,8.0
+12/12/2023,Concentrado,10,8,Bike,18,6.0,8.0
+13/12/2023,Cadeira Flexora Isometria,36,8,Bike,18,18.0,10.0
+13/12/2023,Cadeira Flexora Isometria,38,8,Bike,18,19.0,8.0
+13/12/2023,Cadeira Flexora Isometria,38,7,Bike,18,18.0,8.0
+13/12/2023,Cadeira Flexora Isometria,38,8,Bike,18,18.0,8.0
+13/12/2023,Stiff,60,8,Bike,18,30.0,8.0
+13/12/2023,Stiff,70,8,Bike,18,30.0,10.0
+13/12/2023,Stiff,70,8,Bike,18,30.0,10.0
+13/12/2023,Stiff,70,7,Bike,18,30.0,10.0
+13/12/2023,Mesa Flexora,60,8,Bike,18,30.0,10.0
+13/12/2023,Mesa Flexora,60,8,Bike,18,30.0,10.0
+13/12/2023,Mesa Flexora,60,7,Bike,18,30.0,10.0
+13/12/2023,Mesa Flexora,60,6,Bike,18,30.0,10.0
+13/12/2023,Bulgaro,18,7,Bike,18,30.0,10.0
+13/12/2023,Bulgaro,16,9,Bike,18,30.0,10.0
+13/12/2023,Bulgaro,16,10,Bike,18,30.0,10.0
+13/12/2023,Leg 45,260,8,Bike,18,30.0,10.0
+13/12/2023,Leg 45,300,7,Bike,18,30.0,10.0
+13/12/2023,Leg 45,300,8,Bike,18,30.0,10.0
+13/12/2023,Leg 45,300,8,Bike,18,30.0,10.0
+13/12/2023,Gemeos Sentado,60,8,Bike,18,30.0,10.0
+13/12/2023,Gemeos Sentado,80,8,Bike,18,30.0,10.0
+13/12/2023,Gemeos Sentado,70,8,Bike,18,30.0,10.0
+13/12/2023,Gemeos Sentado,70,8,Bike,18,30.0,10.0
+13/12/2023,Abdominal Crunch,63,10,Bike,18,36.0,10.0
+13/12/2023,Abdominal Crunch,63,8,Bike,18,30.0,10.0
+13/12/2023,Abdominal Crunch,63,10,Bike,18,36.0,10.0
+14/12/2023,Remada Cavalinho,60,8,Bike,18,30.0,10.0
+14/12/2023,Remada Cavalinho,60,8,Bike,18,30.0,10.0
+14/12/2023,Remada Cavalinho,60,6,Bike,18,30.0,8.0
+14/12/2023,Remada Cavalinho,60,6,Bike,18,30.0,8.0
+14/12/2023,Remada Na Maquina,81,8,Bike,18,41.0,10.0
+14/12/2023,Remada Na Maquina,81,7,Bike,18,41.0,9.0
+14/12/2023,Remada Na Maquina,84,8,Bike,18,41.0,10.0
+14/12/2023,Remada Na Maquina,81,7,Bike,18,41.0,10.0
+14/12/2023,Pulldown,77,7,Bike,18,36.0,10.0
+14/12/2023,Pulldown,77,8,Bike,18,36.0,10.0
+14/12/2023,Pulldown,77,8,Bike,18,36.0,10.0
+14/12/2023,Pulldown,77,8,Bike,18,36.0,10.0
+14/12/2023,Puxada Frente Triangulo,68,8,Bike,18,39.0,10.0
+14/12/2023,Puxada Frente Triangulo,68,8,Bike,18,39.0,10.0
+14/12/2023,Puxada Frente Triangulo,68,7,Bike,18,39.0,10.0
+14/12/2023,Puxada Frente Triangulo,68,6,Bike,18,39.0,10.0
+14/12/2023,Remada Unilateral Com Halter,34,6,Bike,18,39.0,10.0
+14/12/2023,Remada Unilateral Com Halter,32,8,Bike,18,39.0,10.0
+14/12/2023,Remada Unilateral Com Halter,32,8,Bike,18,39.0,10.0
+14/12/2023,Triceps Mergulho,25,8,Bike,18,39.0,10.0
+14/12/2023,Triceps Mergulho,25,10,Bike,18,39.0,10.0
+14/12/2023,Triceps Mergulho,25,10,Bike,18,39.0,10.0
+14/12/2023,Triceps Barra Cross,59,8,Bike,18,27.0,10.0
+14/12/2023,Triceps Barra Cross,59,8,Bike,18,27.0,10.0
+14/12/2023,Triceps Barra Cross,59,7,Bike,18,27.0,9.0
+14/12/2023,Triceps Barra Cross,59,7,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Halter,22,8,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Halter,22,8,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Halter,22,7,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Cross,23,8,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Cross,23,7,Bike,18,27.0,9.0
+14/12/2023,Triceps Frances Cross,23,8,Bike,18,27.0,9.0
+14/12/2023,Abdominal Bicicleta,12,,Bike,18,27.0,9.0
+14/12/2023,Abdominal Bicicleta,18,,Bike,18,27.0,9.0
+14/12/2023,Abdominal Bicicleta,18,,Bike,18,27.0,9.0
+15/12/2023,Abdominal Crossfit Com Anilha,20,11,Bike,16,27.0,9.0
+15/12/2023,Abdominal Crossfit Com Anilha,20,11,Bike,16,27.0,9.0
+15/12/2023,Abdominal Crossfit Com Anilha,20,11,Bike,16,27.0,9.0
+15/12/2023,Voador,86,10,Bike,16,45.0,10.0
+15/12/2023,Voador,86,10,Bike,16,45.0,10.0
+15/12/2023,Voador,86,9,Bike,16,45.0,9.0
+15/12/2023,Supino Reto Halter,24,10,Bike,16,12.0,10.0
+15/12/2023,Supino Reto Halter,26,10,Bike,16,12.0,10.0
+15/12/2023,Supino Reto Halter,28,10,Bike,16,12.0,10.0
+15/12/2023,Supino Inclinado Halter,24,10,Bike,16,12.0,10.0
+15/12/2023,Supino Inclinado Halter,24,10,Bike,16,12.0,10.0
+15/12/2023,Supino Inclinado Halter,24,9,Bike,16,12.0,9.0
+15/12/2023,Supino Maquina,59,10,Bike,16,27.0,10.0
+15/12/2023,Supino Maquina,59,8,Bike,16,27.0,10.0
+15/12/2023,Supino Maquina,59,9,Bike,16,27.0,9.0
+15/12/2023,Elevacao Lateral,16,9,Bike,16,8.0,10.0
+15/12/2023,Elevacao Lateral,16,8,Bike,16,8.0,8.0
+15/12/2023,Elevacao Lateral,16,9,Bike,16,8.0,10.0
+15/12/2023,Crucifixo Abdutor Banco,10,10,Bike,16,8.0,10.0
+15/12/2023,Crucifixo Abdutor Banco,10,10,Bike,16,8.0,8.0
+15/12/2023,Crucifixo Abdutor Banco,10,10,Bike,16,8.0,8.0
+18/12/2023,Crucifixo Adutor Na Polia,23.8,8,Bike,17,12.5,10.0
+18/12/2023,Crucifixo Adutor Na Polia,21.6,8,Bike,17,12.5,10.0
+18/12/2023,Crucifixo Adutor Na Polia,21.6,8,Bike,17,12.5,10.0
+18/12/2023,Crucifixo Adutor Na Polia,21.6,8,Bike,17,12.5,10.0
+18/12/2023,Supino Reto Hack,75,8,Bike,17,45.0,10.0
+18/12/2023,Supino Reto Hack,75,8,Bike,17,45.0,10.0
+18/12/2023,Supino Reto Hack,75,8,Bike,17,45.0,10.0
+18/12/2023,Supino Reto Hack,75,7,Bike,17,45.0,10.0
+18/12/2023,Supino Inclinado Hack,60,8,Bike,17,40.0,10.0
+18/12/2023,Supino Inclinado Hack,60,8,Bike,17,40.0,10.0
+18/12/2023,Supino Inclinado Hack,60,7,Bike,17,40.0,10.0
+18/12/2023,Supino Inclinado Hack,60,7,Bike,17,40.0,10.0
+18/12/2023,Supino Maquina,56,8,Bike,17,28.0,10.0
+18/12/2023,Supino Maquina,56,8,Bike,17,28.0,10.0
+18/12/2023,Supino Maquina,56,7,Bike,17,28.0,10.0
+18/12/2023,Supino Maquina,56,7,Bike,17,28.0,10.0
+18/12/2023,Biceps Curl Machine,63,8,Bike,17,32.0,10.0
+18/12/2023,Biceps Curl Machine,63,8,Bike,17,32.0,10.0
+18/12/2023,Biceps Curl Machine,63,7,Bike,17,32.0,10.0
+18/12/2023,Biceps Curl Machine,63,7,Bike,17,32.0,9.0
+18/12/2023,Supino Inclinado Halter,24,8,Bike,17,12.0,10.0
+18/12/2023,Supino Inclinado Halter,24,8,Bike,17,12.0,10.0
+18/12/2023,Supino Inclinado Halter,24,8,Bike,17,12.0,10.0
+18/12/2023,Supino Inclinado Halter,24,7,Bike,17,12.0,10.0
+18/12/2023,Biceps Pulley Corda,41,8,Bike,17,23.0,10.0
+18/12/2023,Biceps Pulley Corda,41,8,Bike,17,23.0,10.0
+18/12/2023,Biceps Pulley Corda,41,8,Bike,17,23.0,10.0
+18/12/2023,Biceps Pulley Corda,41,8,Bike,17,23.0,10.0
+18/12/2023,Rosca 45,14,8,Bike,17,7.0,9.0
+18/12/2023,Rosca 45,14,8,Bike,17,7.0,10.0
+18/12/2023,Rosca 45,14,6,Bike,17,7.0,10.0
+18/12/2023,Rosca 45,14,6,Bike,17,7.0,9.0
+18/12/2023,Concentrado,12,7,Bike,17,6.0,10.0
+18/12/2023,Concentrado,12,6,Bike,17,6.0,10.0
+18/12/2023,Concentrado,12,6,Bike,17,6.0,9.0
+19/12/2023,Cadeira Flexora Isometria,37,8,Bike,15,18.0,10.0
+19/12/2023,Cadeira Flexora Isometria,37,8,Bike,15,18.0,10.0
+19/12/2023,Cadeira Flexora Isometria,37,8,Bike,15,18.0,10.0
+19/12/2023,Cadeira Flexora Isometria,38,8,Bike,15,18.0,10.0
+19/12/2023,Stiff,70,8,Bike,15,30.0,8.0
+19/12/2023,Stiff,70,8,Bike,15,30.0,10.0
+19/12/2023,Stiff,75,7,Bike,15,30.0,5.0
+19/12/2023,Stiff,75,6,Bike,15,30.0,8.0
+19/12/2023,Mesa Flexora,60,8,Bike,15,30.0,10.0
+19/12/2023,Mesa Flexora,62,8,Bike,15,32.0,10.0
+19/12/2023,Mesa Flexora,62,7,Bike,15,32.0,10.0
+19/12/2023,Mesa Flexora,62,7,Bike,15,32.0,10.0
+19/12/2023,Bulgaro,18,8,Bike,15,32.0,10.0
+19/12/2023,Bulgaro,18,8,Bike,15,32.0,10.0
+19/12/2023,Bulgaro,18,7,Bike,15,32.0,10.0
+19/12/2023,Leg 45,260,8,Bike,15,32.0,10.0
+19/12/2023,Leg 45,300,8,Bike,15,32.0,10.0
+19/12/2023,Leg 45,300,8,Bike,15,32.0,10.0
+19/12/2023,Leg 45,300,8,Bike,15,32.0,10.0
+19/12/2023,Gemeos Sentado,60,8,Bike,15,32.0,10.0
+19/12/2023,Gemeos Sentado,80,8,Bike,15,32.0,10.0
+19/12/2023,Gemeos Sentado,70,8,Bike,15,32.0,10.0
+19/12/2023,Gemeos Sentado,70,8,Bike,15,32.0,10.0
+19/12/2023,Hack,100,8,Bike,15,32.0,10.0
+19/12/2023,Hack,100,10,Bike,15,32.0,10.0
+19/12/2023,Hack,110,8,Bike,15,32.0,10.0
+19/12/2023,Abdominal Crunch,65,8,Bike,15,34.0,10.0
+19/12/2023,Abdominal Crunch,63,8,Bike,15,34.0,10.0
+19/12/2023,Abdominal Crunch,63,8,Bike,15,34.0,10.0
+21/12/2023,Remada Cavalinho,60,8,Bike,15,30.0,10.0
+21/12/2023,Remada Cavalinho,60,8,Bike,15,30.0,10.0
+21/12/2023,Remada Cavalinho,60,7,Bike,15,30.0,10.0
+21/12/2023,Remada Cavalinho,60,7,Bike,15,30.0,10.0
+21/12/2023,Remada Na Maquina,81,7,Bike,15,41.0,10.0
+21/12/2023,Remada Na Maquina,81,7,Bike,15,41.0,10.0
+21/12/2023,Remada Na Maquina,84,8,Bike,15,41.0,10.0
+21/12/2023,Remada Na Maquina,81,7,Bike,15,41.0,10.0
+21/12/2023,Pulldown,77,7,Bike,15,36.0,10.0
+21/12/2023,Pulldown,77,6,Bike,15,36.0,10.0
+21/12/2023,Pulldown,77,7,Bike,15,36.0,10.0
+21/12/2023,Pulldown,77,6,Bike,15,36.0,10.0
+21/12/2023,Puxada Frente Triangulo,68,7,Bike,15,36.0,10.0
+21/12/2023,Puxada Frente Triangulo,68,6,Bike,15,39.0,10.0
+21/12/2023,Puxada Frente Triangulo,68,6,Bike,15,34.0,10.0
+21/12/2023,Puxada Frente Triangulo,68,6,Bike,15,39.0,10.0
+21/12/2023,Remada Unilateral Com Halter,32,7,Bike,15,39.0,10.0
+21/12/2023,Remada Unilateral Com Halter,32,8,Bike,15,39.0,10.0
+21/12/2023,Remada Unilateral Com Halter,32,8,Bike,15,39.0,10.0
+21/12/2023,Triceps Mergulho,25,10,Bike,15,39.0,10.0
+21/12/2023,Triceps Mergulho,25,10,Bike,15,39.0,10.0
+21/12/2023,Triceps Mergulho,25,10,Bike,15,39.0,10.0
+21/12/2023,Triceps Barra Cross,61,8,Bike,15,32.0,10.0
+21/12/2023,Triceps Barra Cross,61,8,Bike,15,34.0,10.0
+21/12/2023,Triceps Barra Cross,61,8,Bike,15,32.0,10.0
+21/12/2023,Triceps Barra Cross,61,7,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Halter,22,8,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Halter,22,8,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Halter,22,7,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Cross,23,8,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Cross,23,7,Bike,15,32.0,10.0
+21/12/2023,Triceps Frances Cross,23,8,Bike,15,32.0,10.0
+21/12/2023,Abdominal Bicicleta,12,,Bike,15,32.0,10.0
+21/12/2023,Abdominal Bicicleta,18,,Bike,15,32.0,10.0
+21/12/2023,Abdominal Bicicleta,18,,Bike,15,32.0,10.0
+22/12/2023,Abdominal Crossfit Com Anilha,20,12,Bike,15,32.0,10.0
+22/12/2023,Abdominal Crossfit Com Anilha,20,12,Bike,15,32.0,10.0
+22/12/2023,Abdominal Crossfit Com Anilha,20,12,Bike,15,32.0,10.0
+22/12/2023,Voador,93,10,Bike,15,45.0,10.0
+22/12/2023,Voador,93,10,Bike,15,45.0,10.0
+22/12/2023,Voador,100,9,Bike,15,52.0,10.0
+22/12/2023,Supino Reto Halter,30,7,Bike,15,14.0,10.0
+22/12/2023,Supino Reto Halter,28,10,Bike,15,14.0,10.0
+22/12/2023,Supino Reto Halter,28,9,Bike,15,14.0,10.0
+22/12/2023,Supino Inclinado Halter,24,10,Bike,15,12.0,10.0
+22/12/2023,Supino Inclinado Halter,24,10,Bike,15,12.0,10.0
+22/12/2023,Supino Inclinado Halter,24,9,Bike,15,12.0,10.0
+22/12/2023,Supino Maquina,59,9,Bike,15,32.0,10.0
+22/12/2023,Supino Maquina,59,8,Bike,15,32.0,10.0
+22/12/2023,Supino Maquina,59,7,Bike,15,32.0,10.0
+22/12/2023,Elevacao Lateral,16,10,Bike,15,8.0,9.0
+22/12/2023,Elevacao Lateral,16,9,Bike,15,8.0,10.0
+22/12/2023,Elevacao Lateral,16,10,Bike,15,8.0,10.0
+22/12/2023,Crucifixo Abdutor Banco,10,10,Bike,15,8.0,7.0
+22/12/2023,Crucifixo Abdutor Banco,10,10,Bike,15,8.0,7.0
+22/12/2023,Crucifixo Abdutor Banco,10,10,Bike,15,8.0,8.0
+22/12/2023,Desenvolvimento Arnold,14,9,Bike,15,7.0,9.0
+22/12/2023,Desenvolvimento Arnold,14,10,Bike,15,7.0,8.0
+22/12/2023,Desenvolvimento Arnold,14,10,Bike,15,7.0,8.0
+22/12/2023,Desenvolvimento Maquina,36,10,Bike,15,18.0,10.0
+22/12/2023,Desenvolvimento Maquina,42,10,Bike,15,23.0,10.0
+22/12/2023,Desenvolvimento Maquina,42,10,Bike,15,23.0,10.0
+29/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,16,10.2,10.0
+29/12/2023,Crucifixo Adutor Na Polia,21.6,10,Bike,16,10.2,10.0
+29/12/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,16,10.2,10.0
+29/12/2023,Crucifixo Adutor Na Polia,21.6,9,Bike,16,10.2,10.0
+29/12/2023,Supino Reto Hack,80,7,Bike,16,50.0,10.0
+29/12/2023,Supino Reto Hack,80,8,Bike,16,50.0,10.0
+29/12/2023,Supino Reto Hack,80,7,Bike,16,50.0,10.0
+29/12/2023,Supino Reto Hack,80,7,Bike,16,50.0,10.0
+29/12/2023,Supino Inclinado Hack,60,8,Bike,16,40.0,10.0
+29/12/2023,Supino Inclinado Hack,60,8,Bike,16,40.0,10.0
+29/12/2023,Supino Inclinado Hack,65,6,Bike,16,40.0,10.0
+29/12/2023,Supino Inclinado Hack,65,5,Bike,16,40.0,10.0
+29/12/2023,Supino Maquina,56,8,Bike,16,28.0,10.0
+29/12/2023,Supino Maquina,56,8,Bike,16,28.0,10.0
+29/12/2023,Supino Maquina,56,10,Bike,16,28.0,10.0
+29/12/2023,Supino Maquina,59,7,Bike,16,30.0,10.0
+29/12/2023,Biceps Curl Machine,63,8,Bike,16,30.0,10.0
+29/12/2023,Biceps Curl Machine,63,8,Bike,16,30.0,10.0
+29/12/2023,Biceps Curl Machine,63,8,Bike,16,30.0,10.0
+29/12/2023,Biceps Curl Machine,63,8,Bike,16,30.0,10.0
+29/12/2023,Supino Inclinado Halter,24,9,Bike,16,12.0,10.0
+29/12/2023,Supino Inclinado Halter,24,9,Bike,16,12.0,8.0
+29/12/2023,Supino Inclinado Halter,24,9,Bike,16,12.0,10.0
+29/12/2023,Supino Inclinado Halter,24,9,Bike,16,12.0,10.0
+29/12/2023,Biceps Pulley Corda,41,10,Bike,16,23.0,10.0
+29/12/2023,Biceps Pulley Corda,41,10,Bike,16,23.0,10.0
+29/12/2023,Biceps Pulley Corda,43,8,Bike,16,25.0,10.0
+29/12/2023,Biceps Pulley Corda,43,8,Bike,16,25.0,10.0
+29/12/2023,Rosca 45,14,8,Bike,16,7.0,8.0
+29/12/2023,Rosca 45,14,7,Bike,16,7.0,9.0
+29/12/2023,Rosca 45,14,7,Bike,16,7.0,10.0
+29/12/2023,Rosca 45,14,6,Bike,16,7.0,9.0
+29/12/2023,Concentrado,12,7,Bike,16,6.0,10.0
+29/12/2023,Concentrado,12,6,Bike,16,6.0,10.0
+29/12/2023,Concentrado,12,6,Bike,16,6.0,9.0
+31/12/2023,Remada Cavalinho,60,8,,,30.0,10.0
+31/12/2023,Remada Cavalinho,60,8,,,30.0,10.0
+31/12/2023,Remada Cavalinho,60,8,,,30.0,10.0
+31/12/2023,Remada Cavalinho,60,8,,,30.0,10.0
+31/12/2023,Remada Na Maquina,81,7,,,41.0,10.0
+31/12/2023,Remada Na Maquina,81,7,,,41.0,9.0
+31/12/2023,Remada Na Maquina,81,7,,,41.0,10.0
+31/12/2023,Remada Na Maquina,81,7,,,41.0,10.0
+31/12/2023,Pulldown,77,7,,,41.0,10.0
+31/12/2023,Pulldown,77,7,,,41.0,10.0
+31/12/2023,Pulldown,77,8,,,36.0,10.0
+31/12/2023,Pulldown,77,8,,,36.0,10.0
+31/12/2023,Puxada Frente Triangulo,68,8,,,39.0,10.0
+31/12/2023,Puxada Frente Triangulo,68,8,,,39.0,10.0
+31/12/2023,Puxada Frente Triangulo,68,7,,,39.0,10.0
+31/12/2023,Puxada Frente Triangulo,68,7,,,39.0,10.0
+31/12/2023,Triceps Barra Cross,59,8,,,29.0,10.0
+31/12/2023,Triceps Barra Cross,59,8,,,29.0,10.0
+31/12/2023,Triceps Barra Cross,59,8,,,29.0,10.0
+31/12/2023,Triceps Barra Cross,59,7,,,27.0,9.0
+31/12/2023,Triceps Frances Halter,22,8,,,27.0,9.0
+31/12/2023,Triceps Frances Halter,22,8,,,27.0,9.0
+31/12/2023,Triceps Frances Halter,22,7,,,27.0,9.0
+31/12/2023,Triceps Frances Cross,23,8,,,27.0,9.0
+31/12/2023,Triceps Frances Cross,23,7,,,27.0,9.0
+31/12/2023,Triceps Frances Cross,23,7,,,27.0,9.0
+01/01/2024,Elevacao Lateral,16,10,,,8.0,9.0
+01/01/2024,Elevacao Lateral,16,9,,,8.0,10.0
+01/01/2024,Elevacao Lateral,16,9,,,8.0,9.0
+01/01/2024,Desenvolvimento Maquina,45,10,,,23.0,10.0
+01/01/2024,Desenvolvimento Maquina,45,10,,,23.0,9.0
+01/01/2024,Desenvolvimento Maquina,45,10,,,23.0,10.0
+01/01/2024,Desenvolvimento Com Barra,40,8,,,26.0,5.0
+01/01/2024,Desenvolvimento Com Barra,40,7,,,26.0,5.0
+01/01/2024,Desenvolvimento Com Barra,38,7,,,26.0,5.0
+01/01/2024,Crucifixo Inverso Peck,79,8,,,26.0,5.0
+01/01/2024,Crucifixo Inverso Peck,79,8,,,26.0,5.0
+01/01/2024,Crucifixo Inverso Peck,79,8,,,26.0,5.0
+02/01/2024,Crucifixo Adutor Na Polia,21.6,10,Bike,15,10.2,10.0
+02/01/2024,Crucifixo Adutor Na Polia,21.6,10,Bike,15,10.2,10.0
+02/01/2024,Crucifixo Adutor Na Polia,21.6,10,Bike,15,10.2,10.0
+02/01/2024,Crucifixo Adutor Na Polia,21.6,9,Bike,15,10.2,10.0
+02/01/2024,Supino Reto Hack,80,6,Bike,15,50.0,10.0
+02/01/2024,Supino Reto Hack,75,7,Bike,15,50.0,10.0
+02/01/2024,Supino Reto Hack,75,6,Bike,15,50.0,9.0
+02/01/2024,Supino Reto Hack,75,6,Bike,15,50.0,10.0
+02/01/2024,Supino Inclinado Hack,60,6,Bike,15,40.0,10.0
+02/01/2024,Supino Inclinado Hack,60,6,Bike,15,40.0,10.0
+02/01/2024,Supino Inclinado Hack,55,6,Bike,15,40.0,10.0
+02/01/2024,Supino Inclinado Hack,55,5,Bike,15,40.0,10.0
+02/01/2024,Supino Maquina,57,7,Bike,15,28.0,10.0
+02/01/2024,Supino Maquina,57,8,Bike,15,27.0,10.0
+02/01/2024,Supino Maquina,57,7,Bike,15,30.0,10.0
+02/01/2024,Supino Maquina,57,8,Bike,15,30.0,10.0
+02/01/2024,Biceps Curl Machine,65,8,Bike,15,32.0,10.0
+02/01/2024,Biceps Curl Machine,65,8,Bike,15,32.0,10.0
+02/01/2024,Biceps Curl Machine,65,8,Bike,15,32.0,10.0
+02/01/2024,Biceps Curl Machine,65,8,Bike,15,32.0,10.0
+02/01/2024,Supino Inclinado Halter,24,7,Bike,15,12.0,10.0
+02/01/2024,Supino Inclinado Halter,24,6,Bike,15,12.0,8.0
+02/01/2024,Supino Inclinado Halter,24,6,Bike,15,12.0,9.0
+02/01/2024,Supino Inclinado Halter,24,6,Bike,15,12.0,8.0
+02/01/2024,Biceps Pulley Corda,43,9,Bike,15,25.0,10.0
+02/01/2024,Biceps Pulley Corda,43,8,Bike,15,25.0,10.0
+02/01/2024,Biceps Pulley Corda,43,8,Bike,15,25.0,10.0
+02/01/2024,Biceps Pulley Corda,43,8,Bike,15,25.0,10.0
+02/01/2024,Rosca 45,12,8,Bike,15,6.0,8.0
+02/01/2024,Rosca 45,12,8,Bike,15,6.0,9.0
+02/01/2024,Rosca 45,12,8,Bike,15,6.0,8.0
+02/01/2024,Rosca 45,12,8,Bike,15,6.0,9.0
+02/01/2024,Concentrado,12,6,Bike,15,6.0,10.0
+02/01/2024,Concentrado,12,6,Bike,15,6.0,10.0
+02/01/2024,Concentrado,12,6,Bike,15,6.0,9.0
+03/01/2024,Cadeira Flexora Isometria,38,8,,,19.0,9.0
+03/01/2024,Cadeira Flexora Isometria,38,8,,,19.0,9.0
+03/01/2024,Cadeira Flexora Isometria,38,8,,,19.0,10.0
+03/01/2024,Cadeira Flexora Isometria,38,6,,,19.0,10.0
+03/01/2024,Stiff,70,8,,,19.0,10.0
+03/01/2024,Stiff,70,8,,,19.0,10.0
+03/01/2024,Stiff,70,8,,,19.0,10.0
+03/01/2024,Stiff,70,8,,,19.0,10.0
+03/01/2024,Mesa Flexora,60,8,,,30.0,10.0
+03/01/2024,Mesa Flexora,60,8,,,30.0,10.0
+03/01/2024,Mesa Flexora,60,7,,,30.0,10.0
+03/01/2024,Mesa Flexora,60,5,,,30.0,10.0
+03/01/2024,Bulgaro,18,8,,,30.0,10.0
+03/01/2024,Bulgaro,18,8,,,30.0,10.0
+03/01/2024,Bulgaro,18,7,,,30.0,10.0
+03/01/2024,Hack,80,10,,,30.0,10.0
+03/01/2024,Hack,100,8,,,30.0,10.0
+03/01/2024,Hack,100,8,,,30.0,10.0
+03/01/2024,Abdominal Crunch,65,8,,,34.0,10.0
+03/01/2024,Abdominal Crunch,65,8,,,34.0,10.0
+03/01/2024,Abdominal Crunch,65,8,,,34.0,10.0
+05/01/2024,Remada Cavalinho,65,8,Bike,16,30.0,10.0
+05/01/2024,Remada Cavalinho,65,8,Bike,16,30.0,10.0
+05/01/2024,Remada Cavalinho,65,7,Bike,16,30.0,10.0
+05/01/2024,Remada Cavalinho,65,8,Bike,16,30.0,10.0
+05/01/2024,Remada Na Maquina,81,7,Bike,16,41.0,10.0
+05/01/2024,Remada Na Maquina,81,7,Bike,16,41.0,9.0
+05/01/2024,Remada Na Maquina,81,7,Bike,16,41.0,10.0
+05/01/2024,Remada Na Maquina,81,6,Bike,16,41.0,8.0
+05/01/2024,Pulldown,77,7,Bike,16,41.0,10.0
+05/01/2024,Pulldown,77,7,Bike,16,41.0,10.0
+05/01/2024,Pulldown,77,8,Bike,16,36.0,10.0
+05/01/2024,Pulldown,77,8,Bike,16,36.0,10.0
+05/01/2024,Puxada Frente Triangulo,68,8,Bike,16,36.0,10.0
+05/01/2024,Puxada Frente Triangulo,70,6,Bike,16,39.0,10.0
+05/01/2024,Puxada Frente Triangulo,68,7,Bike,16,39.0,10.0
+05/01/2024,Puxada Frente Triangulo,68,7,Bike,16,39.0,10.0
+05/01/2024,Triceps Barra Cross,59,9,Bike,16,32.0,10.0
+05/01/2024,Triceps Barra Cross,61,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Barra Cross,61,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Barra Cross,61,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Halter,22,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Halter,22,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Halter,22,7,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Cross,23,8,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Cross,23,7,Bike,16,32.0,10.0
+05/01/2024,Triceps Frances Cross,23,7,Bike,16,32.0,10.0
+06/01/2024,Abdominal Crossfit Com Anilha,20,15,Bike,16,32.0,10.0
+06/01/2024,Abdominal Crossfit Com Anilha,20,14,Bike,16,32.0,10.0
+06/01/2024,Abdominal Crossfit Com Anilha,20,13,Bike,16,32.0,10.0
+06/01/2024,Voador,100,10,Bike,16,52.0,10.0
+06/01/2024,Voador,107,8,Bike,16,52.0,10.0
+06/01/2024,Voador,107,7,Bike,16,52.0,10.0
+06/01/2024,Supino Reto Halter,30,7,Bike,16,16.0,8.0
+06/01/2024,Supino Reto Halter,30,6,Bike,16,16.0,8.0
+06/01/2024,Supino Reto Halter,30,6,Bike,16,16.0,8.0
+06/01/2024,Supino Inclinado Halter,26,7,Bike,16,14.0,7.0
+06/01/2024,Supino Inclinado Halter,26,7,Bike,16,14.0,10.0
+06/01/2024,Supino Inclinado Halter,26,7,Bike,16,14.0,10.0
+06/01/2024,Supino Maquina,59,7,Bike,16,32.0,9.0
+06/01/2024,Supino Maquina,59,8,Bike,16,32.0,9.0
+06/01/2024,Supino Maquina,59,7,Bike,16,32.0,10.0

@@ -1,0 +1,635 @@
+[{
+    "data": "05/09/23",
+    "exercicios": [
+        {"nome": "Stiff", "series": ["42x12", "42x12", "42x11", "42x10"]},
+        {"nome": "Flexão de joelho na extensora", "series": ["9x12", "9x10", "9x10", "9x9"]},
+        {"nome": "Bom dia", "series": ["20x12", "20x10", "20x10", "20x11"]},
+        {"nome": "Mesa Flexora", "series": ["41x12", "45x10", "45x8", "45x8"]},
+        {"nome": "Agachamento Smith", "series": ["50x12", "50x10", "50x10", "50x10"]},
+        {"nome": "Afundo búlgaro", "series": ["10x12", "10x10", "10x10"]},
+        {"nome": "Leg 45", "series": ["200x10", "200x10", "200x10", "200x10"]},
+        {"nome": "Agachamento Sumô", "series": ["36x11", "36x11", "36x10", "36x10"]}
+    ]
+    },
+    
+    {
+    "data": "06/09/2023",
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["82x12", "86x12", "86x12", "86x12"]},
+        {"nome": "Remada curvada com barra", "series": ["30x12", "35x12", "35x10", "35x10"]},
+        {"nome": "Remada no Smith", "series": ["15", "12", "10", "11"]},
+        {"nome": "Pulldown", "series": ["45x10", "45x12", "50x10", "50x10"]},
+        {"nome": "Rosca unilateral na polia", "series": ["9x12", "14x12", "16x12", "18x11"]},
+        {"nome": "Puxador aberto", "series": ["59x12", "59x10", "59x8", "59x8" , "45x4" , "32x5"]},
+        {"nome": "Rosca direta barra", "series": ["30x9", "26x11", "26x10", "26x10"]},
+        {"nome": "Rosca punho", "series": ["14x10", "14x10", "14x9", "14x8"]},
+        {"nome": "Rosca Scott", "series": ["22x7", "22x8", "22x7", "22x6"]}
+    ]
+    },
+    
+    {
+    "data": "08/09/2023",
+    "exercicios": [
+        {"nome": "Tríceps Kickback", "series": ["9x12", "14x11", "14x11", "14x10"]},
+        {"nome": "Obliquo Cross-over", "series": ["23x12", "41x12", "45x12", "50x12"]},
+        {"nome": "Abdominal na polia alta", "series": ["32x12", "36x12", "32x12", "36x12"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["32x12", "36x8", "32x10", "32x10"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["14x12", "17x10", "17x9", "17x8"]},
+        {"nome": "Mergulho perna estendida", "series": ["20xeu", "16xeu", "14xeu", "14xeu"]},
+        {"nome": "Supino inclinado", "series": ["12x20", "10x25", "9x25", "9x25"]},
+        {"nome": "Abdominal carrinho", "series": ["12", "12", "10", "10"]}
+    ]
+    },
+    
+    {
+    "data": "09/09/2023",
+    "exercicios": [
+        {"nome": "Hack Machine", "series": ["60x12", "60x12", "60x12", "60x12"]},
+        {"nome": "Elevação de quadril", "series": ["40x10", "40x10", "40x10", "40x10"]},
+        {"nome": "Levantamento Terra", "series": ["40x10", "40x10", "40x10", "40x10"]},
+        {"nome": "Elevação Lateral", "series": ["3pinx12", "3pinx12", "3pinx11", "3pinx10"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["12x12", "12x10", "12x10", "12x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["20x12", "20x12", "20x12", "20x12"]},
+        {"nome": "Puxada Frente triângulo", "series": ["59x12", "59x10", "59x8", "59x7"]},
+        {"nome": "Biceps curl machine", "series": ["36x12", "41x10", "41x10", "41x10"]},
+        {"nome": "Biceps martelo", "series": ["12x12", "12x12", "12x10", "12x10"]}
+    ]
+    },
+    
+    {
+    "data": "11/09/2023",
+    "exercicios": [
+        {"nome": "Flexão de braço", "series": ["15x12", "15x12", "15x12", "15x12"]},
+        {"nome": "Supino inclinado", "series": ["25x12", "25x10", "25x8", "25x7"]},
+        {"nome": "Supino reto com halter", "series": ["24x11", "24x10", "24x10", "24x10"]},
+        {"nome": "Crucifixo voador", "series": ["79x10", "73x9", "73x9", ["73x9", "59x6", "45x5"]]},
+        {"nome": "Desenvolvimento arnold", "series": ["12x12", "12x11", "12x10", "12x10"]},
+        {"nome": "Desenvolvimento com barra", "series": ["8x26", "10x22", "10x22", "10x22"]},
+        {"nome": "Elevação frontal", "series": ["12x10.2", "12x10.2", "12x10.2", "11x10.2"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["12x3.4", "12x3.4", "12x3.4", "11x3.4"]}
+    ]
+    },
+    
+    {
+    "data": "12/09/2023",
+    "exercicios": [
+        {"nome": "Stiff", "series": ["46x12", "46x12", "46x11", "46x11"]},
+        {"nome": "Flexão de joelho na extensora", "series": ["11x12", "11x12", "11x10", "11x9"]},
+        {"nome": "Bom dia", "series": ["25x12", "25x10", "25x10", "25x10"]},
+        {"nome": "Mesa Flexora", "series": ["41x12", "45x10", "45x8", "45x8"]},
+        {"nome": "Agachamento Smith", "series": ["55x12", "50x10", "50x10"]},
+        {"nome": "Afundo búlgaro", "series": ["20x8", "20x8", "20x8"]},
+        {"nome": "Extensora 2s", "series": ["54x8", "45x10", "45x10", "45x10"]},
+        {"nome": "Leg 45", "series": ["200x10", "200x10", "200x10", "200x10"]},
+        {"nome": "Agachamento Sumô", "series": ["36x11", "36x11", "36x10", "36x10"]}
+    ]
+    },
+    
+    {
+    "data": "13/09/2023",
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["91x12", "91x12", "91x12", "91x12"]},
+        {"nome": "Remada curvada c barra sup", "series": ["40x12", "40x9", "40x10", "40x9"]},
+        {"nome": "Remada no Smith", "series": ["17", "15", "14", "12"]},
+        {"nome": "Pulldown", "series": ["50x12", "52x12", "54x12", "56x12"]},
+        {"nome": "Rosca unilateral na polia", "series": ["18x12", "21x12", "23x12", "25x8"]},
+        {"nome": "Puxador aberto", "series": ["61x11", "61x8", "61x10", ["61x8", "47x5", "34x5"]]},
+        {"nome": "Rosca direta barra", "series": ["28x11", "28x10", "28x9", "28x8"]},
+        {"nome": "Rosca punho", "series": ["14x11", "14x10", "14x6", "14x9"]},
+        {"nome": "Rosca Scott", "series": ["18x12", "18x12", "18x10", "18x9"]}
+    ]
+    },
+    
+    {
+    "data": "14/09/2023",
+    "exercicios": [
+        {"nome": "Tríceps Kickback", "series": ["14x12", "16x10", "16x10", "16x10"]},
+        {"nome": "Obliquo Cross-over", "series": ["54x12", "56x12", "56x12", "59x12"]},
+        {"nome": "Abdominal na polia alta", "series": ["36x12", "41x12", "41x12", "41x12"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["36x12", "36x10", "36x10", "36x9"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["17x12", "17x12", "17x10", "17x9"]},
+        {"nome": "Mergulho perna estendida", "series": ["17xeu", "18xeu", "17xeu", "16xeu"]},
+        {"nome": "Supino inclinado", "series": ["12x25", "10x25", "9x25", "8x25"]},
+        {"nome": "Abdominal carrinho", "series": ["12", "12", "12", "12"]}
+    ]
+    },
+    
+    {
+    "data": "15/09/2023",
+    "exercicios": [
+        {"nome": "Hack Machine", "series": ["60x12", "60x12", "60x12", "60x12"]},
+        {"nome": "Leg press reto", "series": ["105x12", "105x11", "105x11", "105x11"]},
+        {"nome": "Elevação de quadril", "series": ["40x10", "40x10", "40x10", "40x10"]},
+        {"nome": "Levantamento Terra", "series": ["40x11", "40x10", "40x10", "40x10"]},
+        {"nome": "Elevação Lateral", "series": ["6.25x12", "6.25x10", "6.25x11", "6.25x10"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["12x12", "12x8", "12x8", "12x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["22x12", "24x12", "24x11", "24x10"]},
+        {"nome": "Puxada Frente triângulo", "series": ["59x12", "59x10", "59x8", "59x7"]},
+        {"nome": "Biceps curl machine", "series": ["40x12", "40x11", "40x10", "40x10"]},
+        {"nome": "Biceps martelo", "series": ["12x12", "12x12", "12x10", "12x10"]}
+    ]
+    },
+    
+    {
+    "data": "18/09/2023",
+    "exercicios": [
+        {"nome": "Flexão de braço", "series": ["15x15", "15x14", "15x14", "15x12", "15x11"]},
+        {"nome": "Supino inclinado", "series": ["20x15", "20x12", "20x10", "20x20", "20x15"]},
+        {"nome": "Supino reto com halter", "series": ["20x14", "20x13", "20x14", "20x12", "20x11"]},
+        {"nome": "Crucifixo voador", "series": ["59x19", "59x14", "59x12", "59x12", ["59x","45x7","32x5"]]},
+        {"nome": "Desenvolvimento arnold", "series": ["10x18", "10x15", "10x13", "10x13", "10x12"]},
+        {"nome": "Desenvolvimento com barra", "series": ["18x20", "18x19", "18x18", "18x15", "18x14"]},
+        {"nome": "Elevação frontal", "series": ["7.9x18", "7.9x18", "7.9x16", "7.9x16", "7.9x15"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["1x15", "1x14", "1x14", "1x12", "1x12"]}
+    ]
+    },
+    
+    {
+    "data": "19/09/2023",
+    "exercicios": [
+        {"nome": "Stiff", "series": ["48x12", "48x12", "48x12", "48x11"]},
+        {"nome": "Flexão de joelho na extensora", "series": ["14x11", "14x11", "14x9", "14x8"]},
+        {"nome": "Bom dia", "series": ["30x12", "30x10", "30x10", "30x8"]},
+        {"nome": "Agachamento Smith", "series": ["50x12", "50x11", "50x11"]},
+        {"nome": "Afundo búlgaro", "series": ["20x10", "20x8", "20x9"]},
+        {"nome": "Extensora 2s", "series": ["45x11", "45x10", "45x10", "45x10"]},
+        {"nome": "Leg 45", "series": ["200x10", "200x10", "200x10", "200x10"]},
+        {"nome": "Agachamento Sumô", "series": ["36x11", "36x11", "36x10", "36x10"]}
+    ]
+    },
+    
+    {
+    "data": "20/09/2023",
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["73x20", "79x19", "79x18", "79x18", "79x18"]},
+        {"nome": "Remada curvada c barra sup", "series": ["32x18", "32x17", "32x14", "32x13", "32x12"]},
+        {"nome": "Remada no Smith", "series": ["18", "16", "14", "13"]},
+        {"nome": "Pulldown", "series": ["43x20", "43x18", "43x18", "43x18"]},
+        {"nome": "Rosca unilateral na polia", "series": ["18x16", "18x15", "18x15", "18x14"]},
+        {"nome": "Puxador aberto", "series": ["49x15", "49x15", "49x11", "49x11", "49x10" , "44x5"]},
+        {"nome": "Rosca direta barra", "series": ["22x18", "22x15", "22x12", "22x12", "22x12"]},
+        {"nome": "Rosca punho", "series": ["14x11", "14x10", "14x6", "14x9"]},
+        {"nome": "Rosca Scott", "series": ["18x17", "18x12", "14x16", "14x15", "14x12"]}
+    ]
+    },
+    
+    {
+    "data": "22/09/2023",
+    "exercicios": [
+        {"nome": "Tríceps Kickback", "series": ["11x20", "11x16", "11x15", "11x16", "11x13"]},
+        {"nome": "Obliquo Cross-over", "series": ["42x20", "42x15", "42x16", "42x18", "42x14"]},
+        {"nome": "Abdominal na polia alta", "series": ["32x18", "32x18", "34x20", "34x20", "34x20"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["29x16", "29x16", "29x16", "29x14", "29x15"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["14.7x17", "14.7x15", "14.7x14", "14.7x14", "14.7x13"]},
+        {"nome": "Mergulho perna estendida", "series": ["18xeu", "18xeu", "17xeu", "16xeu"]},
+        {"nome": "Supino inclinado", "series": ["20x18", "20x18", "20x15", "20x15", "20x17"]},
+        {"nome": "Abdominal carrinho", "series": ["12", "12", "12", "12"]}
+    ]
+    },
+    
+    {
+    "data": "24/09/2023",
+    "exercicios": [
+        {"nome": "Hack Machine", "series": ["70x12", "70x12", "70x12", "70x12"]},
+        {"nome": "Elevação de quadril", "series": ["40x10", "40x10", "40x10", "40x10"]},
+        {"nome": "Levantamento Terra", "series": ["50x10", "50x8", "50x8", "50x8"]},
+        {"nome": "Elevação Lateral", "series": ["5.7x12", "5.7x12", "5.7x12", "6.25x10"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["10x11", "10x10", "10x9", "12x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["26x12", "26x12", "26x12", "26x12"]},
+        {"nome": "Puxada Frente triângulo", "series": ["61x12", "61x10", "61x8", "61x8"]},
+        {"nome": "Biceps curl machine", "series": ["41x12", "41x12", "41x11", "41x11"]},
+        {"nome": "Biceps martelo", "series": ["14x12", "14x12", "14x10", "14x10"]}
+    ]
+    },
+    
+    {
+    "data": "25/09/2023",
+    "exercicios": [
+        {"nome": "Flexão de braço", "series": ["15x19", "15x17", "15x15", "15x15", "15x12"]},
+        {"nome": "Supino inclinado", "series": ["25x17", "25x15", "25x13", "25x12", "25x12"]},
+        {"nome": "Supino reto com halter", "series": ["22x14", "22x10", "22x10", "22x10", "22x10"]},
+        {"nome": "Crucifixo voador", "series": ["59x19", "59x16", "59x13", "59x12", "59x11","45x7","32x6"]},
+        {"nome": "Desenvolvimento arnold (90)", "series": ["10x17", "10x17", "10x15", "10x13", "10x14"]},
+        {"nome": "Desenvolvimento com barra isometria (90)", "series": ["20x20", "20x15", "20x13", "20x13", "20x13"]},
+        {"nome": "Elevação frontal", "series": ["10.2x18", "10.2x17", "10.2x16", "10.2x16", "7.9x15"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["1x20", "1x20", "1x20", "1x18", "1x12"]}
+    ]
+    },
+    
+    {
+    "data": "27/09/2023",
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["82x20", "82x17", "82x18", "82x17", "82x18"]},
+        {"nome": "Remada curvada c barra sup", "series": ["35x15", "33x15", "33x14", "33x13", "33x13"]},
+        {"nome": "Remada no Smith", "series": ["19", "16", "15", "13"]},
+        {"nome": "Pulldown", "series": ["45x20", "45x18", "45x18", "45x18"]},
+        {"nome": "Rosca unilateral na polia", "series": ["18x18", "18x15", "18x15", "18x15"]},
+        {"nome": "Puxador aberto", "series": ["49x15", "49x15", "52x10", "52x10", "52x10" , "44x5"]},
+        {"nome": "Rosca direta barra", "series": ["22x17", "22x15", "22x14", "22x14"]},
+        {"nome": "Rosca punho", "series": ["14x12", "14x12", "14x12", "14x11"]},
+        {"nome": "Rosca Scott", "series": ["14x14", "14x15", "14x15", "14x15", "14x12"]}
+    ]
+    },
+    
+    {
+    "data": "29/09/2023",
+    "exercicios": [
+        {"nome": "Tríceps Kickback", "series": ["11x20", "11x18", "11x16", "11x15", "11x13"]},
+        {"nome": "Obliquo Cross-over", "series": ["52x20", "52x20", "52x20", "52x20", "52x20"]},
+        {"nome": "Abdominal na polia alta", "series": ["36x20", "38x18", "38x20", "38x20", "38x19"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["29x20", "29x18", "29x15", "29x14", "29x12"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["14.7x20", "14.7x17", "14.7x12", "14.7x14", "14.7x14"]},
+        {"nome": "Mergulho perna estendida", "series": ["20xeu", "20xeu", "20xeu", "19xeu"]},
+        {"nome": "Supino inclinado", "series": ["20x18", "20x18", "20x15", "20x15", "20x17"]},
+        {"nome": "Abdominal carrinho", "series": ["17", "15", "14", "12"]}
+    ]
+    },
+    
+    {
+    "data": "30/09/2023",
+    "exercicios": [
+        {"nome": "Hack Machine", "series": ["55x19", "55x15", "55x15", "55x15", "55x15"]},
+        {"nome": "Elevação de quadril", "series": ["40x10", "40x10", "40x10", "40x10"]},
+        {"nome": "Levantamento Terra", "series": ["50x10", "50x8", "50x8", "50x8"]},
+        {"nome": "Elevação Lateral", "series": ["12x16", "12x16", "12x15", "12x16"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["8x10", "8x10", "8x10", "8x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["26x12", "26x12", "26x12", "26x12"]},
+        {"nome": "Puxada Frente triângulo", "series": ["49x16", "47x16", "49x16", "49x16"]},
+        {"nome": "Biceps curl machine", "series": ["33x20", "35x16", "35x16", "32x16"]},
+        {"nome": "Biceps martelo", "series": ["12x16", "12x16", "12x16", "12x16"]}
+    ]
+    },
+    
+    {
+    "data": "02/10/2023",
+    "cardio": [{"tipo": "Eliptico", "tempo": [30]}, {"tipo": "Bike", "tempo": [24]}],
+    "exercicios": [
+        {"nome": "Flexão de braço", "series": ["20x15", "20x14", "20x13", "20x12"]},
+        {"nome": "Supino inclinado hack", "series": ["40x12", "40x12", "40x12", "40x10", "40x8"]},
+        {"nome": "Supino reto com halter", "series": ["24x10", "24x10", "24x10", "24x10", "24x5"]},
+        {"nome": "Crucifixo voador", "series": ["73x12", "73x9", "73x8", "73x9", "73x8","59x4","45x4"]},
+        {"nome": "Desenvolvimento arnold", "series": ["12x12", "12x11", "12x11", "12x9", "12x10"]},
+        {"nome": "Desenvolvimento com barra isometria", "series": ["24x12", "24x10", "24x11", "24x10", "24x10"]},
+        {"nome": "Elevação frontal", "series": ["12.5x12", "12.5x11", "12.5x10", "12.5x10"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["3.4x12", "3.4x12", "3.4x12", "3.4x12"]}
+    ]
+    },
+    
+    {
+    "data": "04/10/2023",
+    "cardio": [{"tipo": "Eliptico", "tempo": [30]}, {"tipo": "Bike", "tempo": [20, 40]}],
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["93x13", "93x12", "93x12", "93x11", "93x12"]},
+        {"nome": "Remada curvada c barra sup", "series": ["40x12", "40x11", "40x10", "40x10", "40x10"]},
+        {"nome": "Remada no Smith", "series": ["20", "18", "16", "14", "13"]},
+        {"nome": "Pulldown", "series": ["56x12", "56x12", "56x12", "56x12"]},
+        {"nome": "Rosca unilateral na polia", "series": ["23x12", "23x12", "23x11", "23x11"]},
+        {"nome": "Puxador aberto", "series": ["59x12", "59x10", "59x10", "59x9", "59x8" , "47x4" , "34x5"]},
+        {"nome": "Rosca direta barra", "series": ["26x12", "26x11", "26x9", "26x10"]},
+        {"nome": "Rosca punho", "series": ["14x15", "18x10", "18x9", "18x10"]},
+        {"nome": "Rosca Scott", "series": ["22x8", "18x10", "18x12", "18x11", "18x10"]}
+    ]
+    },
+    
+    {
+    "data": "05/10/2023",
+    "exercicios": [
+        {"nome": "Tríceps Kickback", "series": ["16x11", "14x11", "14x11", "14x10", "14x10"]},
+        {"nome": "Obliquo Cross-over", "series": ["64x12", "64x12", "64x12", "64x12", "64x12"]},
+        {"nome": "Abdominal na polia alta", "series": ["45x12", "45x12", "45x11", "45x11", "45x10"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["36x12", "36x12", "36x10", "36x10", "36x9"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["17x12", "17x10", "17x10", "17x10", "17x10"]},
+        {"nome": "Mergulho perna estendida", "series": ["20xeu", "18xeu", "18xeu", "17xeu"]},
+        {"nome": "Supino inclinado hack", "series": ["40x12", "40x12", "40x10", "40x10", "40x10"]}
+    ]
+    },
+    
+    {
+    "data": "07/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Hack Machine", "series": ["80x12", "80x12", "80x12", "80x12", "80x12"]},
+        {"nome": "Elevação de quadril", "series": ["40x12", "40x10", "40x11", "40x10"]},
+        {"nome": "Elevação Lateral", "series": ["5.7x12", "5.7x11", "5.7x11", "5.7x11"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["8x11", "8x10", "8x10", "8x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["28x12", "28x12", "28x12", "28x12"]},
+        {"nome": "Puxada Frente triângulo", "series": ["56x12", "61x10", "61x9", "61x10"]},
+        {"nome": "Biceps curl machine", "series": ["41x12", "41x10", "41x10", "41x10"]}
+    ]
+    },
+    
+    {
+    "data": "10/10/2023",
+    "cardio": [{"tipo": "Elíptico", "tempo": [25]}, {"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Flexão de braço", "series": ["25x12", "25x11", "25x10", "25x11", "25x10"]},
+        {"nome": "Supino inclinado hack", "series": ["45x12", "45x12", "45x10", "45x9", "45x8"]},
+        {"nome": "Supino reto com halter", "series": ["24x10", "24x10", "24x9", "24x10", "24x9"]},
+        {"nome": "Crucifixo voador", "series": ["73x12", "73x12", "73x10", "73x10", "73x9","59x6","45x6"]},
+        {"nome": "Desenvolvimento arnold", "series": ["12x13", "12x12", "12x11", "12x10", "12x10"]},
+        {"nome": "Desenvolvimento com barra isometria", "series": ["24x12", "24x10", "24x11", "24x10", "24x10"]},
+        {"nome": "Elevação frontal", "series": ["12.5x13", "12.5x12", "12.5x12", "12.5x12"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["3.4x13", "3.4x13", "3.4x13", "3.4x13"]}
+    ]
+    },
+    
+    {
+    "data": "12/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Remada baixa", "series": ["93x14", "93x13", "93x13", "93x13", "93x12"]},
+        {"nome": "Remada curvada c barra sup", "series": ["42x12", "42x11", "42x10", "42x10", "42x9"]},
+        {"nome": "Remada no Smith", "series": ["20", "16", "15", "14", "14"]},
+        {"nome": "Pulldown", "series": ["59x11", "59x12", "59x11", "59x11"]},
+        {"nome": "Rosca unilateral na polia", "series": ["23x11", "23x12", "23x12", "23x11"]},
+        {"nome": "Puxador aberto", "series": ["61x11", "61x11", "61x9", "61x9", "61x8" , "47x4" , "34x6"]},
+        {"nome": "Rosca direta barra", "series": ["26x12", "26x12", "26x11", "26x11"]},
+        {"nome": "Rosca punho", "series": ["18x12", "18x12", "18x10", "18x12"]},
+        {"nome": "Rosca Scott", "series": ["18x12", "18x10", "18x12", "18x11", "18x10"]}
+    ]
+    },
+    
+    {
+    "data": "13/10/2023",
+    "cardio": [{"tipo": "Elíptico", "tempo": [30]}, {"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Tríceps Kickback (90)", "series": ["16x11", "16x10", "16x10", "16x9", "16x9"]},
+        {"nome": "Obliquo Cross-over", "series": ["66x12", "66x12", "66x12", "66x12", "66x12"]},
+        {"nome": "Abdominal na polia alta", "series": ["47x12", "47x12", "47x11", "47x10", "47x10"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["38x12", "38x11", "38x11", "38x9", "38x10"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["17x13", "17x12", "17x12", "17x11", "17x10"]},
+        {"nome": "Mergulho perna estendida", "series": ["20xeu", "18xeu", "18xeu", "17xeu"]},
+        {"nome": "Supino inclinado hack", "series": ["45x12", "45x10", "45x9", "45x18", "45x9"]},
+        {"nome": "Abdominal rodinha", "series": ["12", "14", "16", "16"]}
+    ]
+    },
+    
+    {
+    "data": "14/10/2023",
+    "exercicios": [
+        {"nome": "Hack Machine (1:30)", "series": ["100x10", "100x10", "100x10", "100x10"]},
+        {"nome": "Elevação de quadril", "series": ["45x10", "50x10", "50x10", "50x9"]},
+        {"nome": "Elevação Lateral", "series": ["5.7x12", "5.7x14", "5.7x13", "5.7x12"]},
+        {"nome": "Elevação Frontal com Halteres", "series": ["10x10", "10x10", "10x9", "10x9"]},
+        {"nome": "Terra sumo", "series": ["20x10", "20x10", "20x10"]},
+        {"nome": "Terra", "series": ["20x8", "20x10", "20x10"]},
+        {"nome": "Remada unilateral com halter", "series": ["30x10", "30x10", "30x10", "30x10"]},
+        {"nome": "Puxada Frente triângulo", "series": ["66x10", "66x9", "66x9", "66x9"]},
+        {"nome": "Biceps curl machine", "series": ["43x11", "45x9", "45x10", "45x9"]},
+        {"nome": "Bíceps martelo", "series": ["14x10", "14x9", "14x9"]}
+    ]
+    },
+    
+    {
+    "data": "16/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Flexão de braço (90)", "series": ["25x13", "25x13", "25x13", "25x12", "25x11"]},
+        {"nome": "Supino inclinado hack (120)", "series": ["47x11", "47x11", "47x9", "47x9", "47x8"]},
+        {"nome": "Supino reto com halter (120)", "series": ["24x11", "24x11", "24x10", "24x10", "24x7"]},
+        {"nome": "Crucifixo voador (60)", "series": ["73x14", "79x10", "79x8", "79x8", "79x8","66x5","52x5"]},
+        {"nome": "Desenvolvimento arnold (90)", "series": ["12x15", "12x14", "12x12", "12x11", "12x11"]},
+        {"nome": "Desenvolvimento com barra isometria (90)", "series": ["24x12", "24x11", "24x11", "24x10", "24x11"]},
+        {"nome": "Elevação frontal", "series": ["14.7x10", "14.7x10", "14.7x10", "14.7x9"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["3.4x14", "3.4x14", "3.4x14", "3.4x14"]}
+    ]
+    },
+    
+    {
+    "data": "17/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": [20]}],
+    "exercicios": [
+        {"nome": "Mesa Flexora", "series": ["50x12", "54x12", "54x10", "54x8"]},
+        {"nome": "Stiff", "series": ["46x12", "46x12", "46x12", "46x12"]},
+        {"nome": "Flexão de joelho na extensora", "series": ["14x12", "14x12", "14x11", "14x10"]},
+        {"nome": "Bom dia", "series": ["30x12", "30x12", "30x12", "30x12"]},
+        {"nome": "Agachamento hack", "series": ["30x12", "30x12", "30x12"]},
+        {"nome": "Búlgaro", "series": ["20x12", "20x10", "20x10"]},
+        {"nome": "Extensora 2s", "series": ["41x12", "41x11", "41x11", "41x11"]}
+    ]
+    },
+    
+    {
+    "data": "18/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": [18]}],
+    "exercicios": [
+        {"nome": "Remada baixa (90)", "series": ["93x15", "93x15", "93x15", "93x14", "93x14"]},
+        {"nome": "Remada curvada c barra sup (90)", "series": ["45x9", "45x8", "45x9", "45x8", "45x8"]},
+        {"nome": "Remada no Smith", "series": ["21", "17", "15", "15", "16"]},
+        {"nome": "Pulldown", "series": ["61x10", "61x10", "61x10", "61x10"]},
+        {"nome": "Rosca unilateral na polia", "series": ["23x11", "23x11", "25x10", "25x8"]},
+        {"nome": "Puxador aberto", "series": ["61x11", "61x11", "61x10", "61x10", "61x9", ["47x5", "34x6"]]},
+        {"nome": "Rosca direta barra", "series": ["28x11", "28x11", "28x11", "28x10"]},
+        {"nome": "Rosca punho", "series": ["18x12", "18x12", "18x10", "18x12"]},
+        {"nome": "Rosca Scott", "series": ["18x12", "18x11", "18x11", "18x11", "18x10"]}
+    ]
+    },
+    
+    {
+    "data": "20/10/2023",
+    "cardio": [{"tipo": "Bike", "tempo": 20}],
+    "exercicios": [
+        {"nome": "Tríceps Kickback (90)", "series": ["16x12", "16x11", "16x10", "16x11", "16x11"]},
+        {"nome": "Obliquo Cross-over", "series": ["68x12", "68x12", "68x12", "68x12", "68x12"]},
+        {"nome": "Abdominal na polia alta", "series": ["50x12", "50x12", "50x12", "50x12", "50x12"]},
+        {"nome": "Tríceps Testa na Corda", "series": ["41x11", "41x10", "41x10", "41x9", "41x10"]},
+        {"nome": "Crucifixo Adutor na Polia", "series": ["19x11", "19x10", "19x10", "19x8", "19x8"]},
+        {"nome": "Mergulho perna estendida", "series": ["20xeu", "20xeu", "16xeu", "17xeu"]},
+        {"nome": "Supino inclinado hack", "series": ["45x12", "45x11", "45x11", "45x11", "45x9"]},
+        {"nome": "Abdominal rodinha (n fiz)", "series": ["12", "14", "16"]}
+    ]
+    },
+    
+    {
+        "data": "21/10/2023",
+        "cardio": [{"tipo": "Bike", "tempo": [18]}],
+        "exercicios": [
+            {"nome": "Hack Machine (1:30)", "series": ["100x10", "100x10", "100x10", "100x10"]},
+            {"nome": "Elevação de quadril", "series": ["50x10", "50x10", "50x10", "50x9"]},
+            {"nome": "Elevação Lateral", "series": ["5.7x14", "5.7x14", "5.7x14", "5.7x13"]},
+            {"nome": "Elevação Frontal com Halteres", "series": ["12x10", "12x10", "12x10", "12x10"]},
+            {"nome": "Terra", "series": ["20x8", "20x10", "20x10"]},
+            {"nome": "Remada unilateral com halter", "series": ["32x10", "30x10", "30x10", "30x10"]},
+            {"nome": "Puxada Frente triângulo", "series": ["66x10", "66x9", "66x9", "66x9"]},
+            {"nome": "Biceps curl machine", "series": ["45x12", "50x10", "50x9", "45x9"]},
+            {"nome": "Bíceps martelo", "series": ["14x10", "14x10", "14x9", "14x10"]}
+        ]
+    },
+    
+    {
+        "data": "24/10/2023",
+        "exercicios": [
+            {"nome": "Flexão de braço(90)", "series": ["25x12", "25x15", "25x14", "25x12", "25x10"]},
+            {"nome": "Supino inclinado hack (120)", "series": ["50x12", "50x10", "50x7", "50x8", "50x8"]},
+            {"nome": "Supino reto com halter (120)", "series": ["24x11", "24x9", "24x9", "24x8", "24x9"]},
+            {"nome": "Crucifixo voador (60)", "series": ["79x11", "79x10", "79x9", "79x8", "79x8"]},
+            {"nome": "Desenvolvimento arnold (90)", "series": ["14x12", "14x11", "14x10", "14x10", "14x10"]}
+        ]
+    },
+    
+    {
+        "data": "25/10/2023",
+        "exercicios": [
+            {"nome": "Desenvolvimento arnold (90)", "series": ["14x12", "14x11", "14x10", "14x10", "14x10"]},
+            {"nome": "Desenvolvimento com barra isometria (90)", "series": ["26x12", "26x11", "26x11", "26x11", "26x10"]},
+            {"nome": "Elevação frontal", "series": ["14.7x12", "14.7x12", "14.7x12", "14.7x12"]},
+            {"nome": "Crucifixo abdutor na polia uni", "series": ["3.4x15", "3.4x15", "3.4x15", "3.4x15"]},
+            {"nome": "Mesa Flexora", "series": ["54x12", "54x12", "54x10", "54x8"]},
+            {"nome": "Stiff", "series": ["46x12", "46x12", "46x12", "46x12"]}
+        ]
+    },
+    
+    {
+        "data": "26/10/2023",
+        "exercicios": [
+            {"nome": "Remada baixa (90)", "series": ["95x13", "95x12", "95x12", "95x12", "95x13"]},
+            {"nome": "Remada curvada c barra sup (90)", "series": ["45x10", "45x10", "40x11", "40x11", "40x10"]},
+            {"nome": "Remada no Smith", "series": ["20", "17", "15", "16", "16"]},
+            {"nome": "Pulldown", "series": ["61x12", "61x12", "61x10", "61x10"]},
+            {"nome": "Rosca unilateral na polia", "series": ["23x12", "23x12", "25x10", "25x8"]},
+            {"nome": "Puxador aberto", "series": ["63x11", "63x10", "61x11", "61x10", "61x9", ["47x5", "34x6"]]},
+            {"nome": "Rosca direta barra", "series": ["28x12", "28x11", "28x11", "28x10"]},
+            {"nome": "Rosca punho", "series": ["18x12", "18x12", "18x10", "18x12"]},
+            {"nome": "Rosca Scott", "series": ["18x12", "18x11", "18x11", "18x11", "18x10"]}
+        ]
+    },
+    
+    {
+        "data": "28/10/2023",
+        "exercicios": [
+            {"nome": "Tríceps Kickback (90)", "series": ["16x12", "16x12", "16x11", "16x12", "16x11"]},
+            {"nome": "Obliquo Cross-over", "series": ["68x12", "68x12", "68x12", "68x11", "68x12"]},
+            {"nome": "Abdominal na polia alta", "series": ["52x12", "52x12", "52x12", "52x11", "52x12"]},
+            {"nome": "Tríceps Testa na Corda", "series": ["41x12", "41x12", "41x11", "41x12", "41x10"]},
+            {"nome": "Crucifixo Adutor na Polia", "series": ["19x12", "19x12", "19x12", "19x12", "19x12"]},
+            {"nome": "Mergulho perna estendida", "series": ["20xeu", "20xeu", "16xeu", "17xeu"]},
+            {"nome": "Supino inclinado hack", "series": ["50x12", "50x10", "50x9", "50x8", "50x8"]}
+        ]
+    },
+    
+    {
+        "data": "30/10/2023",
+        "cardio": [{"tipo": "bike", "tempo": 22}],
+        "exercicios": [
+            {"nome": "Hack Machine (1:30)", "series": ["110x9", "110x10", "110x10", "110x10"]},
+            {"nome": "Elevação de quadril", "series": ["50x10", "70x10", "70x10", "80x10"]},
+            {"nome": "Elevação Lateral", "series": ["5.7x15", "5.7x14", "5.7x14", "5.7x13"]},
+            {"nome": "Elevação Frontal com Halteres", "series": ["10x10", "10x9", "10x8", "10x10"]},
+            {"nome": "Remada unilateral com halter", "series": ["34x9", "34x9", "34x9", "34x9"]},
+            {"nome": "Puxada Frente triângulo", "series": ["66x10", "66x9", "66x9", "66x9"]},
+            {"nome": "Biceps curl machine", "series": ["54x8", "52x8", "52x8", "52x8"]},
+            {"nome": "Bíceps martelo", "series": ["16x9", "16x8", "16x8", "16x8"]}
+        ]
+    },
+    
+    {
+        "data": "31/10/2023",
+        "cardio": [{"tipo": "bike", "tempo": 20}, {"tipo": "elíptico", "tempo": 20}],
+        "exercicios": [
+            {"nome": "Fazer Manguito", "series": []},
+            {"nome": "Flexão de braço(90)", "series": ["25x15", "25x15", "25x14", "25x13", "25x13"]},
+            {"nome": "Supino inclinado hack (120)", "series": ["50x12", "50x10", "50x8", "50x8", "50x8"]},
+            {"nome": "Supino reto com halter (120)", "series": ["24x11", "24x11", "24x9", "24x8", "24x9"]},
+            {"nome": "Crucifixo voador (60)", "series": ["79x11", "79x10", "79x9", "79x8", "79x8"]},
+            {"nome": "Desenvolvimento arnold (90)", "series": ["14x10", "14x9", "14x8", "14x8", "14x8"]},
+            {"nome": "Desenvolvimento com barra isometria (90)", "series": ["24x12", "24x12", "24x11", "24x11", "24x10"]}
+        ]
+    },
+    
+    {
+        "data": "01/11/2023",
+        "cardio": [{"tipo": "elíptico", "tempo": 20}, {"tipo": "bike", "tempo": 17}],
+        "exercicios": [
+            {"nome": "Elevação frontal", "series": ["14.7x14", "17x10", "17x10", "17x10"]},
+            {"nome": "Crucifixo abdutor na polia uni", "series": ["5.7x12", "5.7x10", "5.7x10", "5.7x10"]},
+            {"nome": "Mesa Flexora", "series": ["54x12", "55x11", "55x10", "55x7"]},
+            {"nome": "Stiff", "series": ["46x11", "46x12", "46x12", "46x12"]}
+        ]
+    },
+    
+    {
+        "data": "03/11/2023",
+        "cardio": [{"tipo": "bike", "tempo": "9:32"}],
+        "exercicios": [
+            {"nome": "Remada baixa (90)", "series": ["95x12", "95x14", "95x14", "95x14", "95x14"]},
+            {"nome": "Remada curvada c barra sup (90)", "series": ["45x10", "45x10", "45x9", "45x9", "45x9"]},
+            {"nome": "Remada no Smith", "series": ["20", "19", "14", "16", "15"]},
+            {"nome": "Pulldown", "series": ["61x12", "61x12", "61x11", "61x12"]},
+            {"nome": "Rosca unilateral na polia", "series": ["23x14", "23x14", "23x12", "23x12"]},
+            {"nome": "Puxador aberto", "series": ["63x11", "63x10", "63x10", "61x10", "61x9", ["47x5", "34x6"]]},
+            {"nome": "Rosca direta barra", "series": ["30x9", "30x9", "30x8", "30x7"]},
+            {"nome": "Rosca punho", "series": ["18x12", "18x12", "18x10"]}
+        ]
+    },
+    
+    {
+        "data": "05/11/2023",
+        "exercicios": [
+            {"nome": "Tríceps Kickback (90)", "series": ["18x10", "18x8", "16x12", "16x12", "16x11"]},
+            {"nome": "Obliquo Cross-over", "series": ["70x12", "70x12", "70x12", "70x12", "70x12"]},
+            {"nome": "Abdominal na polia alta", "series": ["54x12", "54x12", "54x12", "54x12", "54x12"]},
+            {"nome": "Tríceps Testa na Corda", "series": ["43x11", "43x11", "43x11", "43x9", "43x8"]},
+            {"nome": "Crucifixo Adutor na Polia", "series": ["19x12", "19x12", "19x11", "19x10", "19x9"]},
+            {"nome": "Mergulho perna estendida", "series": ["20xeu", "20xeu", "20xeu", "20xeu"]},
+            {"nome": "Supino inclinado hack", "series": ["50x10", "50x9", "50x8"]}
+        ]
+    },
+    
+    {
+        "data": "07/11/2023",
+        "cardio": [{"tipo": "bike", "tempo": "18min"}],
+        "exercicios": [
+            {"nome": "Hack Machine (1:30)", "series": ["80x12", "80x12", "100x10", "100x10"]},
+            {"nome": "Elevação de quadril", "series": ["70x10", "70x10", "70x9", "70x8"]},
+            {"nome": "Elevação Lateral", "series": ["5.7x15", "5.7x14", "5.7x13", "5.7x14"]},
+            {"nome": "Elevação Frontal com Halteres", "series": ["10x10", "10x10", "10x9", "10x10"]},
+            {"nome": "Terra sumo", "series": ["30x10", "30x10", "30x9", "30x8"]},
+            {"nome": "Remada unilateral com halter", "series": ["34x10", "34x9", "34x9", "34x9"]},
+            {"nome": "Puxada Frente triângulo", "series": ["68x9", "68x10", "68x9", "66x9"]},
+            {"nome": "Biceps curl machine", "series": ["52x10", "52x9", "52x9", "52x8"]},
+            {"nome": "Bíceps martelo", "series": ["16x10", "16x10", "16x10", "16x9"]}
+        ]
+    },
+    
+    {
+        "data": "8/11/2023",
+        "cardio": [{"tipo": "Bike", "tempo": "17"}],
+        "exercicios": [
+            {"nome": "Flexão de braço(90)", "series": ["25x15", "25x15", "25x15", "25x13", "25x13"]},
+            {"nome": "Supino inclinado hack (120)", "series": ["50x12", "50x12", "50x8", "50x8", "50x9"]},
+            {"nome": "Supino reto com halter (120)", "series": ["24x11", "24x11", "24x8", "24x8", "24x7"]},
+            {"nome": "Crucifixo voador (60)", "series": ["79x11", "79x10", "79x10", "79x9", "79x7"]},
+            {"nome": "Desenvolvimento arnold (90)", "series": ["14x11", "14x9", "14x8", "14x8", "14x8"]},
+            {"nome": "Desenvolvimento com barra isometria (90)", "series": ["26x11", "26x11", "26x9", "26x10", "26x9"]}
+        ]
+    },
+    
+    {
+    "data": "9/11/2023",
+    "cardio": [{"tipo": "Caminhada", "tempo": "20"}],
+    "exercicios": [
+        {"nome": "Elevação frontal", "series": ["17x11", "17x11", "17x11", "17x11"]},
+        {"nome": "Crucifixo abdutor na polia uni", "series": ["5.7x11", "5.7x11", "5.7x11", "5.7x10"]},
+        {"nome": "Mesa Flexora", "series": ["55x11", "55x9", "55x9", "55x7"]},
+        {"nome": "Stiff", "series": ["46x11", "46x12", "46x12", "46x12"]},
+        {"nome": "Flexão de joelho na extensora", "series": ["16x10", "16x10", "16x8", "16x8"]},
+        {"nome": "Bom dia", "series": ["30x11", "30x11", "30x12"]},
+        {"nome": "Extensora 2s", "series": ["41x12", "41x12", "41x11", "41x10"]}
+    ]
+    },
+    
+    {
+    "data": "10/11/2023",
+    "cardio": [{"tipo": "Bike", "tempo": "18"}],
+    "exercicios": [
+        {"nome": "Remada baixa (90)", "series": ["95x14", "95x14", "95x14", "95x14", "95x14"]},
+        {"nome": "Remada curvada c barra sup (90)", "series": ["45x10", "45x9", "45x8", "45x9", "45x8"]},
+        {"nome": "Remada no Smith", "series": ["19", "18", "16", "16"]},
+        {"nome": "Pulldown", "series": ["64x12", "64x11", "64x11", "64x10"]},
+        {"nome": "Rosca unilateral na polia", "series": ["25x10", "25x10", "25x10", "25x10"]},
+        {"nome": "Puxador aberto", "series": ["66x10", "66x10", "66x9", "66x8", "66x8" , "52x5" , "39x5"]},
+        {"nome": "Rosca direta barra", "series": ["30x9", "30x9", "30x9", "30x9"]},
+        {"nome": "Rosca punho", "series": ["18x12", "18x12", "18x12"]}
+    ]
+    }
+]

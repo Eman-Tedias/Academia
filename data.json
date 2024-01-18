@@ -1,0 +1,539 @@
+[
+{
+    "data": "13/11/2023",
+    "cardio": [{"tipo": "Bike", "tempo": "18"}, {"tipo": "Elíptico", "tempo": "20"}],
+    "exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "17x5"], ["21.6x9", "17x5"], ["21.6x9", "17x5"]]},
+    {"nome": "Supino Máquina", "series": [["59x10"], ["59x10", "47x5"], ["63x10", "51x5"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["50x10", "41x5"], ["54x10", "44x5"], ["59x10", "47x5"]]},
+    {"nome": "Supino reto (hack)", "series": [["60x10", "45x5"], ["60x9", "45x5"], ["60x8", "45x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["50x8"], ["50x8", "40x5"], ["50x6", "40x5"]]},
+    {"nome": "Supino inclinado com halter", "series": [["22x10", "18x5"], ["22x10", "18x4"], ["22x9", "18x5"]]},
+    {"nome": "Bíceps pulley corda", "series": [["36x10", "29x5"], ["36x10", "29x5"], ["36x10", "29x6"]]},
+    {"nome": "Rosca 45", "series": [["12x10", "10x5"], ["12x10", "10x5"], ["12x9", "10x5"]]},
+    {"nome": "Concentrado", "series": [["10x9"], ["10x10"], ["10x10"]]}
+    ]
+},
+
+{
+    "data": "15/11/2023",
+    "cardio": [{"tipo": "Caminhada", "tempo": "30"}],
+    "exercicios": [
+    {"nome": "Cadeira Flexora", "series": [["32x10", "27x5"], ["36x8", "32x5"], ["32x8", "27x5"]]},
+    {"nome": "Stiff", "series": [["60x10", "46x5"], ["60x8", "46x5"], ["60x10", "46x5"]]},
+    {"nome": "Mesa Flexora", "series": [["54x10", "45x5"], ["56x8", "47x5"], ["56x8", "47x4"]]},
+    {"nome": "Agachamento livre", "series": [["50x10"], ["50x10"], ["50x10"]]},
+    {"nome": "Búlgaro", "series": [["12x10"], ["12x10"], ["12x10"]]},
+    {"nome": "Leg Press", "series": [["200x10"], ["200x10"], ["200x10"]]},
+    {"nome": "Gêmeos sentado", "series": [["40x10"], ["40x10"], ["40x10"]]},
+    {"nome": "Hack", "series": [["80x10", "40x5"], ["100x10", "80x5"], ["100x10", "80x5"]]},
+    {"nome": "Abdominal crunch", "series": [["41x10", "32x5"], ["50x10", "41x5"], ["59x9", "50x5"]]}
+    ]
+},
+
+{
+"data": "16/11/2023",
+"cardio": [{"tipo": "Elíptico", "tempo": "20"}, {"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["50x10", "40x5"], ["50x10", "40x5"], ["50x10", "40x5"]]},
+    {"nome": "Remada na máquina", "series": [["59x10", "50x5"], ["59x10", "50x5"], ["59x10", "50x5"]]},
+    {"nome": "Pulldown máquina", "series": [["59x10", "50x5"], ["68x10", "56x5"], ["68x10", "56x5"]]},
+    {"nome": "Puxada triângulo", "series": [["66x10", "56x4"], ["66x10", "54x5"], ["66x9", "54x5"]]},
+    {"nome": "Remada unilateral com halter", "series": [["34x8"], ["32x10"], ["30x10"]]},
+    {"nome": "Tríceps mergulho", "series": [["10x10"], ["10x10"], ["10x10"]]},
+    {"nome": "Tríceps francês halter", "series": [["14x10"], ["18x10"], ["18x10"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x10"], ["27x10"], ["27x8"]]}
+]
+},
+
+{
+"data": "17/11/2023",
+"cardio": [{"tipo": "Caminhada", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["10x20"], ["10x20"], ["10x20"]]},
+    {"nome": "Voador", "series": [["52x20", "39x5"], ["59x20", "45x5"], ["66x20", "52x5"], ["66x19", "52x5"]]},
+    {"nome": "Supino reto com halter", "series": [["18x20", "14x5"], ["18x20"], ["18x20", "14x5"], ["18x20", "14x5"]]},
+    {"nome": "Supino inclinado halter", "series": [["18x19", "14x5"], ["18x15", "14x5"], ["18x16", "14x5"], ["18x14", "14x5"]]},
+    {"nome": "Supino Máquina", "series": [["36x20", "30x5"], ["36x18", "30x5"], ["36x16", "30x5"], ["36x17", "30x5"]]},
+    {"nome": "Elevação lateral", "series": [["10x19", "8x5"], ["10x19", "8x5"], ["10x17", "8x5"], ["10x17", "8x5"]]},
+    {"nome": "Desenvolvimento na máquina", "series": [["27x18", "23x5"], ["27x16", "23x5"], ["27x16", "23x5"], ["27x17", "23x4"]]}
+]
+},
+
+{
+"data": "18/11/2023",
+"exercicios": [
+    {"nome": "Extensora isométrica", "series": [["56x10", "45x5"], ["56x10", "45x5"], ["59x10", "45x5"]]},
+    {"nome": "Terra sumo", "series": [["40x10"], ["40x8"], ["40x8"]]},
+    {"nome": "Agachamento hack", "series": [["60x9"], ["60x8"], ["60x10"]]},
+    {"nome": "Cadeira Abdutora", "series": [["54x10"], ["50x10"], ["63x10"]]},
+    {"nome": "Cadeira Adutora", "series": [["59x10"], ["54x10"], ["59x10"]]},
+    {"nome": "Levantamento Pélvico", "series": [["60x10"], ["60x9"], ["60x8"]]}
+]
+},
+
+{
+"data": "19/11/2023",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Crucifixo abdutor no banco", "series": [["7x20", "6x5"], ["8x18", "6x5"], ["8x19", "6x5"], ["8x18", "6x5"]]},
+    {"nome": "Arnold", "series": [["10x18", "9x5"], ["10x17", "9x5"], ["10x16", "9x5"], ["10x16", "9x5"]]},
+    {"nome": "Desenvolvimento barra", "series": [["30x10", "24x5"], ["34x10", "24x5"], ["34x10", "24x5"]]},
+    {"nome": "Crucifixo sentado inverso", "series": [["8x10"], ["10x10", "8x5"], ["10x10", "8x5"]]},
+    {"nome": "Crucifixo inverso peck", "series": [["66x10", "59x5"], ["73x10", "59x5"], ["73x10", "59x5"]]},
+    {"nome": "Rotação externa ombro", "series": [["11x10"], ["11x10"], ["11x10"]]},
+    {"nome": "Lateral Cross", "series": [["11x10"], ["11x10"], ["9x10"]]}
+]
+},
+
+{
+"data": "21/11/2023",
+"cardio": [{"tipo": "Caminhada", "tempo": "30"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "17x6"], ["21.6x10", "17x5"], ["21.6x9", "17x5"]]},
+    {"nome": "Supino Máquina", "series": [["63x10"], ["63x8", "51x5"], ["63x10", "51x5"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["59x10", "50x5"], ["59x8", "50x5"], ["59x8", "50x4"]]},
+    {"nome": "Supino reto (hack)", "series": [["60x9", "45x5"], ["60x10", "45x5"], ["60x9", "45x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["50x9", "40x5"], ["50x8", "40x5"], ["50x7", "40x5"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x8", "18x4"], ["24x7", "18x4"], ["24x7", "18x4"]]},
+    {"nome": "Bíceps pulley corda", "series": [["38x10", "32x5"], ["41x10", "32x5"], ["45x10", "36x5"]]},
+    {"nome": "Rosca 45", "series": [["14x9", "10x5"], ["12x10", "10x5"], ["12x10", "10x4"]]},
+    {"nome": "Concentrado", "series": [["10x10", "8x4"], ["10x10", "8x5"], ["10x10", "8x4"]]}
+]
+},
+
+{
+"data": "22/11/2023",
+"exercicios": [
+    {"nome": "Cadeira Flexora", "series": [["36x10", "29x5"], ["36x10", "29x5"], ["36x10", "29x5"]]},
+    {"nome": "Stiff", "series": [["65x10", "46x5"], ["65x10", "46x5"], ["65x10", "46x5"]]},
+    {"nome": "Mesa Flexora", "series": [["56x10", "46x5"], ["57x10", "46x5"], ["59x10", "50x5"]]},
+    {"nome": "Agachamento livre", "series": [["50x10"], ["60x8"], ["60x8"]]},
+    {"nome": "Búlgaro", "series": [["14x10"], ["14x9"], ["14x8"]]},
+    {"nome": "Leg Press", "series": [["200x10"], ["240x10"], ["240x10"]]},
+    {"nome": "Gêmeos sentado", "series": [["40x10"], ["60x6"], ["50x10"]]},
+    {"nome": "Hack", "series": [["100x8", "80x5"], ["100x10", "80x5"]]}
+]
+},
+
+{
+"data": "19/11/2023",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Crucifixo abdutor no banco", "series": [["7x20", "6x5"], ["8x18", "6x5"], ["8x19", "6x5"], ["8x18", "6x5"]]},
+    {"nome": "Arnold", "series": [["10x18", "9x5"], ["10x17", "9x5"], ["10x16", "9x5"], ["10x16", "9x5"]]},
+    {"nome": "Desenvolvimento barra", "series": [["30x10", "24x5"], ["34x10", "24x5"], ["34x10", "24x5"]]},
+    {"nome": "Crucifixo sentado inverso", "series": [["8x10"], ["10x10", "8x5"], ["10x10", "8x5"]]},
+    {"nome": "Crucifixo inverso peck", "series": [["66x10", "59x5"], ["73x10", "59x5"], ["73x10", "59x5"]]},
+    {"nome": "Rotação externa ombro", "series": [["11x10"], ["11x10"], ["11x10"]]},
+    {"nome": "Lateral Cross", "series": [["11x10"], ["11x10"], ["9x10"]]}
+]
+},
+
+{
+"data": "21/11/2023",
+"cardio": [{"tipo": "Andando", "tempo": "30"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "17x6"], ["21.6x10", "17x5"], ["21.6x9", "17x5"]]},
+    {"nome": "Supino Máquina", "series": [["63x10"], ["63x8", "51x5"], ["63x10", "51x5"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["59x10", "50x5"], ["59x8", "50x5"], ["59x8", "50x4"]]},
+    {"nome": "Supino reto (hack)", "series": [["60x9", "45x5"], ["60x10", "45x5"], ["60x9", "45x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["50x9", "40x5"], ["50x8", "40x5"], ["50x7", "40x5"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x8", "18x4"], ["24x7", "18x4"], ["24x7", "18x4"]]},
+    {"nome": "Bíceps pulley corda", "series": [["38x10", "32x5"], ["41x10", "32x5"], ["45x10", "36x5"]]},
+    {"nome": "Rosca 45", "series": [["14x9", "10x5"], ["12x10", "10x5"], ["12x10", "10x4"]]},
+    {"nome": "Concentrado", "series": [["10x10", "8x4"], ["10x10", "8x5"], ["10x10", "8x4"]]}
+]
+},
+
+{
+"data": "22/11/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Cadeira Flexora", "series": [["36x10", "29x5"], ["36x10", "29x5"], ["36x10", "29x5"]]},
+    {"nome": "Stiff", "series": [["65x10", "46x5"], ["65x10", "46x5"], ["65x10", "46x5"]]},
+    {"nome": "Mesa Flexora", "series": [["56x10", "46x5"], ["57x10", "46x5"], ["59x10", "50x5"]]},
+    {"nome": "Agachamento livre", "series": [["50x10"], ["60x8"], ["60x8"]]},
+    {"nome": "Búlgaro", "series": [["14x10"], ["14x9"], ["14x8"]]},
+    {"nome": "Leg Press", "series": [["200x10"], ["240x10"], ["240x10"]]},
+    {"nome": "Gêmeos sentado", "series": [["40x10"], ["60x6"], ["50x10"]]},
+    {"nome": "Hack", "series": [["100x8", "80x5"], ["100x10", "80x5"]]}
+]
+},
+
+{
+"data": "26/11/2023",
+"exercicios": [
+    {"nome": "Extensora isométrica", "series": [["59x10", "51x5"], ["59x8", "51x5"], ["59x10", "51x5"]]},
+    {"nome": "Cadeira Abdutora", "series": [["63x10"], ["63x10"], ["63x10"]]},
+    {"nome": "Cadeira Adutora", "series": [["63x10"], ["63x10"], ["63x10"]]},
+    {"nome": "Levantamento Pélvico", "series": [["65x9"], ["65x9"], ["65x9"]]}
+]
+},
+
+{
+"data": "28/11/2023",
+"cardio": [{"tipo": "Elíptico", "tempo": "20"}, {"tipo": "Bike", "tempo": "16"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "17x5"], ["21.6x10", "17x5"], ["21.6x9", "17x5"]]},
+    {"nome": "Supino Máquina", "series": [["65x8", "51x5"], ["65x8", "51x5"], ["65x7", "51x4"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["59x10", "50x5"], ["63x9", "50x5"], ["63x8", "50x4"]]},
+    {"nome": "Supino reto (hack)", "series": [["65x7", "45x5"], ["60x9", "40x5"], ["60x9", "40x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["50x8", "40x5"], ["50x8", "40x5"], ["50x7", "40x4"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x8", "18x5"], ["24x8", "18x4"], ["24x7", "18x4"]]},
+    {"nome": "Bíceps pulley corda", "series": [["45x10", "36x5"], ["45x10", "36x5"], ["45x10", "36x5"]]},
+    {"nome": "Rosca 45", "series": [["14x9", "10x5"], ["14x7", "10x5"], ["14x6", "10x4"]]},
+    {"nome": "Concentrado", "series": [["12x8", "8x5"], ["12x7", "8x4"], ["12x7", "8x5"]]}
+]
+},
+
+{
+"data": "29/11/2023",
+"exercicios": [
+    {"nome": "Cadeira Flexora", "series": [["37x10", "28x5"], ["37x10", "30x5"], ["37x8", "30x4"]]},
+    {"nome": "Stiff", "series": [["65x10", "46x5"], ["65x10", "46x5"], ["65x10", "46x5"]]},
+    {"nome": "Mesa Flexora", "series": [["59x10", "50x5"], ["59x8", "50x5"], ["59x10", "50x5"]]},
+    {"nome": "Agachamento livre", "series": [["60x10"], ["65x8"], ["60x8"]]},
+    {"nome": "Búlgaro", "series": [["14x10"], ["14x10"], ["14x10"]]},
+    {"nome": "Leg Press", "series": [["220x10"], ["240x10"], ["240x10"]]},
+    {"nome": "Gêmeos sentado", "series": [["50x10"], ["50x10"], ["50x10"]]},
+    {"nome": "Abdominal crunch", "series": [["59x10", "50x5"], ["59x10", "50x5"], ["59x9", "50x5"]]}
+]
+},
+
+{
+"data": "30/11/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["55x10", "45x5"], ["55x10", "45x5"], ["55x8", "45x5"]]},
+    {"nome": "Remada na máquina", "series": [["68x10", "54x5"], ["68x10", "54x5"], ["68x10", "54x5"]]},
+    {"nome": "Pulldown máquina", "series": [["72x10", "59x5"], ["72x10", "59x5"], ["72x9", "59x5"]]},
+    {"nome": "Puxada triângulo", "series": [["66x10", "56x4"], ["66x8", "56x5"], ["66x8", "56x5"]]},
+    {"nome": "Remada unilateral com halter", "series": [["30x10"], ["30x9"], ["30x9"]]},
+    {"nome": "Tríceps mergulho", "series": [["20x10"], ["20x10"], ["20x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["45x10", "36x5"], ["54x10", "45x5"], ["54x9", "45x4"]]},
+    {"nome": "Tríceps francês halter", "series": [["20x9"], ["20x10"], ["20x10"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x8"], ["23x9"]]}
+]
+},
+
+{
+"data": "2/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["10x20"], ["10x20"], ["10x20"]]},
+    {"nome": "Voador (banco aparecendo 3)", "series": [["66x20", "52x5"], ["73x19", "59x5"], ["73x15", "59x5"], ["73x15", "59x5"]]},
+    {"nome": "Supino reto com halter", "series": [["20x19", "16x5"], ["20x18", "16x5"], ["20x18", "16x5"], ["20x18", "16x5"]]},
+    {"nome": "Supino inclinado halter", "series": [["18x17", "14x5"], ["18x16", "14x5"], ["18x16", "14x5"], ["18x14", "14x5"]]},
+    {"nome": "Supino Máquina", "series": [["38x19", "32x5"], ["38x19", "32x5"], ["38x18", "32x5"], ["38x18", "32x5"]]},
+    {"nome": "Elevação lateral", "series": [["10x20", "8x5"], ["10x20", "8x5"], ["10x19", "8x5"], ["10x18", "8x5"]]},
+    {"nome": "Crucifixo abdutor banco", "series": [["8x16", "7x5"], ["8x17", "7x5"], ["8x15", "7x5"]]}
+]
+},
+
+{
+"data": "4/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Desenvolvimento Arnold", "series": [["10x20", "8x5"], ["10x20", "8x5"], ["10x20", "8x5"], ["10x20", "8x5"]]},
+    {"nome": "Desenvolvimento máquina", "series": [["27x20", "23x5"], ["27x20", "23x5"], ["27x20", "23x5"], ["27x20", "23x5"]]},
+    {"nome": "Crucifixo sentado inverso", "series": [["10x10", "8x5"], ["10x10", "8x5"], ["10x10", "8x5"]]},
+    {"nome": "Desenvolvimento barra", "series": [["38x10", "30x5"], ["38x10", "30x5"], ["38x10", "30x5"]]},
+    {"nome": "Crucifixo inverso peck", "series": [["73x10", "59x5"], ["73x10", "59x5"], ["73x10", "59x5"]]},
+    {"nome": "Rotação externa ombro", "series": [["11x10"], ["11x10"], ["11x10"]]},
+    {"nome": "Lateral Cross", "series": [["11x10"], ["11x9"], ["11x8"]]}
+]
+},
+
+{
+"data": "5/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "20"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "17x5"], ["21.6x10", "17x5"], ["21.6x9", "17x5"]]},
+    {"nome": "Supino reto (hack)", "series": [["65x10", "50x5"], ["70x8", "50x5"], ["70x9", "50x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["70x9", "50x5"], ["70x8", "50x5"], ["70x7", "50x5"]]},
+    {"nome": "Supino Máquina", "series": [["50x8", "41x5"], ["50x10", "41x5"], ["54x10", "45x5"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["59x10", "50x5"], ["59x10", "50x5"], ["59x10", "50x5"]]},
+    {"nome": "Supino inclinado com halter", "series": [["22x10", "18x5"], ["22x10", "18x5"], ["22x10", "18x5"]]},
+    {"nome": "Bíceps pulley corda", "series": [["47x10", "41x5"], ["41x10", "32x5"], ["41x10", "32x5"]]},
+    {"nome": "Rosca 45", "series": [["12x10", "10x5"], ["12x9", "10x5"], ["12x9", "10x4"]]},
+    {"nome": "Concentrado", "series": [["12x9", "8x5"], ["12x7", "8x4"], ["12x7", "8x5"]]}
+]
+},
+
+{
+"data": "6/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Cadeira Flexora", "series": [["37x10", "30x5"], ["38x10", "32x5"], ["37x8", "32x5"]]},
+    {"nome": "Stiff", "series": [["70x10", "46x5"], ["70x8", "46x5"], ["70x7", "46x5"]]},
+    {"nome": "Mesa Flexora", "series": [["59x9", "50x5"], ["59x8", "50x5"], ["54x8", "50x3"]]},
+    {"nome": "Búlgaro", "series": [["16x8"], ["16x9"], ["16x10"]]},
+    {"nome": "Leg Press", "series": [["240x9"], ["240x10"], ["240x10"]]},
+    {"nome": "Gêmeos sentado", "series": [["50x10"], ["55x10"], ["55x10"]]},
+    {"nome": "Abdominal crunch", "series": [["59x10"], ["59x10"], ["59x10"]]}
+]
+},
+
+{
+"data": "8/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["57.5x10", "40x5"], ["57.5x8", "40x5"], ["57.5x8", "45x5"]]},
+    {"nome": "Remada na máquina", "series": [["68x10", "54x5"], ["68x10", "54x5"], ["68x10", "54x5"]]},
+    {"nome": "Pulldown máquina", "series": [["72x10", "59x5"], ["72x10", "59x5"], ["72x9", "59x5"]]},
+    {"nome": "Puxada triângulo", "series": [["66x10", "56x4"], ["66x8", "56x5"], ["66x8", "56x5"]]},
+    {"nome": "Remada unilateral com halter", "series": [["30x10"], ["30x10"], ["30x10"]]},
+    {"nome": "Tríceps mergulho", "series": [["20x10"], ["20x10"], ["20x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["56x10", "45x5"], ["54x10", "45x5"], ["54x9", "45x5"]]},
+    {"nome": "Tríceps francês halter", "series": [["20x10"], ["20x9"], ["20x10"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x7"], ["23x9"]]}
+]
+},
+
+{
+"data": "9/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["10x15"], ["20x10"], ["20x10"]]},
+    {"nome": "Voador (banco aparecendo 3)", "series": [["73x10", "59x5"], ["73x18", "59x5"], ["73x16", "59x5"], ["73x15", "59x5"]]},
+    {"nome": "Supino inclinado com halter", "series": [["20x19", "16x5"], ["20x15", "16x5"], ["20x15", "16x5"], ["20x18", "16x5"]]},
+    {"nome": "Supino reto halter", "series": [["20x18", "16x5"], ["20x15", "16x5"], ["20x14", "16x5"], ["18x14", "14x5"]]},
+    {"nome": "Supino máquina", "series": [["41x18", "27x5"], ["38x19", "32x5"], ["38x18", "32x5"], ["38x18", "32x5"]]}
+]
+},
+
+{
+"data": "11/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Elevação lateral", "series": [["10x20", "8x5"], ["10x20", "8x5"], ["10x20", "8x5"], ["10x20", "8x5"]]},
+    {"nome": "Desenvolvimento Arnold", "series": [["12x17", "8x5"], ["12x15", "8x5"], ["10x20", "8x5"], ["10x20", "8x5"]]},
+    {"nome": "Desenvolvimento máquina", "series": [["29x20", "24x5"], ["29x20", "24x5"], ["29x18", "24x5"], ["29x20", "24x5"]]},
+    {"nome": "Crucifixo sentado inverso", "series": [["10x10", "8x5"], ["12x8", "8x5"], ["10x10", "8x5"]]},
+    {"nome": "Desenvolvimento barra", "series": [["40x8", "26x5"], ["40x7", "26x5"], ["38x7", "26x5"]]},
+    {"nome": "Crucifixo inverso peck", "series": [["79x8", "66x5"], ["79x9", "66x5"], ["79x8", "66x5"]]},
+    {"nome": "Rotação externa ombro", "series": [["11x10"], ["11x10"], ["11x10"]]},
+    {"nome": "Lateral Cross", "series": [["11x7"], ["9x10"], ["9x9"]]}
+]
+},
+
+{
+"data": "12/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "12.5x5"], ["21.6x10", "12.5x5"], ["21.6x10", "12.5x5"], ["21.6x9", "12.5x5"]]},
+    {"nome": "Supino reto (hack)", "series": [["75x8", "55x5"], ["75x8", "55x5"], ["75x7", "55x5"], ["75x6", "55x5"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["60x8", "50x5"], ["60x6", "50x5"], ["60x7", "50x5"], ["60x6", "50x5"]]},
+    {"nome": "Supino Máquina", "series": [["54x8", "45x5"], ["54x7", "45x5"], ["54x8", "45x5"], ["54x8", "45x5"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["61x8", "52x5"], ["61x8", "52x5"], ["61x8", "52x5"], ["61x8", "52x4"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x8", "12x10"], ["24x7", "12x10"], ["24x8", "12x10"], ["24x7", "12x9"]]},
+    {"nome": "Bíceps pulley corda", "series": [["41x8", "20x10"], ["32x8", "18x10"], ["32x10", "18x10"], ["36x10", "18x10"]]},
+    {"nome": "Rosca 45", "series": [["14x7", "7x10"], ["14x7", "7x8"], ["14x6", "7x8"], ["14x5", "7x8"]]},
+    {"nome": "Concentrado", "series": [["12x6", "6x10"], ["10x8", "6x8"], ["10x8", "6x8"]]}
+]
+},
+
+{
+"data": "13/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Cadeira Flexora segurando", "series": [["36x8", "18x10"], ["38x8", "19x8"], ["38x7", "18x8"], ["38x8", "18x8"]]},
+    {"nome": "Stiff", "series": [["60x8", "30x8"], ["70x8", "30x10"], ["70x8", "30x10"], ["70x7"]]},
+    {"nome": "Mesa Flexora", "series": [["60x8", "30x10"], ["60x8", "30x10"], ["60x7", "30x10"], ["60x6", "30x10"]]},
+    {"nome": "Búlgaro", "series": [["18x7"], ["16x9"], ["16x10"]]},
+    {"nome": "Leg Press", "series": [["260x8"], ["300x7"], ["300x8"], ["300x8"]]},
+    {"nome": "Gêmeos sentado", "series": [["60x8"], ["80x8"], ["70x8"], ["70x8"]]},
+    {"nome": "Abdominal crunch", "series": [["63x10", "36x10"], ["63x8", "30x10"], ["63x10", "36x10"]]}
+]
+},
+
+{
+"data": "14/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "18"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["60x8", "30x10"], ["60x8", "30x10"], ["60x6", "30x8"], ["60x6", "30x8"]]},
+    {"nome": "Remada na máquina", "series": [["81x8", "41x10"], ["81x7", "41x9"], ["84x8", "41x10"], ["81x7", "41x10"]]},
+    {"nome": "Pulldown máquina", "series": [["77x7", "36x10"], ["77x8", "36x10"], ["77x8", "36x10"], ["77x8", "36x10"]]},
+    {"nome": "Puxada triângulo", "series": [["68x8", "39x10"], ["68x8", "39x10"], ["68x7", "39x10"], ["68x6", "39x10"]]},
+    {"nome": "Remada unilateral com halter", "series": [["34x6"], ["32x8"], ["32x8"]]},
+    {"nome": "Tríceps mergulho", "series": [["25x8"], ["25x10"], ["25x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["59x8", "27x10"], ["59x8", "27x10"], ["59x7", "27x9"], ["59x7", "27x9"]]},
+    {"nome": "Tríceps francês halter", "series": [["22x8"], ["22x8"], ["22x7"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x7"], ["23x8"]]},
+    {"nome": "Abdominal bicicleta", "series": [["12"], ["18"], ["18"]]}
+]
+},
+
+{
+"data": "15/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "16"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["20x11"], ["20x11"], ["20x11"]]},
+    {"nome": "Voador (banco aparecendo 3)", "series": [["86x10", "45x10"], ["86x10", "45x10"], ["86x9", "45x9"]]},
+    {"nome": "Supino reto halter", "series": [["24x10", "12x10"], ["26x10", "12x10"], ["28x10", "12x10"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x10", "12x10"], ["24x10", "12x10"], ["24x9", "12x9"]]},
+    {"nome": "Supino máquina", "series": [["59x10", "27x10"], ["59x8", "27x10"], ["59x9", "27x9"]]},
+    {"nome": "Elevação lateral", "series": [["16x9", "8x10"], ["16x8", "8x8"], ["16x9", "8x10"]]},
+    {"nome": "Crucifixo abdutor banco", "series": [["10x10", "8x10"], ["10x10", "8x8"], ["10x10", "8x8"]]}
+]
+},
+
+{
+"data": "18/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "17"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["23.8x8", "12.5x10"], ["21.6x8", "12.5x10"], ["21.6x8", "12.5x10"], ["21.6x8", "12.5x10"]]},
+    {"nome": "Supino reto (hack)", "series": [["75x8", "45x10"], ["75x8", "45x10"], ["75x8", "45x10"], ["75x7", "45x10"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["60x8", "40x10"], ["60x8", "40x10"], ["60x7", "40x10"], ["60x7", "40x10"]]},
+    {"nome": "Supino Máquina", "series": [["56x8", "28x10"], ["56x8", "28x10"], ["56x7", "28x10"], ["56x7", "28x10"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["63x8", "32x10"], ["63x8", "32x10"], ["63x7", "32x10"], ["63x7", "32x9"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x8", "12x10"], ["24x8", "12x10"], ["24x8", "12x10"], ["24x7", "12x10"]]},
+    {"nome": "Bíceps pulley corda", "series": [["41x8", "23x10"], ["41x8", "23x10"], ["41x8", "23x10"], ["41x8", "23x10"]]},
+    {"nome": "Rosca 45", "series": [["14x8", "7x9"], ["14x8", "7x10"], ["14x6", "7x10"], ["14x6", "7x9"]]},
+    {"nome": "Concentrado", "series": [["12x7", "6x10"], ["12x6", "6x10"], ["12x6", "6x9"]]}
+]
+},
+
+{
+"data": "19/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Cadeira Flexora segurando", "series": [["37x8", "18x10"], ["37x8", "18x10"], ["37x8", "18x10"], ["38x8", "18x10"]]},
+    {"nome": "Stiff", "series": [["70x8", "30x8"], ["70x8", "30x10"], ["75x7", "30x5"], ["75x6", "30x8"]]},
+    {"nome": "Mesa Flexora", "series": [["60x8", "30x10"], ["62x8", "32x10"], ["62x7", "32x10"], ["62x7"]]},
+    {"nome": "Búlgaro", "series": [["18x8"], ["18x8"], ["18x7"]]},
+    {"nome": "Leg Press", "series": [["260x8"], ["300x8"], ["300x8"], ["300x8"]]},
+    {"nome": "Gêmeos sentado", "series": [["60x8"], ["80x8"], ["70x8"], ["70x8"]]},
+    {"nome": "Hack", "series": [["100x8"], ["100x10"], ["110x8"]]},
+    {"nome": "Abdominal crunch", "series": [["65x8", "34x10"], ["63x8", "34x10"], ["63x8", "34x10"]]}
+]
+},
+
+{
+"data": "21/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["60x8", "30x10"], ["60x8", "30x10"], ["60x7", "30x10"], ["60x7", "30x10"]]},
+    {"nome": "Remada na máquina", "series": [["81x7", "41x10"], ["81x7", "41x10"], ["84x8", "41x10"], ["81x7", "41x10"]]},
+    {"nome": "Pulldown máquina", "series": [["77x7", "36x10"], ["77x6", "36x10"], ["77x7", "36x10"], ["77x6", "36x10"]]},
+    {"nome": "Puxada triângulo", "series": [["68x7x34x10"], ["68x6", "39x10"], ["68x6", "34x10"], ["68x6", "39x10"]]},
+    {"nome": "Remada unilateral com halter", "series": [["32x7"], ["32x8"], ["32x8"]]},
+    {"nome": "Tríceps mergulho", "series": [["25x10"], ["25x10"], ["25x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["61x8", "32x10"], ["61x8", "34x10"], ["61x8", "32x10"], ["61x7", "32x10"]]},
+    {"nome": "Tríceps francês halter", "series": [["22x8"], ["22x8"], ["22x7"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x7"], ["23x8"]]},
+    {"nome": "Abdominal bicicleta", "series": [["12"], ["18"], ["18"]]}
+    
+]
+},
+
+{
+"data": "22/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["20x12"], ["20x12"], ["20x12"]]},
+    {"nome": "Voador (banco aparecendo 3)", "series": [["93x10", "45x10"], ["93x10", "45x10"], ["100x9", "52x10"]]},
+    {"nome": "Supino reto halter", "series": [["30x7", "14x10"], ["28x10", "14x10"], ["28x9", "14x10"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x10", "12x10"], ["24x10", "12x10"], ["24x9", "12x10"]]},
+    {"nome": "Supino máquina", "series": [["59x9", "32x10"], ["59x8", "32x10"], ["59x7", "32x10"]]},
+    {"nome": "Elevação lateral", "series": [["16x10", "8x9"], ["16x9", "8x10"], ["16x10", "8x10"]]},
+    {"nome": "Crucifixo abdutor banco", "series": [["10x10", "8x7"], ["10x10", "8x7"], ["10x10", "8x8"]]},
+    {"nome": "Desenvolvimento Arnold", "series": [["14x9", "7x9"], ["14x10", "7x8"], ["14x10", "7x8"]]},
+    {"nome": "Desenvolvimento Máquina", "series": [["36x10", "18x10"], ["42x10", "23x10"], ["42x10", "23x10"]]}
+]
+},
+
+{
+"data": "29/12/2023",
+"cardio": [{"tipo": "Bike", "tempo": "16"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "10.2x10"], ["21.6x10", "10.2x10"], ["21.6x9", "10.2x10"], ["21.6x9", "10.2x10"]]},
+    {"nome": "Supino reto (hack)", "series": [["80x7", "50x10"], ["80x8", "50x10"], ["80x7", "50x10"], ["80x7", "50x10"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["60x8", "40x10"], ["60x8", "40x10"], ["65x6", "40x10"], ["65x5", "40x10"]]},
+    {"nome": "Supino Máquina", "series": [["56x8", "28x10"], ["56x8", "28x10"], ["56x10", "28x10"], ["59x7", "30x10"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["63x8"], ["63x8"], ["63x8"], ["63x8"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x9", "12x10"], ["24x9", "12x8"], ["24x9", "12x10"], ["24x9", "12x10"]]},
+    {"nome": "Bíceps pulley corda", "series": [["41x10", "23x10"], ["41x10", "23x10"], ["43x8", "25x10"], ["43x8", "25x10"]]},
+    {"nome": "Rosca 45", "series": [["14x8", "7x8"], ["14x7", "7x9"], ["14x7", "7x10"], ["14x6", "7x9"]]},
+    {"nome": "Concentrado", "series": [["12x7", "6x10"], ["12x6", "6x10"], ["12x6", "6x9"]]}
+]
+},
+
+{
+"data": "31/12/2023",
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["60x8", "30x10"], ["60x8", "30x10"], ["60x8", "30x10"], ["60x8", "30x10"]]},
+    {"nome": "Remada na máquina", "series": [["81x7", "41x10"], ["81x7", "41x9"], ["81x7", "41x10"], ["81x7", "41x10"]]},
+    {"nome": "Pulldown máquina", "series": [["77x7", "41x10"], ["77x7", "41x10"], ["77x8", "36x10"], ["77x8", "36x10"]]},
+    {"nome": "Puxada triângulo", "series": [["68x8", "39x10"], ["68x8", "39x10"], ["68x7", "39x10"], ["68x7", "39x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["59x8", "29x10"], ["59x8", "29x10"], ["59x8", "29x10"], ["59x7", "27x9"]]},
+    {"nome": "Tríceps francês halter", "series": [["22x8"], ["22x8"], ["22x7"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x7"], ["23x7"]]}
+]
+},
+
+{
+"data": "01/01/2024",
+"exercicios": [
+    {"nome": "Elevação lateral", "series": [["16x10", "8x9"], ["16x9", "8x10"], ["16x9", "8x9"]]},
+    {"nome": "Desenvolvimento máquina", "series": [["45x10", "23x10"], ["45x10", "23x9"], ["45x10", "23x10"]]},
+    {"nome": "Desenvolvimento barra", "series": [["40x8", "26x5"], ["40x7", "26x5"], ["38x7", "26x5"]]},
+    {"nome": "Crucifixo inverso peck", "series": [["79x8"], ["79x8"], ["79x8"]]}
+]
+},
+
+{
+"data": "02/01/2024",
+"cardio": [{"tipo": "Bike", "tempo": "15"}],
+"exercicios": [
+    {"nome": "Crucifixo Adutor na Polia", "series": [["21.6x10", "10.2x10"], ["21.6x10", "10.2x10"], ["21.6x10", "10.2x10"], ["21.6x9", "10.2x10"]]},
+    {"nome": "Supino reto (hack)", "series": [["80x6", "50x10"], ["75x7", "50x10"], ["75x6", "50x9"], ["75x6", "50x10"]]},
+    {"nome": "Supino inclinado (hack)", "series": [["60x6", "40x10"], ["60x6", "40x10"], ["55x6", "40x10"], ["55x5", "40x10"]]},
+    {"nome": "Supino Máquina", "series": [["57x7", "28x10"], ["57x8", "27x10"], ["57x7", "30x10"], ["57x8", "30x10"]]},
+    {"nome": "Bíceps Curl Machine", "series": [["65x8", "32x10"], ["65x8", "32x10"], ["65x8", "32x10"], ["65x8", "32x10"]]},
+    {"nome": "Supino inclinado com halter", "series": [["24x7", "12x10"], ["24x6", "12x8"], ["24x6", "12x9"], ["24x6", "12x8"]]},
+    {"nome": "Bíceps pulley corda", "series": [["43x9", "25x10"], ["43x8", "25x10"], ["43x8", "25x10"], ["43x8", "25x10"]]},
+    {"nome": "Rosca 45", "series": [["12x8", "6x8"], ["12x8", "6x9"], ["12x8", "6x8"], ["12x8", "6x9"]]},
+    {"nome": "Concentrado", "series": [["12x6", "6x10"], ["12x6", "6x10"], ["12x6", "6x9"]]}
+]
+},
+
+{
+"data": "03/01/2024",
+"exercicios": [
+    {"nome": "Cadeira Flexora segurando", "series": [["38x8", "19x9"], ["38x8", "19x9"], ["38x8", "19x10"], ["38x6"]]},
+    {"nome": "Stiff", "series": [["70x8"], ["70x8"], ["70x8"], ["70x8"]]},
+    {"nome": "Mesa Flexora", "series": [["60x8", "30x10"], ["60x8", "30x10"], ["60x7", "30x10"], ["60x5"]]},
+    {"nome": "Búlgaro", "series": [["18x8"], ["18x8"], ["18x7"]]},
+    {"nome": "Hack", "series": [["80x10"], ["100x8"], ["100x8"]]},
+    {"nome": "Abdominal crunch", "series": [["65x8", "34x10"], ["65x8", "34x10"], ["65x8", "34x10"]]}
+]
+},
+
+{
+"data": "05/01/2024",
+"cardio": [{"tipo": "Bike", "tempo": "16"}],
+"exercicios": [
+    {"nome": "Remada cavalinho", "series": [["65x8", "30x10"], ["65x8", "30x10"], ["65x7", "30x10"], ["65x8", "30x10"]]},
+    {"nome": "Remada na máquina", "series": [["81x7", "41x10"], ["81x7", "41x9"], ["81x7", "41x10"], ["81x6", "41x8"]]},
+    {"nome": "Pulldown máquina", "series": [["77x7", "41x10"], ["77x7", "41x10"], ["77x8", "36x10"], ["77x8", "36x10"]]},
+    {"nome": "Puxada triângulo", "series": [["68x8", "36x10"], ["70x6", "39x10"], ["68x7", "39x10"], ["68x7", "39x10"]]},
+    {"nome": "Tríceps barra Cross", "series": [["59x9", "32x10"], ["61x8", "32x10"], ["61x8", "32x10"], ["61x8", "32x10"]]},
+    {"nome": "Tríceps francês halter", "series": [["22x8"], ["22x8"], ["22x7"]]},
+    {"nome": "Tríceps francês Cross", "series": [["23x8"], ["23x7"], ["23x7"]]}
+]
+},
+
+{
+"data": "06/01/2024",
+"cardio": [{"tipo": "Bike", "tempo": "16"}],
+"exercicios": [
+    {"nome": "Abdominal crossfit com anilha", "series": [["20x15"], ["20x14"], ["20x13"]]},
+    {"nome": "Voador (banco aparecendo 3)", "series": [["100x10", "52x10"], ["107x8", "52x10"], ["107x7", "52x10"]]},
+    {"nome": "Supino reto halter", "series": [["30x7", "16x8"], ["30x6", "16x8"], ["30x6", "16x8"]]},
+    {"nome": "Supino inclinado com halter", "series": [["26x7", "14x7"], ["26x7", "14x10"], ["26x7", "14x10"]]},
+    {"nome": "Supino máquina", "series": [["59x7", "32x9"], ["59x8", "32x9"], ["59x7", "32x10"]]}
+    
+]
+}]
